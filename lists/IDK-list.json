@@ -1,0 +1,2281 @@
+﻿[
+    {
+        "card_name": "Ial N\u00f3taal, Godsire of Unity",
+        "number": 19,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "277"
+    },
+    {
+        "card_name": "Ial Enm\u00edka, Godsire of Stability",
+        "number": 59,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "278"
+    },
+    {
+        "card_name": "Dihada, Scourge of the Past",
+        "number": 98,
+        "shape": "planeswalker",
+        "set": "IDK",
+        "position": "312"
+    },
+    {
+        "card_name": "Ial Ar\u00f3ita, Godsire of Purity",
+        "number": 138,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "276"
+    },
+    {
+        "card_name": "Ial On\u00edraa, Godsire of Harmony",
+        "number": 176,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "274"
+    },
+    {
+        "card_name": "MW02 Kafri, Forged Anew",
+        "number": 20,
+        "shape": "planeswalker",
+        "set": "IDK",
+        "position": "257"
+    },
+    {
+        "card_name": "MU02 Archive Counting Crow",
+        "number": 60,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "299"
+    },
+    {
+        "card_name": "Ial K\u00f3ltia, Godsire of Vitality",
+        "number": 100,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "275"
+    },
+    {
+        "card_name": "MR02 Brutal Resurger Chief",
+        "number": 139,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "163"
+    },
+    {
+        "card_name": "MG02 Expedition Leader",
+        "number": 177,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "279"
+    },
+    {
+        "card_name": "MW02 Terlaa, Sheltering Aspect",
+        "number": 22,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "302"
+    },
+    {
+        "card_name": "RU01 Ial Enm\u00edka's Awakening",
+        "number": 61,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "264"
+    },
+    {
+        "card_name": "MB02 Warcaver Elite",
+        "number": 101,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "162"
+    },
+    {
+        "card_name": "RR01 Ial Ar\u00f3ita's Awakening",
+        "number": 140,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "152"
+    },
+    {
+        "card_name": "RG01 Ial On\u00edraa's Awakening",
+        "number": 178,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "157"
+    },
+    {
+        "card_name": "RW01 Ial N\u00f3taal's Awakening",
+        "number": 23,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "265"
+    },
+    {
+        "card_name": "RU02 Fragment of Enm\u00edka",
+        "number": 62,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "140"
+    },
+    {
+        "card_name": "RB01 Ial K\u00f3ltia's Awakening",
+        "number": 102,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "147"
+    },
+    {
+        "card_name": "RR02 Horn of Ar\u00f3ita",
+        "number": 141,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "151"
+    },
+    {
+        "card_name": "RG02 Shard of On\u00edraa",
+        "number": 179,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "156"
+    },
+    {
+        "card_name": "RW02 Fragment of N\u00f3taal",
+        "number": 24,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "136"
+    },
+    {
+        "card_name": "RU03 Sarvva, Arbiter of Futures",
+        "number": 63,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "262"
+    },
+    {
+        "card_name": "RB02 Cloth of K\u00f3ltia",
+        "number": 103,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "149"
+    },
+    {
+        "card_name": "RR03 Hal'kar, Ravenous Gearwurm",
+        "number": 142,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "289"
+    },
+    {
+        "card_name": "RG03 Kaliya, Seasoned Explorer",
+        "number": 180,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "159"
+    },
+    {
+        "card_name": "RW03 Elsar, Talwir Reclaimer",
+        "number": 25,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "185"
+    },
+    {
+        "card_name": "RU04 Vak'il, the Conspirator",
+        "number": 64,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "261"
+    },
+    {
+        "card_name": "RB03 Harel, Underclawed Dealer",
+        "number": 104,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "148"
+    },
+    {
+        "card_name": "RR04 Valonar, Gritmettle's Flame",
+        "number": 143,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "154"
+    },
+    {
+        "card_name": "RG04 Vash'nir of the Old Guard",
+        "number": 181,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "158"
+    },
+    {
+        "card_name": "RW04 Edevic, Arbiter of Presents",
+        "number": 26,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "266"
+    },
+    {
+        "card_name": "RU05 Sollos, Recovering Aspect",
+        "number": 65,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "141"
+    },
+    {
+        "card_name": "RB04 Obselva, Arbiter of Pasts",
+        "number": 105,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "263"
+    },
+    {
+        "card_name": "RR05 Ralik, Treasury Warden",
+        "number": 144,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "153"
+    },
+    {
+        "card_name": "RG05 Brutus, Scraphound Alpha",
+        "number": 182,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "294"
+    },
+    {
+        "card_name": "RW05 Hila, Ever-Ready Rescuer",
+        "number": 27,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "137"
+    },
+    {
+        "card_name": "UU01 Avidron, Diligent Scribe",
+        "number": 66,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "103"
+    },
+    {
+        "card_name": "RB05 Arkx, Scrap Recycler",
+        "number": 106,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "146"
+    },
+    {
+        "card_name": "UR01 Inspiring Scout",
+        "number": 145,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "119"
+    },
+    {
+        "card_name": "UG01 Dalawa, Nuturing Aspect",
+        "number": 183,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "128"
+    },
+    {
+        "card_name": "UW01 Methodical Elite",
+        "number": 28,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "87"
+    },
+    {
+        "card_name": "UU02 Infiltration Crustacean",
+        "number": 67,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "104"
+    },
+    {
+        "card_name": "UB01 Expendable Lackey",
+        "number": 107,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "107"
+    },
+    {
+        "card_name": "UR02 Drix, Artisanal Metalcrafter",
+        "number": 146,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "118"
+    },
+    {
+        "card_name": "UG02 Rejuvenating Aspcet",
+        "number": 184,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "129"
+    },
+    {
+        "card_name": "UW02 Gritmettle Martyr",
+        "number": 29,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "286"
+    },
+    {
+        "card_name": "UU03 Information Courier",
+        "number": 68,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "100"
+    },
+    {
+        "card_name": "UB02 Ovos, Mythkeeper Scribe",
+        "number": 108,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "108"
+    },
+    {
+        "card_name": "UR03 Warcaver Wayfinder",
+        "number": 147,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "121"
+    },
+    {
+        "card_name": "UG03 Scrapmongrel Resurgent",
+        "number": 185,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "293"
+    },
+    {
+        "card_name": "UW03 Viek, Surveillance Scout",
+        "number": 30,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "88"
+    },
+    {
+        "card_name": "UU04 Halm, Cavern-Ruins Delver",
+        "number": 69,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "102"
+    },
+    {
+        "card_name": "UB03 Resurgent Scavenger",
+        "number": 109,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "109"
+    },
+    {
+        "card_name": "UR04 Unstable Resurgent",
+        "number": 148,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "120"
+    },
+    {
+        "card_name": "UG04 Survery Corp Veteran",
+        "number": 186,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "130"
+    },
+    {
+        "card_name": "UW04 Talwir Enkindler",
+        "number": 31,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "91"
+    },
+    {
+        "card_name": "UU05 Warcaver Brigade",
+        "number": 70,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "258"
+    },
+    {
+        "card_name": "UB04 Cavendish, Rubble Overseer",
+        "number": 110,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "110"
+    },
+    {
+        "card_name": "UR05 Farron, the War-Herald",
+        "number": 149,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "122"
+    },
+    {
+        "card_name": "UG05 Haldren, Survey Guide",
+        "number": 187,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "131"
+    },
+    {
+        "card_name": "UW05 Records Keeper",
+        "number": 32,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "90"
+    },
+    {
+        "card_name": "UU06 Ivis, Revosh Subterfugist",
+        "number": 71,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "101"
+    },
+    {
+        "card_name": "UB05 Duskwing Crusader",
+        "number": 111,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "112"
+    },
+    {
+        "card_name": "UR06 Relik, Warcaver Commander",
+        "number": 150,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "123"
+    },
+    {
+        "card_name": "UG06 Reclamantion Sentinel",
+        "number": 188,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "132"
+    },
+    {
+        "card_name": "UW06 Devoted Revivalist",
+        "number": 33,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "89"
+    },
+    {
+        "card_name": "UU07 Talwir Ancient",
+        "number": 72,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "105"
+    },
+    {
+        "card_name": "UB06 Impassive Enforcer",
+        "number": 112,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "111"
+    },
+    {
+        "card_name": "UR07 Resurgent Gearwurm",
+        "number": 151,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "291"
+    },
+    {
+        "card_name": "UG07 Seige-Engine Resurgent",
+        "number": 189,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "292"
+    },
+    {
+        "card_name": "UW07 Shamar, Resolute Guardian",
+        "number": 34,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "92"
+    },
+    {
+        "card_name": "UU08 Talwir Researcher",
+        "number": 73,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "97"
+    },
+    {
+        "card_name": "UB07 Scrap Tinkerer",
+        "number": 113,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "115"
+    },
+    {
+        "card_name": "UR08 United Blaze",
+        "number": 152,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "124"
+    },
+    {
+        "card_name": "UG08 Barox, Salvager Specialist",
+        "number": 190,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "259"
+    },
+    {
+        "card_name": "UW08 Eula, Ardent Reconstructor",
+        "number": 35,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "93"
+    },
+    {
+        "card_name": "UU09 Counter Intel Agent",
+        "number": 74,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "145"
+    },
+    {
+        "card_name": "UB08 Immediate Termination",
+        "number": 114,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "114"
+    },
+    {
+        "card_name": "UR09 Shell Shock",
+        "number": 153,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "125"
+    },
+    {
+        "card_name": "UG09 Farseeker",
+        "number": 191,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "133"
+    },
+    {
+        "card_name": "UW09 Enforcer's Rebuke",
+        "number": 36,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "94"
+    },
+    {
+        "card_name": "UU10 Uncovered Truths",
+        "number": 75,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "99"
+    },
+    {
+        "card_name": "UB09 Viktor, Macabre Resurger",
+        "number": 115,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "113"
+    },
+    {
+        "card_name": "UR10 Scrap Compactor",
+        "number": 154,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "126"
+    },
+    {
+        "card_name": "UG10 Resonate",
+        "number": 192,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "134"
+    },
+    {
+        "card_name": "UW10 Expansionist's Forge",
+        "number": 37,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "95"
+    },
+    {
+        "card_name": "UU11 Reprimand",
+        "number": 76,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "106"
+    },
+    {
+        "card_name": "UB10 Insurance Policy",
+        "number": 116,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "116"
+    },
+    {
+        "card_name": "UR11 Overwhelming Presence",
+        "number": 155,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "127"
+    },
+    {
+        "card_name": "UG11 Life Beacon",
+        "number": 193,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "135"
+    },
+    {
+        "card_name": "UW11 Preservation",
+        "number": 38,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "96"
+    },
+    {
+        "card_name": "UU12 Echoing Well Drill",
+        "number": 77,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "239"
+    },
+    {
+        "card_name": "UB11 Emergency Resurge",
+        "number": 117,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "117"
+    },
+    {
+        "card_name": "UR12 Crash Out",
+        "number": 156,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "240"
+    },
+    {
+        "card_name": "UG12 Scrap for Parts",
+        "number": 194,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "242"
+    },
+    {
+        "card_name": "UW12 Empowered By Faith",
+        "number": 39,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "287"
+    },
+    {
+        "card_name": "UU13 The Shattering of Stability",
+        "number": 78,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "238"
+    },
+    {
+        "card_name": "UB12 Memory Wipe",
+        "number": 118,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "244"
+    },
+    {
+        "card_name": "UR13 The Extinguishing of Passions",
+        "number": 157,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "241"
+    },
+    {
+        "card_name": "UG13 The Sundering of Community",
+        "number": 195,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "243"
+    },
+    {
+        "card_name": "UW13 The Disruption of Balance",
+        "number": 40,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "237"
+    },
+    {
+        "card_name": "CU01 Delving Aspect",
+        "number": 41,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "17"
+    },
+    {
+        "card_name": "UB13 The Fracturing of Morals",
+        "number": 119,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "245"
+    },
+    {
+        "card_name": "CR01 Pebble Pusher",
+        "number": 120,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "52"
+    },
+    {
+        "card_name": "CG01 Andyir Cultivator",
+        "number": 158,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "69"
+    },
+    {
+        "card_name": "CW01 Ruin Falcon",
+        "number": 1,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "0"
+    },
+    {
+        "card_name": "CU02 Salvage Spotter",
+        "number": 42,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "18"
+    },
+    {
+        "card_name": "CB01 Tunnel Rat",
+        "number": 79,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "34"
+    },
+    {
+        "card_name": "CR02 Reckeless Resurgent",
+        "number": 121,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "51"
+    },
+    {
+        "card_name": "CG02 Scrapmutt Resurgent",
+        "number": 159,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "86"
+    },
+    {
+        "card_name": "CW02 Unity Talisman",
+        "number": 2,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "1"
+    },
+    {
+        "card_name": "CU03 Ruination Crustacean",
+        "number": 43,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "21"
+    },
+    {
+        "card_name": "CB02 Tome Tamperer",
+        "number": 80,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "36"
+    },
+    {
+        "card_name": "CR03 Gritmettle Devotee",
+        "number": 122,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "53"
+    },
+    {
+        "card_name": "CG03 Earth Aspect",
+        "number": 160,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "70"
+    },
+    {
+        "card_name": "CW03 Cleansing Aspect",
+        "number": 3,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "5"
+    },
+    {
+        "card_name": "CU04 Seasoned Scribe",
+        "number": 44,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "19"
+    },
+    {
+        "card_name": "CB03 Revosh Ensign",
+        "number": 81,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "35"
+    },
+    {
+        "card_name": "CR04 Scrounging Resurgent",
+        "number": 123,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "54"
+    },
+    {
+        "card_name": "CG04 Awakened Rubble",
+        "number": 161,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "72"
+    },
+    {
+        "card_name": "CW04 Precious Data",
+        "number": 4,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "3"
+    },
+    {
+        "card_name": "CU05 Talwir Restorationist",
+        "number": 45,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "20"
+    },
+    {
+        "card_name": "CB04 Salvage Worker",
+        "number": 82,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "212"
+    },
+    {
+        "card_name": "CR05 Invaluable Asset",
+        "number": 124,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "55"
+    },
+    {
+        "card_name": "CG05 Talwir Earth-Mover",
+        "number": 162,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "73"
+    },
+    {
+        "card_name": "CW05 Unearthing Aspect",
+        "number": 5,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "4"
+    },
+    {
+        "card_name": "CU06 Dedicated Organizer",
+        "number": 46,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "98"
+    },
+    {
+        "card_name": "CB05 Emancipation Grid",
+        "number": 83,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "37"
+    },
+    {
+        "card_name": "CR06 Enduring Wanderer",
+        "number": 125,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "56"
+    },
+    {
+        "card_name": "CG06 Excavation Overseer",
+        "number": 163,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "80"
+    },
+    {
+        "card_name": "CW06 Talweir Apprentice",
+        "number": 6,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "2"
+    },
+    {
+        "card_name": "CU07 Warcaver Strike Leader",
+        "number": 47,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "22"
+    },
+    {
+        "card_name": "CB06 Warcaver Lieutenant",
+        "number": 84,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "38"
+    },
+    {
+        "card_name": "CR07 Rembrant Incinerator",
+        "number": 126,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "57"
+    },
+    {
+        "card_name": "CG07 Virulent Resurgent",
+        "number": 164,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "75"
+    },
+    {
+        "card_name": "CW07 Andyir Overwatch",
+        "number": 7,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "285"
+    },
+    {
+        "card_name": "CU08 Guardian of History",
+        "number": 48,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "23"
+    },
+    {
+        "card_name": "CB07 Painful Reminder",
+        "number": 85,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "44"
+    },
+    {
+        "card_name": "CR08 Artillery Sheller",
+        "number": 127,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "58"
+    },
+    {
+        "card_name": "CG08 Gritmettle Aggressor",
+        "number": 165,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "76"
+    },
+    {
+        "card_name": "CW08 Knowledge Caretaker",
+        "number": 8,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "6"
+    },
+    {
+        "card_name": "CU09 Cavern-Dweller Octopus",
+        "number": 49,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "24"
+    },
+    {
+        "card_name": "CB08 Scrapdigger",
+        "number": 86,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "40"
+    },
+    {
+        "card_name": "CR09 Desperate Resurger",
+        "number": 128,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "59"
+    },
+    {
+        "card_name": "CG09 Rembrant Vanguard",
+        "number": 166,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "77"
+    },
+    {
+        "card_name": "CW09 Rembrant Convoy",
+        "number": 9,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "7"
+    },
+    {
+        "card_name": "CU10 Rewrite History",
+        "number": 50,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "25"
+    },
+    {
+        "card_name": "CB09 Resurgent Colossus",
+        "number": 87,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "41"
+    },
+    {
+        "card_name": "CR10 Purity Talisman",
+        "number": 129,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "60"
+    },
+    {
+        "card_name": "CG10 Harrowing Resurgent",
+        "number": 167,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "78"
+    },
+    {
+        "card_name": "CW10 Talwir Reforger",
+        "number": 10,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "8"
+    },
+    {
+        "card_name": "CU11 Product Delay",
+        "number": 51,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "26"
+    },
+    {
+        "card_name": "CB10 Rembrant Prowler",
+        "number": 88,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "39"
+    },
+    {
+        "card_name": "CR11 Scrap Surge",
+        "number": 130,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "61"
+    },
+    {
+        "card_name": "CG11 Rapid Ambush",
+        "number": 168,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "79"
+    },
+    {
+        "card_name": "CW11 Stalwart Arbitrator",
+        "number": 11,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "9"
+    },
+    {
+        "card_name": "CU12 Supression Bands",
+        "number": 52,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "27"
+    },
+    {
+        "card_name": "CB11 Death Metal",
+        "number": 89,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "43"
+    },
+    {
+        "card_name": "CR12 Under Contract",
+        "number": 131,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "62"
+    },
+    {
+        "card_name": "CG12 Harmony Talisman",
+        "number": 169,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "85"
+    },
+    {
+        "card_name": "CW12 Reconstruct",
+        "number": 12,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "10"
+    },
+    {
+        "card_name": "CU13 Keeping Time",
+        "number": 53,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "28"
+    },
+    {
+        "card_name": "CB12 Intentional Accident",
+        "number": 90,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "42"
+    },
+    {
+        "card_name": "CR13 Triumphant Charge",
+        "number": 132,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "63"
+    },
+    {
+        "card_name": "CG13 Protect the Past",
+        "number": 170,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "81"
+    },
+    {
+        "card_name": "CW13 United Front",
+        "number": 13,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "11"
+    },
+    {
+        "card_name": "CU14 Serenity Talisman",
+        "number": 54,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "29"
+    },
+    {
+        "card_name": "CB13 Contract Killer",
+        "number": 91,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "45"
+    },
+    {
+        "card_name": "CR14 Peddler of Antiquities",
+        "number": 133,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "64"
+    },
+    {
+        "card_name": "CG14 Survey Corp Explorer",
+        "number": 171,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "71"
+    },
+    {
+        "card_name": "CW14 Detainment Protocol",
+        "number": 14,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "12"
+    },
+    {
+        "card_name": "CU15 Time Dilation",
+        "number": 55,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "30"
+    },
+    {
+        "card_name": "CB14 Tunnel Visions",
+        "number": 92,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "46"
+    },
+    {
+        "card_name": "CR15 Gritmettle's Fury",
+        "number": 134,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "65"
+    },
+    {
+        "card_name": "CG15 Gritmettle's Blessing",
+        "number": 172,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "83"
+    },
+    {
+        "card_name": "CW15 Respirator Suit",
+        "number": 15,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "13"
+    },
+    {
+        "card_name": "CU16 Subterranean Infiltration",
+        "number": 56,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "31"
+    },
+    {
+        "card_name": "CB15 Vitality Talisman",
+        "number": 93,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "47"
+    },
+    {
+        "card_name": "CR16 Overdrive",
+        "number": 135,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "66"
+    },
+    {
+        "card_name": "CG16 Sky Shatter",
+        "number": 173,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "84"
+    },
+    {
+        "card_name": "CW16 Gritemettle's Resolve",
+        "number": 16,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "14"
+    },
+    {
+        "card_name": "CU17 Emergency Clamp",
+        "number": 57,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "32"
+    },
+    {
+        "card_name": "CB16 Irrelevant Information",
+        "number": 94,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "48"
+    },
+    {
+        "card_name": "CR17 Defiant Wurmling",
+        "number": 136,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "67"
+    },
+    {
+        "card_name": "CG17 Territory Surveyor",
+        "number": 174,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "74"
+    },
+    {
+        "card_name": "CW17 Ruin Deconstructor",
+        "number": 17,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "15"
+    },
+    {
+        "card_name": "CU18 Rembrant Voyager",
+        "number": 58,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "33"
+    },
+    {
+        "card_name": "CB17 Shelling Up",
+        "number": 95,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "49"
+    },
+    {
+        "card_name": "CR18 Resurge",
+        "number": 137,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "68"
+    },
+    {
+        "card_name": "CG18 Rust Beast",
+        "number": 175,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "82"
+    },
+    {
+        "card_name": "CW18 Forgotten by History",
+        "number": 18,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "16"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CB18 Resurger Engineer",
+        "number": 96,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "50"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "RX01 Supression of Truth",
+        "number": 208,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "142"
+    },
+    {
+        "card_name": "RX02 Stripmine Bore",
+        "number": 209,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "184"
+    },
+    {
+        "card_name": "RX03 Colossal Gearwurm",
+        "number": 210,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "288"
+    },
+    {
+        "card_name": "RX04 Gritmettle's Fervor",
+        "number": 211,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "139"
+    },
+    {
+        "card_name": "RX05 Kafri, the Reclaimer",
+        "number": 212,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "267"
+    },
+    {
+        "card_name": "UX01 Duplication Aspect",
+        "number": 233,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "260"
+    },
+    {
+        "card_name": "UX03 Scornful Flightless",
+        "number": 235,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "199"
+    },
+    {
+        "card_name": "UX05 Revosh Pocket-Liner",
+        "number": 237,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "183"
+    },
+    {
+        "card_name": "UX07 Salvage Vendor",
+        "number": 239,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "230"
+    },
+    {
+        "card_name": "UX09 Recruit Mentor",
+        "number": 241,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "223"
+    },
+    {
+        "card_name": "UX02 Peaceful Strix",
+        "number": 234,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "177"
+    },
+    {
+        "card_name": "UX04 Insightful Excavation",
+        "number": 236,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "201"
+    },
+    {
+        "card_name": "UX06 Resurger Salvage Rig",
+        "number": 238,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "200"
+    },
+    {
+        "card_name": "UX08 Survery Corp Nomad",
+        "number": 240,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "165"
+    },
+    {
+        "card_name": "UX10 Restoration Architect",
+        "number": 242,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "198"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MX01 The Arbiters of Time",
+        "number": 198,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "303"
+    },
+    {
+        "card_name": "MX03 Rektchor, Revosh CEO",
+        "number": 200,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "304"
+    },
+    {
+        "card_name": "MX05 Rava, Mulladock Forgemaster",
+        "number": 202,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "295"
+    },
+    {
+        "card_name": "MX07 Haldren, Andyir Pathleader",
+        "number": 204,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "216"
+    },
+    {
+        "card_name": "MX09 Elasari, Unifier of Kronaea",
+        "number": 206,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "217"
+    },
+    {
+        "card_name": "MX02 Ornek Adjudicator",
+        "number": 199,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "297"
+    },
+    {
+        "card_name": "MX04 Kauthkar, Warcaver Admiral",
+        "number": 201,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "164"
+    },
+    {
+        "card_name": "MX06 Dustchurner, The Capital Rig",
+        "number": 203,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "249"
+    },
+    {
+        "card_name": "MX08 Garrent, Gritmettle's Chosen",
+        "number": 205,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "222"
+    },
+    {
+        "card_name": "MX10 Balrra, Life-Giver Aspect",
+        "number": 207,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "298"
+    },
+    {
+        "card_name": "RX06 Relvik, the Blind Seer",
+        "number": 213,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "197"
+    },
+    {
+        "card_name": "RX10 Harel, Shell Miser",
+        "number": 217,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "144"
+    },
+    {
+        "card_name": "RX14 Rava, Chief Engineer",
+        "number": 221,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "296"
+    },
+    {
+        "card_name": "RX18 Garrent, Last to Fall",
+        "number": 225,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "150"
+    },
+    {
+        "card_name": "RX22 Haldar, the Past Waker",
+        "number": 229,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "170"
+    },
+    {
+        "card_name": "RX07 Deny the Truth",
+        "number": 214,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "169"
+    },
+    {
+        "card_name": "RX11 Warcaver Dive Suit",
+        "number": 218,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "143"
+    },
+    {
+        "card_name": "RX15 Scheduled For Demolition",
+        "number": 222,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "161"
+    },
+    {
+        "card_name": "RX19 Roar of the Gritmettle",
+        "number": 226,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "167"
+    },
+    {
+        "card_name": "RX23 Unseal From Frost",
+        "number": 230,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "168"
+    },
+    {
+        "card_name": "RX08 Seasoned Archivist",
+        "number": 215,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "178"
+    },
+    {
+        "card_name": "RX12 Relicant II, Augership",
+        "number": 219,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "311"
+    },
+    {
+        "card_name": "RX16 Combative Resurger",
+        "number": 223,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "160"
+    },
+    {
+        "card_name": "RX20 Gritmettle Warherald",
+        "number": 227,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "166"
+    },
+    {
+        "card_name": "RX24 Expert Restorationist",
+        "number": 231,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "250"
+    },
+    {
+        "card_name": "RX09 The Silent Eclipse",
+        "number": 216,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "138"
+    },
+    {
+        "card_name": "RX13 The Great Expansion",
+        "number": 220,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "155"
+    },
+    {
+        "card_name": "RX17 Igniting the Forge",
+        "number": 224,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "268"
+    },
+    {
+        "card_name": "RX21 Founding the Andyir",
+        "number": 228,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "171"
+    },
+    {
+        "card_name": "RX25 Return of the Talweir",
+        "number": 232,
+        "shape": "saga",
+        "set": "IDK",
+        "position": "251"
+    },
+    {
+        "card_name": "UX11 Ornek Charm",
+        "number": 243,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "187"
+    },
+    {
+        "card_name": "UX14 Revosh Charm",
+        "number": 246,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "190"
+    },
+    {
+        "card_name": "UX17 Mulladock Charm",
+        "number": 249,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "189"
+    },
+    {
+        "card_name": "UX20 Andyir Charm",
+        "number": 252,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "188"
+    },
+    {
+        "card_name": "UX23 Kronaea Charm",
+        "number": 255,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "191"
+    },
+    {
+        "card_name": "UX12 Archive Advokist",
+        "number": 244,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "224"
+    },
+    {
+        "card_name": "UX15 Drill Sergeant",
+        "number": 247,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "218"
+    },
+    {
+        "card_name": "UX18 Resurgent Scrap-Driver",
+        "number": 250,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "227"
+    },
+    {
+        "card_name": "UX21 Andyir Duskwatch",
+        "number": 253,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "229"
+    },
+    {
+        "card_name": "UX24 Restoration Overseer",
+        "number": 256,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "231"
+    },
+    {
+        "card_name": "UX13 Arva, Seasoned Mythkeeper",
+        "number": 245,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "225"
+    },
+    {
+        "card_name": "UX16 Ral'Keth, Warcaver Captain",
+        "number": 248,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "226"
+    },
+    {
+        "card_name": "UX19 Rava, Resurger Specialist",
+        "number": 251,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "228"
+    },
+    {
+        "card_name": "UX22 Aldwin, Gritmettle Vigil",
+        "number": 254,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "186"
+    },
+    {
+        "card_name": "UX25 Elsar, Talwir Replicatonist",
+        "number": 257,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "232"
+    },
+    {
+        "card_name": "CZ01 The Arbiters of Memory",
+        "number": 258,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "211"
+    },
+    {
+        "card_name": "CZ02 Kraven, Warcaver Soldier",
+        "number": 259,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "208"
+    },
+    {
+        "card_name": "CZ03 Hal'kar, Defiant Gearwurm",
+        "number": 260,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "290"
+    },
+    {
+        "card_name": "CZ04 Aldwin, Gritmettle Trailblazer",
+        "number": 196,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "210"
+    },
+    {
+        "card_name": "CZ05 Elasari, Talwir Awakener",
+        "number": 197,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "209"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MX14 Ial Ignotia, Godsire of Awakening",
+        "number": 267,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "305"
+    },
+    {
+        "card_name": "MX15 Sword of Never and Again",
+        "number": 268,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "269"
+    },
+    {
+        "card_name": "MX16 The Stability Anchor",
+        "number": 269,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "221"
+    },
+    {
+        "card_name": "RX26 Orrery, the Sky Fortress",
+        "number": 270,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "256"
+    },
+    {
+        "card_name": "RX27 Dredging Station",
+        "number": 271,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "254"
+    },
+    {
+        "card_name": "RX28 Salvage Rembrant",
+        "number": 272,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "253"
+    },
+    {
+        "card_name": "RX29 Effigy, Solemn Rembrant",
+        "number": 273,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "255"
+    },
+    {
+        "card_name": "UX26 Survey Resurgent",
+        "number": 274,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "215"
+    },
+    {
+        "card_name": "UX27 Retention Rembrant",
+        "number": 275,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "236"
+    },
+    {
+        "card_name": "UX28 Chromatic Sigil",
+        "number": 276,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "234"
+    },
+    {
+        "card_name": "UX29 Refinery Forge",
+        "number": 277,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "233"
+    },
+    {
+        "card_name": "UX30 The Sanity Auger",
+        "number": 278,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "235"
+    },
+    {
+        "card_name": "CA01 Ornek Sigil",
+        "number": 261,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "193"
+    },
+    {
+        "card_name": "CA02 Revosh Sigil",
+        "number": 262,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "196"
+    },
+    {
+        "card_name": "CA03 Mulladock Sigil",
+        "number": 263,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "194"
+    },
+    {
+        "card_name": "CA04 Andyir Sigil",
+        "number": 264,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "192"
+    },
+    {
+        "card_name": "CA05 Kronaea Sigil",
+        "number": 265,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "195"
+    },
+    {
+        "card_name": "CA06 Rejuvination Rembrant",
+        "number": 266,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "213"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 Ornek Archive",
+        "number": 279,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "313"
+    },
+    {
+        "card_name": "CL02 Revosh Quarry",
+        "number": 281,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "202"
+    },
+    {
+        "card_name": "CL03 Mulladock Scrapyard",
+        "number": 282,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "203"
+    },
+    {
+        "card_name": "CL04 Andyir Encampment",
+        "number": 283,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "204"
+    },
+    {
+        "card_name": "CL05 Kronaean Dig Site",
+        "number": 284,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "205"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RX30 Ignotia's Core",
+        "number": 287,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "252"
+    },
+    {
+        "card_name": "RX31 Deeplocke Archive",
+        "number": 289,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "284"
+    },
+    {
+        "card_name": "RX32 Warcaver Garrison",
+        "number": 291,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "271"
+    },
+    {
+        "card_name": "RX33 Salvage Yard Relkore",
+        "number": 292,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "270"
+    },
+    {
+        "card_name": "RX34 The Founding Lands",
+        "number": 294,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "282"
+    },
+    {
+        "card_name": "RX35 Citadel of Restoration",
+        "number": 296,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "272"
+    },
+    {
+        "card_name": "UX31 Archaic Ruins",
+        "number": 298,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "173"
+    },
+    {
+        "card_name": "UX32 Desolate Ruins",
+        "number": 299,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "283"
+    },
+    {
+        "card_name": "UX33 Barren Ruins",
+        "number": 300,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "174"
+    },
+    {
+        "card_name": "UX34 Depleted Ruins",
+        "number": 301,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "175"
+    },
+    {
+        "card_name": "UX35 Forgotten Ruins",
+        "number": 302,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "176"
+    },
+    {
+        "card_name": "CL06 Terramorphic Expanse",
+        "number": 285,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "206"
+    },
+    {
+        "card_name": "CL07 Planar Hub",
+        "number": 286,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "207"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 303,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "306"
+    },
+    {
+        "card_name": "Island",
+        "number": 304,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "307"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 305,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "308"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 306,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "309"
+    },
+    {
+        "card_name": "Forest",
+        "number": 307,
+        "shape": "normal",
+        "set": "IDK",
+        "position": "310"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Elemental Spirit",
+        "number": 1,
+        "shape": "token",
+        "set": "IDK",
+        "position": "247"
+    },
+    {
+        "card_name": "Junk",
+        "number": 7,
+        "shape": "token",
+        "set": "IDK",
+        "position": "220"
+    },
+    {
+        "card_name": "Giant",
+        "number": 2,
+        "shape": "token",
+        "set": "IDK",
+        "position": "301"
+    },
+    {
+        "card_name": "Bird",
+        "number": 3,
+        "shape": "token",
+        "set": "IDK",
+        "position": "246"
+    },
+    {
+        "card_name": "Crab",
+        "number": 4,
+        "shape": "token",
+        "set": "IDK",
+        "position": "248"
+    },
+    {
+        "card_name": "Mutant",
+        "number": 5,
+        "shape": "token",
+        "set": "IDK",
+        "position": "214"
+    },
+    {
+        "card_name": "Warrior",
+        "number": 6,
+        "shape": "token",
+        "set": "IDK",
+        "position": "219"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

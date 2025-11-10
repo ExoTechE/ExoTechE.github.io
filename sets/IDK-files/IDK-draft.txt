@@ -1,0 +1,4055 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Ruin Falcon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/0.png"
+			}
+		},
+		{
+			"name": "CW02 Unity Talisman",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW06 Talweir Apprentice",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/2.png"
+			}
+		},
+		{
+			"name": "CW04 Precious Data",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Treasure",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW05 Unearthing Aspect",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/4.png"
+			}
+		},
+		{
+			"name": "CW03 Cleansing Aspect",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/5.png"
+			}
+		},
+		{
+			"name": "CW08 Knowledge Caretaker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Bird Artificer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/6.png"
+			}
+		},
+		{
+			"name": "CW09 Rembrant Convoy",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW10 Talwir Reforger",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Giant Artificer",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW11 Stalwart Arbitrator",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW12 Reconstruct",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/10.png"
+			}
+		},
+		{
+			"name": "CW13 United Front",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/11.png"
+			}
+		},
+		{
+			"name": "CW14 Detainment Protocol",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/12.png"
+			}
+		},
+		{
+			"name": "CW15 Respirator Suit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/13.png"
+			}
+		},
+		{
+			"name": "CW16 Gritemettle's Resolve",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/14.png"
+			}
+		},
+		{
+			"name": "CW17 Ruin Deconstructor",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/15.png"
+			}
+		},
+		{
+			"name": "CW18 Forgotten by History",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/16.png"
+			}
+		},
+		{
+			"name": "CU01 Delving Aspect",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/17.png"
+			}
+		},
+		{
+			"name": "CU02 Salvage Spotter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/18.png"
+			}
+		},
+		{
+			"name": "CU04 Seasoned Scribe",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Artificer",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/19.png"
+			}
+		},
+		{
+			"name": "CU05 Talwir Restorationist",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Giant Artificer",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/20.png"
+			}
+		},
+		{
+			"name": "CU03 Ruination Crustacean",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Crab Rogue",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/21.png"
+			}
+		},
+		{
+			"name": "CU07 Warcaver Strike Leader",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Homarid Soldier",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/22.png"
+			}
+		},
+		{
+			"name": "CU08 Guardian of History",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Bird Knight",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU09 Cavern-Dweller Octopus",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU10 Rewrite History",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/25.png"
+			}
+		},
+		{
+			"name": "CU11 Product Delay",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/26.png"
+			}
+		},
+		{
+			"name": "CU12 Supression Bands",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/27.png"
+			}
+		},
+		{
+			"name": "CU13 Keeping Time",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/28.png"
+			}
+		},
+		{
+			"name": "CU14 Serenity Talisman",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/29.png"
+			}
+		},
+		{
+			"name": "CU15 Time Dilation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/30.png"
+			}
+		},
+		{
+			"name": "CU16 Subterranean Infiltration",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/31.png"
+			}
+		},
+		{
+			"name": "CU17 Emergency Clamp",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/32.png"
+			}
+		},
+		{
+			"name": "CU18 Rembrant Voyager",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB01 Tunnel Rat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/34.png"
+			}
+		},
+		{
+			"name": "CB03 Revosh Ensign",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Homarid Scout",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/35.png"
+			}
+		},
+		{
+			"name": "CB02 Tome Tamperer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/36.png"
+			}
+		},
+		{
+			"name": "CB05 Emancipation Grid",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/37.png"
+			}
+		},
+		{
+			"name": "CB06 Warcaver Lieutenant",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Homarid Soldier",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/38.png"
+			}
+		},
+		{
+			"name": "CB10 Rembrant Prowler",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/39.png"
+			}
+		},
+		{
+			"name": "CB08 Scrapdigger",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/40.png"
+			}
+		},
+		{
+			"name": "CB09 Resurgent Colossus",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Mutant Giant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/41.png"
+			}
+		},
+		{
+			"name": "CB12 Intentional Accident",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/42.png"
+			}
+		},
+		{
+			"name": "CB11 Death Metal",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/43.png"
+			}
+		},
+		{
+			"name": "CB07 Painful Reminder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/44.png"
+			}
+		},
+		{
+			"name": "CB13 Contract Killer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crab Rogue Mercenary",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/45.png"
+			}
+		},
+		{
+			"name": "CB14 Tunnel Visions",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/46.png"
+			}
+		},
+		{
+			"name": "CB15 Vitality Talisman",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/47.png"
+			}
+		},
+		{
+			"name": "CB16 Irrelevant Information",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/48.png"
+			}
+		},
+		{
+			"name": "CB17 Shelling Up",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/49.png"
+			}
+		},
+		{
+			"name": "CB18 Resurger Engineer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Orc Artificer",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/50.png"
+			}
+		},
+		{
+			"name": "CR02 Reckeless Resurgent",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Mutant Scout",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/51.png"
+			}
+		},
+		{
+			"name": "CR01 Pebble Pusher",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Treasure Crab",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/52.png"
+			}
+		},
+		{
+			"name": "CR03 Gritmettle Devotee",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/53.png"
+			}
+		},
+		{
+			"name": "CR04 Scrounging Resurgent",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Mutant Minion",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/54.png"
+			}
+		},
+		{
+			"name": "CR05 Invaluable Asset",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Crab Minion",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/55.png"
+			}
+		},
+		{
+			"name": "CR06 Enduring Wanderer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/56.png"
+			}
+		},
+		{
+			"name": "CR07 Rembrant Incinerator",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/57.png"
+			}
+		},
+		{
+			"name": "CR08 Artillery Sheller",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Homarid Soldier",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/58.png"
+			}
+		},
+		{
+			"name": "CR09 Desperate Resurger",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/59.png"
+			}
+		},
+		{
+			"name": "CR10 Purity Talisman",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/60.png"
+			}
+		},
+		{
+			"name": "CR11 Scrap Surge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/61.png"
+			}
+		},
+		{
+			"name": "CR12 Under Contract",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/62.png"
+			}
+		},
+		{
+			"name": "CR13 Triumphant Charge",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/63.png"
+			}
+		},
+		{
+			"name": "CR14 Peddler of Antiquities",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/64.png"
+			}
+		},
+		{
+			"name": "CR15 Gritmettle's Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/65.png"
+			}
+		},
+		{
+			"name": "CR16 Overdrive",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/66.png"
+			}
+		},
+		{
+			"name": "CR17 Defiant Wurmling",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Wurm",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/67.png"
+			}
+		},
+		{
+			"name": "CR18 Resurge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/68.png"
+			}
+		},
+		{
+			"name": "CG01 Andyir Cultivator",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Nomad Shaman",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/69.png"
+			}
+		},
+		{
+			"name": "CG03 Earth Aspect",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/70.png"
+			}
+		},
+		{
+			"name": "CG14 Survey Corp Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Nomad Scout",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/71.png"
+			}
+		},
+		{
+			"name": "CG04 Awakened Rubble",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/72.png"
+			}
+		},
+		{
+			"name": "CG05 Talwir Earth-Mover",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Giant Knight",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/73.png"
+			}
+		},
+		{
+			"name": "CG17 Territory Surveyor",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/74.png"
+			}
+		},
+		{
+			"name": "CG07 Virulent Resurgent",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Mutant Berserker",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/75.png"
+			}
+		},
+		{
+			"name": "CG08 Gritmettle Aggressor",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/76.png"
+			}
+		},
+		{
+			"name": "CG09 Rembrant Vanguard",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/77.png"
+			}
+		},
+		{
+			"name": "CG10 Harrowing Resurgent",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact Creature — Mutant Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/78.png"
+			}
+		},
+		{
+			"name": "CG11 Rapid Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/79.png"
+			}
+		},
+		{
+			"name": "CG06 Excavation Overseer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Giant Advisor",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/80.png"
+			}
+		},
+		{
+			"name": "CG13 Protect the Past",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/81.png"
+			}
+		},
+		{
+			"name": "CG18 Rust Beast",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/82.png"
+			}
+		},
+		{
+			"name": "CG15 Gritmettle's Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/83.png"
+			}
+		},
+		{
+			"name": "CG16 Sky Shatter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/84.png"
+			}
+		},
+		{
+			"name": "CG12 Harmony Talisman",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/85.png"
+			}
+		},
+		{
+			"name": "CG02 Scrapmutt Resurgent",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Mutant Dog",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/86.png"
+			}
+		},
+		{
+			"name": "UW01 Methodical Elite",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Nomad Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/87.png"
+			}
+		},
+		{
+			"name": "UW03 Viek, Surveillance Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact Creature — Bird Scout",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/88.png"
+			}
+		},
+		{
+			"name": "UW06 Devoted Revivalist",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Giant Artificer",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/89.png"
+			}
+		},
+		{
+			"name": "UW05 Records Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Bird Advisor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/90.png"
+			}
+		},
+		{
+			"name": "UW04 Talwir Enkindler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Giant Artificer",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/91.png"
+			}
+		},
+		{
+			"name": "UW07 Shamar, Resolute Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Giant Nomad",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/92.png"
+			}
+		},
+		{
+			"name": "UW08 Eula, Ardent Reconstructor",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — Giant Artificer",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/93.png"
+			}
+		},
+		{
+			"name": "UW09 Enforcer's Rebuke",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/94.png"
+			}
+		},
+		{
+			"name": "UW10 Expansionist's Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/95.png"
+			}
+		},
+		{
+			"name": "UW11 Preservation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/96.png"
+			}
+		},
+		{
+			"name": "UU08 Talwir Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Giant Advisor",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/97.png"
+			}
+		},
+		{
+			"name": "CU06 Dedicated Organizer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/98.png"
+			}
+		},
+		{
+			"name": "UU10 Uncovered Truths",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/99.png"
+			}
+		},
+		{
+			"name": "UU03 Information Courier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/100.png"
+			}
+		},
+		{
+			"name": "UU06 Ivis, Revosh Subterfugist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature — Homarid Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/101.png"
+			}
+		},
+		{
+			"name": "UU04 Halm, Cavern-Ruins Delver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Giant Scout",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/102.png"
+			}
+		},
+		{
+			"name": "UU01 Avidron, Diligent Scribe",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact Creature — Bird Advisor",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/103.png"
+			}
+		},
+		{
+			"name": "UU02 Infiltration Crustacean",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Crab Rogue",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/104.png"
+			}
+		},
+		{
+			"name": "UU07 Talwir Ancient",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elder Giant Survivor",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/105.png"
+			}
+		},
+		{
+			"name": "UU11 Reprimand",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/106.png"
+			}
+		},
+		{
+			"name": "UB01 Expendable Lackey",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Crab Minion",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/107.png"
+			}
+		},
+		{
+			"name": "UB02 Ovos, Mythkeeper Scribe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact Creature — Bird Advisor",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/108.png"
+			}
+		},
+		{
+			"name": "UB03 Resurgent Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Mutant Minion",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/109.png"
+			}
+		},
+		{
+			"name": "UB04 Cavendish, Rubble Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Crab Artificer",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/110.png"
+			}
+		},
+		{
+			"name": "UB06 Impassive Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Bird Knight",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/111.png"
+			}
+		},
+		{
+			"name": "UB05 Duskwing Crusader",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird Rogue Knight",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/112.png"
+			}
+		},
+		{
+			"name": "UB09 Viktor, Macabre Resurger",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/113.png"
+			}
+		},
+		{
+			"name": "UB08 Immediate Termination",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/114.png"
+			}
+		},
+		{
+			"name": "UB07 Scrap Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/115.png"
+			}
+		},
+		{
+			"name": "UB10 Insurance Policy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/116.png"
+			}
+		},
+		{
+			"name": "UB11 Emergency Resurge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/117.png"
+			}
+		},
+		{
+			"name": "UR02 Drix, Artisanal Metalcrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/118.png"
+			}
+		},
+		{
+			"name": "UR01 Inspiring Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Nomad Scout",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/119.png"
+			}
+		},
+		{
+			"name": "UR04 Unstable Resurgent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Mutant Berserker",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/120.png"
+			}
+		},
+		{
+			"name": "UR03 Warcaver Wayfinder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Crab Soldier",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/121.png"
+			}
+		},
+		{
+			"name": "UR05 Farron, the War-Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/122.png"
+			}
+		},
+		{
+			"name": "UR06 Relik, Warcaver Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact Creature — Octopus Soldier",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/123.png"
+			}
+		},
+		{
+			"name": "UR08 United Blaze",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/124.png"
+			}
+		},
+		{
+			"name": "UR09 Shell Shock",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/125.png"
+			}
+		},
+		{
+			"name": "UR10 Scrap Compactor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/126.png"
+			}
+		},
+		{
+			"name": "UR11 Overwhelming Presence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/127.png"
+			}
+		},
+		{
+			"name": "UG01 Dalawa, Nuturing Aspect",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Elemental Spirit",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/128.png"
+			}
+		},
+		{
+			"name": "UG02 Rejuvenating Aspcet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/129.png"
+			}
+		},
+		{
+			"name": "UG04 Survery Corp Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Nomad Scout",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/130.png"
+			}
+		},
+		{
+			"name": "UG05 Haldren, Survey Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/131.png"
+			}
+		},
+		{
+			"name": "UG06 Reclamantion Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant Knight",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/132.png"
+			}
+		},
+		{
+			"name": "UG09 Farseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Nomad Scout",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/133.png"
+			}
+		},
+		{
+			"name": "UG10 Resonate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/134.png"
+			}
+		},
+		{
+			"name": "UG11 Life Beacon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/135.png"
+			}
+		},
+		{
+			"name": "RW02 Fragment of Nótaal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/136.png"
+			}
+		},
+		{
+			"name": "RW05 Hila, Ever-Ready Rescuer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/137.png"
+			}
+		},
+		{
+			"name": "RX09 The Silent Eclipse",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/138.png"
+			}
+		},
+		{
+			"name": "RX04 Gritmettle's Fervor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/139.png"
+			}
+		},
+		{
+			"name": "RU02 Fragment of Enmíka",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/140.png"
+			}
+		},
+		{
+			"name": "RU05 Sollos, Recovering Aspect",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Elemental Spirit",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/141.png"
+			}
+		},
+		{
+			"name": "RX01 Supression of Truth",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/142.png"
+			}
+		},
+		{
+			"name": "RX11 Warcaver Dive Suit",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/143.png"
+			}
+		},
+		{
+			"name": "RX10 Harel, Shell Miser",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Homarid Noble",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/144.png"
+			}
+		},
+		{
+			"name": "UU09 Counter Intel Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/145.png"
+			}
+		},
+		{
+			"name": "RB05 Arkx, Scrap Recycler",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Orc Artificer",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/146.png"
+			}
+		},
+		{
+			"name": "RB01 Ial Kóltia's Awakening",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/147.png"
+			}
+		},
+		{
+			"name": "RB03 Harel, Underclawed Dealer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Homarid Noble",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/148.png"
+			}
+		},
+		{
+			"name": "RB02 Cloth of Kóltia",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/149.png"
+			}
+		},
+		{
+			"name": "RX18 Garrent, Last to Fall",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/150.png"
+			}
+		},
+		{
+			"name": "RR02 Horn of Aróita",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/151.png"
+			}
+		},
+		{
+			"name": "RR01 Ial Aróita's Awakening",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/152.png"
+			}
+		},
+		{
+			"name": "RR05 Ralik, Treasury Warden",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Octopus Noble",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/153.png"
+			}
+		},
+		{
+			"name": "RR04 Valonar, Gritmettle's Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/154.png"
+			}
+		},
+		{
+			"name": "RX13 The Great Expansion",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/155.png"
+			}
+		},
+		{
+			"name": "RG02 Shard of Oníraa",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/156.png"
+			}
+		},
+		{
+			"name": "RG01 Ial Oníraa's Awakening",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/157.png"
+			}
+		},
+		{
+			"name": "RG04 Vash'nir of the Old Guard",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Giant Warrior",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/158.png"
+			}
+		},
+		{
+			"name": "RG03 Kaliya, Seasoned Explorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Nomad Scout",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/159.png"
+			}
+		},
+		{
+			"name": "RX16 Combative Resurger",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Orc Artificer",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/160.png"
+			}
+		},
+		{
+			"name": "RX15 Scheduled For Demolition",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/161.png"
+			}
+		},
+		{
+			"name": "MB02 Warcaver Elite",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Homarid Soldier",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/162.png"
+			}
+		},
+		{
+			"name": "MR02 Brutal Resurger Chief",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/163.png"
+			}
+		},
+		{
+			"name": "MX04 Kauthkar, Warcaver Admiral",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Homarid Soldier",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/164.png"
+			}
+		},
+		{
+			"name": "UX08 Survery Corp Nomad",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Orc Nomad",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/165.png"
+			}
+		},
+		{
+			"name": "RX20 Gritmettle Warherald",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Orc Nomad Warrior",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/166.png"
+			}
+		},
+		{
+			"name": "RX19 Roar of the Gritmettle",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{G}{W}",
+			"type": "Instant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/167.png"
+			}
+		},
+		{
+			"name": "RX23 Unseal From Frost",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/168.png"
+			}
+		},
+		{
+			"name": "RX07 Deny the Truth",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/169.png"
+			}
+		},
+		{
+			"name": "RX22 Haldar, the Past Waker",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Creature — Giant Artificer",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/170.png"
+			}
+		},
+		{
+			"name": "RX21 Founding the Andyir",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/171.png"
+			}
+		},
+		{
+			"name": "CL01 Ornek Archive",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/172.png"
+			}
+		},
+		{
+			"name": "UX31 Archaic Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/173.png"
+			}
+		},
+		{
+			"name": "UX33 Barren Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/174.png"
+			}
+		},
+		{
+			"name": "UX34 Depleted Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/175.png"
+			}
+		},
+		{
+			"name": "UX35 Forgotten Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/176.png"
+			}
+		},
+		{
+			"name": "UX02 Peaceful Strix",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact Creature — Bird Scout",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/177.png"
+			}
+		},
+		{
+			"name": "RX08 Seasoned Archivist",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact Creature — Bird Advisor",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/178.png"
+			}
+		},
+		{
+			"name": "RX31 Deeplocke Archive",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/179.png"
+			}
+		},
+		{
+			"name": "RX32 Warcaver Garrison",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/180.png"
+			}
+		},
+		{
+			"name": "RX33 Salvage Yard Relkore",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/181.png"
+			}
+		},
+		{
+			"name": "RX35 Citadel of Restoration",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/182.png"
+			}
+		},
+		{
+			"name": "UX05 Revosh Pocket-Liner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Homarid Noble",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/183.png"
+			}
+		},
+		{
+			"name": "RX02 Stripmine Bore",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/184.png"
+			}
+		},
+		{
+			"name": "RW03 Elsar, Talwir Reclaimer",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Giant Artificer",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/185.png"
+			}
+		},
+		{
+			"name": "UX22 Aldwin, Gritmettle Vigil",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/186.png"
+			}
+		},
+		{
+			"name": "UX11 Ornek Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/187.png"
+			}
+		},
+		{
+			"name": "UX20 Andyir Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Instant",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/188.png"
+			}
+		},
+		{
+			"name": "UX17 Mulladock Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/189.png"
+			}
+		},
+		{
+			"name": "UX14 Revosh Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/190.png"
+			}
+		},
+		{
+			"name": "UX23 Kronaea Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/191.png"
+			}
+		},
+		{
+			"name": "CA04 Andyir Sigil",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/192.png"
+			}
+		},
+		{
+			"name": "CA01 Ornek Sigil",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/193.png"
+			}
+		},
+		{
+			"name": "CA03 Mulladock Sigil",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/194.png"
+			}
+		},
+		{
+			"name": "CA05 Kronaea Sigil",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/195.png"
+			}
+		},
+		{
+			"name": "CA02 Revosh Sigil",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/196.png"
+			}
+		},
+		{
+			"name": "RX06 Relvik, the Blind Seer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Bird Advisor",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/197.png"
+			}
+		},
+		{
+			"name": "UX10 Restoration Architect",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Giant Artificer",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/198.png"
+			}
+		},
+		{
+			"name": "UX03 Scornful Flightless",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/199.png"
+			}
+		},
+		{
+			"name": "UX06 Resurger Salvage Rig",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/200.png"
+			}
+		},
+		{
+			"name": "UX04 Insightful Excavation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/201.png"
+			}
+		},
+		{
+			"name": "CL02 Revosh Quarry",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/202.png"
+			}
+		},
+		{
+			"name": "CL03 Mulladock Scrapyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/203.png"
+			}
+		},
+		{
+			"name": "CL04 Andyir Encampment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/204.png"
+			}
+		},
+		{
+			"name": "CL05 Kronaean Dig Site",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/205.png"
+			}
+		},
+		{
+			"name": "CL06 Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/206.png"
+			}
+		},
+		{
+			"name": "CL07 Planar Hub",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/207.png"
+			}
+		},
+		{
+			"name": "CZ02 Kraven, Warcaver Soldier",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/B}{2/R}",
+			"type": "Legendary Artifact Creature — Homarid Soldier",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/208.png"
+			}
+		},
+		{
+			"name": "CZ05 Elasari, Talwir Awakener",
+			"rarity": "common",
+			"mana_cost": "{2/G}{2/W}{2/U}",
+			"type": "Legendary Creature — Giant Artificer",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/209.png"
+			}
+		},
+		{
+			"name": "CZ04 Aldwin, Gritmettle Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/G}{2/W}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/210.png"
+			}
+		},
+		{
+			"name": "CZ01 The Arbiters of Memory",
+			"rarity": "common",
+			"mana_cost": "{2/W}{2/U}{2/B}",
+			"type": "Legendary Artifact Creature — Bird Artificer",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/211.png"
+			}
+		},
+		{
+			"name": "CB04 Salvage Worker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crab Soldier",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/212.png"
+			}
+		},
+		{
+			"name": "CA06 Rejuvination Rembrant",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/213.png"
+			}
+		},
+		{
+			"name": "Mutant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Mutant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/214.png"
+			}
+		},
+		{
+			"name": "UX26 Survey Resurgent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Mutant Scout",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/215.png"
+			}
+		},
+		{
+			"name": "MX07 Haldren, Andyir Pathleader",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/216.png"
+			}
+		},
+		{
+			"name": "MX09 Elasari, Unifier of Kronaea",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Creature — Giant Knight",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/217.png"
+			}
+		},
+		{
+			"name": "UX15 Drill Sergeant",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Artifact Creature — Homarid Soldier",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/218.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/219.png"
+			}
+		},
+		{
+			"name": "Junk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/220.png"
+			}
+		},
+		{
+			"name": "MX16 The Stability Anchor",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/221.png"
+			}
+		},
+		{
+			"name": "MX08 Garrent, Gritmettle's Chosen",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/222.png"
+			}
+		},
+		{
+			"name": "UX09 Recruit Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Nomad Warrior",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/223.png"
+			}
+		},
+		{
+			"name": "UX12 Archive Advokist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Bird Artificer",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/224.png"
+			}
+		},
+		{
+			"name": "UX13 Arva, Seasoned Mythkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Bird Advisor",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/225.png"
+			}
+		},
+		{
+			"name": "UX16 Ral'Keth, Warcaver Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Homarid Soldier",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/226.png"
+			}
+		},
+		{
+			"name": "UX18 Resurgent Scrap-Driver",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Artifact Creature — Mutant Warrior",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/227.png"
+			}
+		},
+		{
+			"name": "UX19 Rava, Resurger Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/228.png"
+			}
+		},
+		{
+			"name": "UX21 Andyir Duskwatch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Human Nomad Warrior",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/229.png"
+			}
+		},
+		{
+			"name": "UX07 Salvage Vendor",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/230.png"
+			}
+		},
+		{
+			"name": "UX24 Restoration Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/231.png"
+			}
+		},
+		{
+			"name": "UX25 Elsar, Talwir Replicatonist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Giant Knight",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/232.png"
+			}
+		},
+		{
+			"name": "UX29 Refinery Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/233.png"
+			}
+		},
+		{
+			"name": "UX28 Chromatic Sigil",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/234.png"
+			}
+		},
+		{
+			"name": "UX30 The Sanity Auger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/235.png"
+			}
+		},
+		{
+			"name": "UX27 Retention Rembrant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/236.png"
+			}
+		},
+		{
+			"name": "UW13 The Disruption of Balance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/237.png"
+			}
+		},
+		{
+			"name": "UU13 The Shattering of Stability",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/238.png"
+			}
+		},
+		{
+			"name": "UU12 Echoing Well Drill",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/239.png"
+			}
+		},
+		{
+			"name": "UR12 Crash Out",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/240.png"
+			}
+		},
+		{
+			"name": "UR13 The Extinguishing of Passions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/241.png"
+			}
+		},
+		{
+			"name": "UG12 Scrap for Parts",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/242.png"
+			}
+		},
+		{
+			"name": "UG13 The Sundering of Community",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/243.png"
+			}
+		},
+		{
+			"name": "UB12 Memory Wipe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/244.png"
+			}
+		},
+		{
+			"name": "UB13 The Fracturing of Morals",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/245.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Bird",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/246.png"
+			}
+		},
+		{
+			"name": "Elemental Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/247.png"
+			}
+		},
+		{
+			"name": "Crab",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Crab",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/248.png"
+			}
+		},
+		{
+			"name": "MX06 Dustchurner, The Capital Rig",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/249.png"
+			}
+		},
+		{
+			"name": "RX24 Expert Restorationist",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Giant Advisor",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/250.png"
+			}
+		},
+		{
+			"name": "RX25 Return of the Talweir",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/251.png"
+			}
+		},
+		{
+			"name": "RX30 Ignotia's Core",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/252.png"
+			}
+		},
+		{
+			"name": "RX28 Salvage Rembrant",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/253.png"
+			}
+		},
+		{
+			"name": "RX27 Dredging Station",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/254.png"
+			}
+		},
+		{
+			"name": "RX29 Effigy, Solemn Rembrant",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/255.png"
+			}
+		},
+		{
+			"name": "RX26 Orrery, the Sky Fortress",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/256.png"
+			}
+		},
+		{
+			"name": "MW02 Kafri, Forged Anew",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Kafri",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/257.png"
+			}
+		},
+		{
+			"name": "UU05 Warcaver Brigade",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Homarid Soldier",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/258.png"
+			}
+		},
+		{
+			"name": "UG08 Barox, Salvager Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/259.png"
+			}
+		},
+		{
+			"name": "UX01 Duplication Aspect",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/260.png"
+			}
+		},
+		{
+			"name": "RU04 Vak'il, the Conspirator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Octopus Noble",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/261.png"
+			}
+		},
+		{
+			"name": "RU03 Sarvva, Arbiter of Futures",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Artifact Creature — Bird Advisor",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/262.png"
+			}
+		},
+		{
+			"name": "RB04 Obselva, Arbiter of Pasts",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Artifact Creature — Bird Knight",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/263.png"
+			}
+		},
+		{
+			"name": "RU01 Ial Enmíka's Awakening",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/264.png"
+			}
+		},
+		{
+			"name": "RW01 Ial Nótaal's Awakening",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/265.png"
+			}
+		},
+		{
+			"name": "RW04 Edevic, Arbiter of Presents",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact Creature — Bird Advisor",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/266.png"
+			}
+		},
+		{
+			"name": "RX05 Kafri, the Reclaimer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/267.png"
+			}
+		},
+		{
+			"name": "RX17 Igniting the Forge",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/268.png"
+			}
+		},
+		{
+			"name": "MX15 Sword of Never and Again",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/269.png"
+			}
+		},
+		{
+			"name": "RX33 Salvage Yard Relkore",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/270.png"
+			}
+		},
+		{
+			"name": "RX32 Warcaver Garrison",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/271.png"
+			}
+		},
+		{
+			"name": "RX35 Citadel of Restoration",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/272.png"
+			}
+		},
+		{
+			"name": "RX34 The Founding Lands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/273.png"
+			}
+		},
+		{
+			"name": "Ial Oníraa, Godsire of Harmony",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/274.png"
+			}
+		},
+		{
+			"name": "Ial Kóltia, Godsire of Vitality",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/275.png"
+			}
+		},
+		{
+			"name": "Ial Aróita, Godsire of Purity",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/276.png"
+			}
+		},
+		{
+			"name": "Ial Nótaal, Godsire of Unity",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/277.png"
+			}
+		},
+		{
+			"name": "Ial Enmíka, Godsire of Stability",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/278.png"
+			}
+		},
+		{
+			"name": "MG02 Expedition Leader",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Nomad Scout",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/279.png"
+			}
+		},
+		{
+			"name": "Dihada, Scourge of the Past",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Dihada",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/280.png"
+			}
+		},
+		{
+			"name": "Dihada, Scourge of the Past",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Dihada",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/281.png"
+			}
+		},
+		{
+			"name": "RX34 The Founding Lands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/282.png"
+			}
+		},
+		{
+			"name": "UX32 Desolate Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/283.png"
+			}
+		},
+		{
+			"name": "RX31 Deeplocke Archive",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/284.png"
+			}
+		},
+		{
+			"name": "CW07 Andyir Overwatch",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Nomad Scout",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/285.png"
+			}
+		},
+		{
+			"name": "UW02 Gritmettle Martyr",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/286.png"
+			}
+		},
+		{
+			"name": "UW12 Empowered By Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/287.png"
+			}
+		},
+		{
+			"name": "RX03 Colossal Gearwurm",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}{R}",
+			"type": "Artifact Creature — Mutant Wurm",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/288.png"
+			}
+		},
+		{
+			"name": "RR03 Hal'kar, Ravenous Gearwurm",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact Creature — Mutant Wurm",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/289.png"
+			}
+		},
+		{
+			"name": "CZ03 Hal'kar, Defiant Gearwurm",
+			"rarity": "common",
+			"mana_cost": "{2/B}{2/R}{2/G}",
+			"type": "Legendary Artifact Creature — Mutant Wurm",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/290.png"
+			}
+		},
+		{
+			"name": "UR07 Resurgent Gearwurm",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}",
+			"type": "Artifact Creature — Mutant Wurm",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/291.png"
+			}
+		},
+		{
+			"name": "UG07 Seige-Engine Resurgent",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Mutant Warrior",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/292.png"
+			}
+		},
+		{
+			"name": "UG03 Scrapmongrel Resurgent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Mutant Dog",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/293.png"
+			}
+		},
+		{
+			"name": "RG05 Brutus, Scraphound Alpha",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Artifact Creature — Mutant Dog",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/294.png"
+			}
+		},
+		{
+			"name": "MX05 Rava, Mulladock Forgemaster",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/295.png"
+			}
+		},
+		{
+			"name": "RX14 Rava, Chief Engineer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/296.png"
+			}
+		},
+		{
+			"name": "MX02 Ornek Adjudicator",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact Creature — Bird Knight",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/297.png"
+			}
+		},
+		{
+			"name": "MX10 Balrra, Life-Giver Aspect",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Elemental Spirit",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/298.png"
+			}
+		},
+		{
+			"name": "MU02 Archive Counting Crow",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature — Bird Advisor",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/299.png"
+			}
+		},
+		{
+			"name": "MW02 Terlaa, Sheltering Aspect",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Elemental Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/300.png"
+			}
+		},
+		{
+			"name": "Giant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Giant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/301.png"
+			}
+		},
+		{
+			"name": "MW02 Terlaa, Sheltering Aspect",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Elemental Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/302.png"
+			}
+		},
+		{
+			"name": "MX01 The Arbiters of Time",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Bird Noble",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/303.png"
+			}
+		},
+		{
+			"name": "MX03 Rektchor, Revosh CEO",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Octopus Noble",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/304.png"
+			}
+		},
+		{
+			"name": "MX14 Ial Ignotia, Godsire of Awakening",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/305.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/306.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/307.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/308.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/309.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/310.png"
+			}
+		},
+		{
+			"name": "RX12 Relicant II, Augership",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/311.png"
+			}
+		},
+		{
+			"name": "Dihada, Scourge of the Past",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Dihada",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/312.png"
+			}
+		},
+		{
+			"name": "CL01 Ornek Archive",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://ExoTechE.github.io/sets/IDK-files/img/313.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RW02 Fragment of Nótaal
+	2 RW05 Hila, Ever-Ready Rescuer
+	2 RX09 The Silent Eclipse
+	2 RX04 Gritmettle's Fervor
+	2 RU02 Fragment of Enmíka
+	2 RU05 Sollos, Recovering Aspect
+	2 RX01 Supression of Truth
+	2 RX11 Warcaver Dive Suit
+	2 RX10 Harel, Shell Miser
+	2 RB05 Arkx, Scrap Recycler
+	2 RB01 Ial Kóltia's Awakening
+	2 RB03 Harel, Underclawed Dealer
+	2 RB02 Cloth of Kóltia
+	2 RX18 Garrent, Last to Fall
+	2 RR02 Horn of Aróita
+	2 RR01 Ial Aróita's Awakening
+	2 RR05 Ralik, Treasury Warden
+	2 RR04 Valonar, Gritmettle's Flame
+	2 RX13 The Great Expansion
+	2 RG02 Shard of Oníraa
+	2 RG01 Ial Oníraa's Awakening
+	2 RG04 Vash'nir of the Old Guard
+	2 RG03 Kaliya, Seasoned Explorer
+	2 RX16 Combative Resurger
+	2 RX15 Scheduled For Demolition
+	1 MB02 Warcaver Elite
+	1 MR02 Brutal Resurger Chief
+	1 MX04 Kauthkar, Warcaver Admiral
+	2 RX20 Gritmettle Warherald
+	2 RX19 Roar of the Gritmettle
+	2 RX23 Unseal From Frost
+	2 RX07 Deny the Truth
+	2 RX22 Haldar, the Past Waker
+	2 RX21 Founding the Andyir
+	2 RX08 Seasoned Archivist
+	2 RX31 Deeplocke Archive
+	2 RX32 Warcaver Garrison
+	2 RX33 Salvage Yard Relkore
+	2 RX35 Citadel of Restoration
+	2 RX02 Stripmine Bore
+	2 RW03 Elsar, Talwir Reclaimer
+	2 RX06 Relvik, the Blind Seer
+	1 MX07 Haldren, Andyir Pathleader
+	1 MX09 Elasari, Unifier of Kronaea
+	1 MX16 The Stability Anchor
+	1 MX08 Garrent, Gritmettle's Chosen
+	1 MX06 Dustchurner, The Capital Rig
+	2 RX24 Expert Restorationist
+	2 RX25 Return of the Talweir
+	2 RX30 Ignotia's Core
+	2 RX28 Salvage Rembrant
+	2 RX27 Dredging Station
+	2 RX29 Effigy, Solemn Rembrant
+	2 RX26 Orrery, the Sky Fortress
+	1 MW02 Kafri, Forged Anew
+	2 RU04 Vak'il, the Conspirator
+	2 RU03 Sarvva, Arbiter of Futures
+	2 RB04 Obselva, Arbiter of Pasts
+	2 RU01 Ial Enmíka's Awakening
+	2 RW01 Ial Nótaal's Awakening
+	2 RW04 Edevic, Arbiter of Presents
+	2 RX05 Kafri, the Reclaimer
+	2 RX17 Igniting the Forge
+	1 MX15 Sword of Never and Again
+	2 RX33 Salvage Yard Relkore
+	2 RX32 Warcaver Garrison
+	2 RX35 Citadel of Restoration
+	2 RX34 The Founding Lands
+	1 Ial Oníraa, Godsire of Harmony
+	1 Ial Kóltia, Godsire of Vitality
+	1 Ial Aróita, Godsire of Purity
+	1 Ial Nótaal, Godsire of Unity
+	1 Ial Enmíka, Godsire of Stability
+	1 MG02 Expedition Leader
+	1 Dihada, Scourge of the Past
+	1 Dihada, Scourge of the Past
+	2 RX34 The Founding Lands
+	2 RX31 Deeplocke Archive
+	2 RX03 Colossal Gearwurm
+	2 RR03 Hal'kar, Ravenous Gearwurm
+	2 RG05 Brutus, Scraphound Alpha
+	1 MX05 Rava, Mulladock Forgemaster
+	2 RX14 Rava, Chief Engineer
+	1 MX02 Ornek Adjudicator
+	1 MX10 Balrra, Life-Giver Aspect
+	1 MU02 Archive Counting Crow
+	1 MW02 Terlaa, Sheltering Aspect
+	1 MW02 Terlaa, Sheltering Aspect
+	1 MX01 The Arbiters of Time
+	1 MX03 Rektchor, Revosh CEO
+	1 MX14 Ial Ignotia, Godsire of Awakening
+	2 RX12 Relicant II, Augership
+	1 Dihada, Scourge of the Past
+[uncommon(3)]
+	4 UW01 Methodical Elite
+	4 UW03 Viek, Surveillance Scout
+	4 UW06 Devoted Revivalist
+	4 UW05 Records Keeper
+	4 UW04 Talwir Enkindler
+	4 UW07 Shamar, Resolute Guardian
+	4 UW08 Eula, Ardent Reconstructor
+	4 UW09 Enforcer's Rebuke
+	4 UW10 Expansionist's Forge
+	4 UW11 Preservation
+	4 UU08 Talwir Researcher
+	4 UU10 Uncovered Truths
+	4 UU03 Information Courier
+	4 UU06 Ivis, Revosh Subterfugist
+	4 UU04 Halm, Cavern-Ruins Delver
+	4 UU01 Avidron, Diligent Scribe
+	4 UU02 Infiltration Crustacean
+	4 UU07 Talwir Ancient
+	4 UU11 Reprimand
+	4 UB01 Expendable Lackey
+	4 UB02 Ovos, Mythkeeper Scribe
+	4 UB03 Resurgent Scavenger
+	4 UB04 Cavendish, Rubble Overseer
+	4 UB06 Impassive Enforcer
+	4 UB05 Duskwing Crusader
+	4 UB09 Viktor, Macabre Resurger
+	4 UB08 Immediate Termination
+	4 UB07 Scrap Tinkerer
+	4 UB10 Insurance Policy
+	4 UB11 Emergency Resurge
+	4 UR02 Drix, Artisanal Metalcrafter
+	4 UR01 Inspiring Scout
+	4 UR04 Unstable Resurgent
+	4 UR03 Warcaver Wayfinder
+	4 UR05 Farron, the War-Herald
+	4 UR06 Relik, Warcaver Commander
+	4 UR08 United Blaze
+	4 UR09 Shell Shock
+	4 UR10 Scrap Compactor
+	4 UR11 Overwhelming Presence
+	4 UG01 Dalawa, Nuturing Aspect
+	4 UG02 Rejuvenating Aspcet
+	4 UG04 Survery Corp Veteran
+	4 UG05 Haldren, Survey Guide
+	4 UG06 Reclamantion Sentinel
+	4 UG09 Farseeker
+	4 UG10 Resonate
+	4 UG11 Life Beacon
+	4 UU09 Counter Intel Agent
+	4 UX08 Survery Corp Nomad
+	4 UX31 Archaic Ruins
+	4 UX33 Barren Ruins
+	4 UX34 Depleted Ruins
+	4 UX35 Forgotten Ruins
+	4 UX02 Peaceful Strix
+	4 UX05 Revosh Pocket-Liner
+	4 UX22 Aldwin, Gritmettle Vigil
+	4 UX11 Ornek Charm
+	4 UX20 Andyir Charm
+	4 UX17 Mulladock Charm
+	4 UX14 Revosh Charm
+	4 UX23 Kronaea Charm
+	4 UX10 Restoration Architect
+	4 UX03 Scornful Flightless
+	4 UX06 Resurger Salvage Rig
+	4 UX04 Insightful Excavation
+	4 UX26 Survey Resurgent
+	4 UX15 Drill Sergeant
+	4 UX09 Recruit Mentor
+	4 UX12 Archive Advokist
+	4 UX13 Arva, Seasoned Mythkeeper
+	4 UX16 Ral'Keth, Warcaver Captain
+	4 UX18 Resurgent Scrap-Driver
+	4 UX19 Rava, Resurger Specialist
+	4 UX21 Andyir Duskwatch
+	4 UX07 Salvage Vendor
+	4 UX24 Restoration Overseer
+	4 UX25 Elsar, Talwir Replicatonist
+	4 UX29 Refinery Forge
+	4 UX28 Chromatic Sigil
+	4 UX30 The Sanity Auger
+	4 UX27 Retention Rembrant
+	4 UW13 The Disruption of Balance
+	4 UU13 The Shattering of Stability
+	4 UU12 Echoing Well Drill
+	4 UR12 Crash Out
+	4 UR13 The Extinguishing of Passions
+	4 UG12 Scrap for Parts
+	4 UG13 The Sundering of Community
+	4 UB12 Memory Wipe
+	4 UB13 The Fracturing of Morals
+	4 UU05 Warcaver Brigade
+	4 UG08 Barox, Salvager Specialist
+	4 UX01 Duplication Aspect
+	4 UX32 Desolate Ruins
+	4 UW02 Gritmettle Martyr
+	4 UW12 Empowered By Faith
+	4 UR07 Resurgent Gearwurm
+	4 UG07 Seige-Engine Resurgent
+	4 UG03 Scrapmongrel Resurgent
+[common(7)]
+	8 CW01 Ruin Falcon
+	8 CW02 Unity Talisman
+	8 CW06 Talweir Apprentice
+	8 CW04 Precious Data
+	8 CW05 Unearthing Aspect
+	8 CW03 Cleansing Aspect
+	8 CW08 Knowledge Caretaker
+	8 CW09 Rembrant Convoy
+	8 CW10 Talwir Reforger
+	8 CW11 Stalwart Arbitrator
+	8 CW12 Reconstruct
+	8 CW13 United Front
+	8 CW14 Detainment Protocol
+	8 CW15 Respirator Suit
+	8 CW16 Gritemettle's Resolve
+	8 CW17 Ruin Deconstructor
+	8 CW18 Forgotten by History
+	8 CU01 Delving Aspect
+	8 CU02 Salvage Spotter
+	8 CU04 Seasoned Scribe
+	8 CU05 Talwir Restorationist
+	8 CU03 Ruination Crustacean
+	8 CU07 Warcaver Strike Leader
+	8 CU08 Guardian of History
+	8 CU09 Cavern-Dweller Octopus
+	8 CU10 Rewrite History
+	8 CU11 Product Delay
+	8 CU12 Supression Bands
+	8 CU13 Keeping Time
+	8 CU14 Serenity Talisman
+	8 CU15 Time Dilation
+	8 CU16 Subterranean Infiltration
+	8 CU17 Emergency Clamp
+	8 CU18 Rembrant Voyager
+	8 CB01 Tunnel Rat
+	8 CB03 Revosh Ensign
+	8 CB02 Tome Tamperer
+	8 CB05 Emancipation Grid
+	8 CB06 Warcaver Lieutenant
+	8 CB10 Rembrant Prowler
+	8 CB08 Scrapdigger
+	8 CB09 Resurgent Colossus
+	8 CB12 Intentional Accident
+	8 CB11 Death Metal
+	8 CB07 Painful Reminder
+	8 CB13 Contract Killer
+	8 CB14 Tunnel Visions
+	8 CB15 Vitality Talisman
+	8 CB16 Irrelevant Information
+	8 CB17 Shelling Up
+	8 CB18 Resurger Engineer
+	8 CR02 Reckeless Resurgent
+	8 CR01 Pebble Pusher
+	8 CR03 Gritmettle Devotee
+	8 CR04 Scrounging Resurgent
+	8 CR05 Invaluable Asset
+	8 CR06 Enduring Wanderer
+	8 CR07 Rembrant Incinerator
+	8 CR08 Artillery Sheller
+	8 CR09 Desperate Resurger
+	8 CR10 Purity Talisman
+	8 CR11 Scrap Surge
+	8 CR12 Under Contract
+	8 CR13 Triumphant Charge
+	8 CR14 Peddler of Antiquities
+	8 CR15 Gritmettle's Fury
+	8 CR16 Overdrive
+	8 CR17 Defiant Wurmling
+	8 CR18 Resurge
+	8 CG01 Andyir Cultivator
+	8 CG03 Earth Aspect
+	8 CG14 Survey Corp Explorer
+	8 CG04 Awakened Rubble
+	8 CG05 Talwir Earth-Mover
+	8 CG17 Territory Surveyor
+	8 CG07 Virulent Resurgent
+	8 CG08 Gritmettle Aggressor
+	8 CG09 Rembrant Vanguard
+	8 CG10 Harrowing Resurgent
+	8 CG11 Rapid Ambush
+	8 CG06 Excavation Overseer
+	8 CG13 Protect the Past
+	8 CG18 Rust Beast
+	8 CG15 Gritmettle's Blessing
+	8 CG16 Sky Shatter
+	8 CG12 Harmony Talisman
+	8 CG02 Scrapmutt Resurgent
+	8 CU06 Dedicated Organizer
+	8 CL01 Ornek Archive
+	8 CA04 Andyir Sigil
+	8 CA01 Ornek Sigil
+	8 CA03 Mulladock Sigil
+	8 CA05 Kronaea Sigil
+	8 CA02 Revosh Sigil
+	8 CL02 Revosh Quarry
+	8 CL03 Mulladock Scrapyard
+	8 CL04 Andyir Encampment
+	8 CL05 Kronaean Dig Site
+	8 CL06 Terramorphic Expanse
+	8 CL07 Planar Hub
+	8 CZ02 Kraven, Warcaver Soldier
+	8 CZ05 Elasari, Talwir Awakener
+	8 CZ04 Aldwin, Gritmettle Trailblazer
+	8 CZ01 The Arbiters of Memory
+	8 CB04 Salvage Worker
+	8 CA06 Rejuvination Rembrant
+	8 CW07 Andyir Overwatch
+	8 CZ03 Hal'kar, Defiant Gearwurm
+	8 CL01 Ornek Archive
+[foil(1)]
+	12 CW01 Ruin Falcon
+	12 CW02 Unity Talisman
+	12 CW06 Talweir Apprentice
+	12 CW04 Precious Data
+	12 CW05 Unearthing Aspect
+	12 CW03 Cleansing Aspect
+	12 CW08 Knowledge Caretaker
+	12 CW09 Rembrant Convoy
+	12 CW10 Talwir Reforger
+	12 CW11 Stalwart Arbitrator
+	12 CW12 Reconstruct
+	12 CW13 United Front
+	12 CW14 Detainment Protocol
+	12 CW15 Respirator Suit
+	12 CW16 Gritemettle's Resolve
+	12 CW17 Ruin Deconstructor
+	12 CW18 Forgotten by History
+	12 CU01 Delving Aspect
+	12 CU02 Salvage Spotter
+	12 CU04 Seasoned Scribe
+	12 CU05 Talwir Restorationist
+	12 CU03 Ruination Crustacean
+	12 CU07 Warcaver Strike Leader
+	12 CU08 Guardian of History
+	12 CU09 Cavern-Dweller Octopus
+	12 CU10 Rewrite History
+	12 CU11 Product Delay
+	12 CU12 Supression Bands
+	12 CU13 Keeping Time
+	12 CU14 Serenity Talisman
+	12 CU15 Time Dilation
+	12 CU16 Subterranean Infiltration
+	12 CU17 Emergency Clamp
+	12 CU18 Rembrant Voyager
+	12 CB01 Tunnel Rat
+	12 CB03 Revosh Ensign
+	12 CB02 Tome Tamperer
+	12 CB05 Emancipation Grid
+	12 CB06 Warcaver Lieutenant
+	12 CB10 Rembrant Prowler
+	12 CB08 Scrapdigger
+	12 CB09 Resurgent Colossus
+	12 CB12 Intentional Accident
+	12 CB11 Death Metal
+	12 CB07 Painful Reminder
+	12 CB13 Contract Killer
+	12 CB14 Tunnel Visions
+	12 CB15 Vitality Talisman
+	12 CB16 Irrelevant Information
+	12 CB17 Shelling Up
+	12 CB18 Resurger Engineer
+	12 CR02 Reckeless Resurgent
+	12 CR01 Pebble Pusher
+	12 CR03 Gritmettle Devotee
+	12 CR04 Scrounging Resurgent
+	12 CR05 Invaluable Asset
+	12 CR06 Enduring Wanderer
+	12 CR07 Rembrant Incinerator
+	12 CR08 Artillery Sheller
+	12 CR09 Desperate Resurger
+	12 CR10 Purity Talisman
+	12 CR11 Scrap Surge
+	12 CR12 Under Contract
+	12 CR13 Triumphant Charge
+	12 CR14 Peddler of Antiquities
+	12 CR15 Gritmettle's Fury
+	12 CR16 Overdrive
+	12 CR17 Defiant Wurmling
+	12 CR18 Resurge
+	12 CG01 Andyir Cultivator
+	12 CG03 Earth Aspect
+	12 CG14 Survey Corp Explorer
+	12 CG04 Awakened Rubble
+	12 CG05 Talwir Earth-Mover
+	12 CG17 Territory Surveyor
+	12 CG07 Virulent Resurgent
+	12 CG08 Gritmettle Aggressor
+	12 CG09 Rembrant Vanguard
+	12 CG10 Harrowing Resurgent
+	12 CG11 Rapid Ambush
+	12 CG06 Excavation Overseer
+	12 CG13 Protect the Past
+	12 CG18 Rust Beast
+	12 CG15 Gritmettle's Blessing
+	12 CG16 Sky Shatter
+	12 CG12 Harmony Talisman
+	12 CG02 Scrapmutt Resurgent
+	6 UW01 Methodical Elite
+	6 UW03 Viek, Surveillance Scout
+	6 UW06 Devoted Revivalist
+	6 UW05 Records Keeper
+	6 UW04 Talwir Enkindler
+	6 UW07 Shamar, Resolute Guardian
+	6 UW08 Eula, Ardent Reconstructor
+	6 UW09 Enforcer's Rebuke
+	6 UW10 Expansionist's Forge
+	6 UW11 Preservation
+	6 UU08 Talwir Researcher
+	12 CU06 Dedicated Organizer
+	6 UU10 Uncovered Truths
+	6 UU03 Information Courier
+	6 UU06 Ivis, Revosh Subterfugist
+	6 UU04 Halm, Cavern-Ruins Delver
+	6 UU01 Avidron, Diligent Scribe
+	6 UU02 Infiltration Crustacean
+	6 UU07 Talwir Ancient
+	6 UU11 Reprimand
+	6 UB01 Expendable Lackey
+	6 UB02 Ovos, Mythkeeper Scribe
+	6 UB03 Resurgent Scavenger
+	6 UB04 Cavendish, Rubble Overseer
+	6 UB06 Impassive Enforcer
+	6 UB05 Duskwing Crusader
+	6 UB09 Viktor, Macabre Resurger
+	6 UB08 Immediate Termination
+	6 UB07 Scrap Tinkerer
+	6 UB10 Insurance Policy
+	6 UB11 Emergency Resurge
+	6 UR02 Drix, Artisanal Metalcrafter
+	6 UR01 Inspiring Scout
+	6 UR04 Unstable Resurgent
+	6 UR03 Warcaver Wayfinder
+	6 UR05 Farron, the War-Herald
+	6 UR06 Relik, Warcaver Commander
+	6 UR08 United Blaze
+	6 UR09 Shell Shock
+	6 UR10 Scrap Compactor
+	6 UR11 Overwhelming Presence
+	6 UG01 Dalawa, Nuturing Aspect
+	6 UG02 Rejuvenating Aspcet
+	6 UG04 Survery Corp Veteran
+	6 UG05 Haldren, Survey Guide
+	6 UG06 Reclamantion Sentinel
+	6 UG09 Farseeker
+	6 UG10 Resonate
+	6 UG11 Life Beacon
+	2 RW02 Fragment of Nótaal
+	2 RW05 Hila, Ever-Ready Rescuer
+	2 RX09 The Silent Eclipse
+	2 RX04 Gritmettle's Fervor
+	2 RU02 Fragment of Enmíka
+	2 RU05 Sollos, Recovering Aspect
+	2 RX01 Supression of Truth
+	2 RX11 Warcaver Dive Suit
+	2 RX10 Harel, Shell Miser
+	6 UU09 Counter Intel Agent
+	2 RB05 Arkx, Scrap Recycler
+	2 RB01 Ial Kóltia's Awakening
+	2 RB03 Harel, Underclawed Dealer
+	2 RB02 Cloth of Kóltia
+	2 RX18 Garrent, Last to Fall
+	2 RR02 Horn of Aróita
+	2 RR01 Ial Aróita's Awakening
+	2 RR05 Ralik, Treasury Warden
+	2 RR04 Valonar, Gritmettle's Flame
+	2 RX13 The Great Expansion
+	2 RG02 Shard of Oníraa
+	2 RG01 Ial Oníraa's Awakening
+	2 RG04 Vash'nir of the Old Guard
+	2 RG03 Kaliya, Seasoned Explorer
+	2 RX16 Combative Resurger
+	2 RX15 Scheduled For Demolition
+	1 MB02 Warcaver Elite
+	1 MR02 Brutal Resurger Chief
+	1 MX04 Kauthkar, Warcaver Admiral
+	6 UX08 Survery Corp Nomad
+	2 RX20 Gritmettle Warherald
+	2 RX19 Roar of the Gritmettle
+	2 RX23 Unseal From Frost
+	2 RX07 Deny the Truth
+	2 RX22 Haldar, the Past Waker
+	2 RX21 Founding the Andyir
+	12 CL01 Ornek Archive
+	6 UX31 Archaic Ruins
+	6 UX33 Barren Ruins
+	6 UX34 Depleted Ruins
+	6 UX35 Forgotten Ruins
+	6 UX02 Peaceful Strix
+	2 RX08 Seasoned Archivist
+	2 RX31 Deeplocke Archive
+	2 RX32 Warcaver Garrison
+	2 RX33 Salvage Yard Relkore
+	2 RX35 Citadel of Restoration
+	6 UX05 Revosh Pocket-Liner
+	2 RX02 Stripmine Bore
+	2 RW03 Elsar, Talwir Reclaimer
+	6 UX22 Aldwin, Gritmettle Vigil
+	6 UX11 Ornek Charm
+	6 UX20 Andyir Charm
+	6 UX17 Mulladock Charm
+	6 UX14 Revosh Charm
+	6 UX23 Kronaea Charm
+	12 CA04 Andyir Sigil
+	12 CA01 Ornek Sigil
+	12 CA03 Mulladock Sigil
+	12 CA05 Kronaea Sigil
+	12 CA02 Revosh Sigil
+	2 RX06 Relvik, the Blind Seer
+	6 UX10 Restoration Architect
+	6 UX03 Scornful Flightless
+	6 UX06 Resurger Salvage Rig
+	6 UX04 Insightful Excavation
+	12 CL02 Revosh Quarry
+	12 CL03 Mulladock Scrapyard
+	12 CL04 Andyir Encampment
+	12 CL05 Kronaean Dig Site
+	12 CL06 Terramorphic Expanse
+	12 CL07 Planar Hub
+	12 CZ02 Kraven, Warcaver Soldier
+	12 CZ05 Elasari, Talwir Awakener
+	12 CZ04 Aldwin, Gritmettle Trailblazer
+	12 CZ01 The Arbiters of Memory
+	12 CB04 Salvage Worker
+	12 CA06 Rejuvination Rembrant
+	6 UX26 Survey Resurgent
+	1 MX07 Haldren, Andyir Pathleader
+	1 MX09 Elasari, Unifier of Kronaea
+	6 UX15 Drill Sergeant
+	1 MX16 The Stability Anchor
+	1 MX08 Garrent, Gritmettle's Chosen
+	6 UX09 Recruit Mentor
+	6 UX12 Archive Advokist
+	6 UX13 Arva, Seasoned Mythkeeper
+	6 UX16 Ral'Keth, Warcaver Captain
+	6 UX18 Resurgent Scrap-Driver
+	6 UX19 Rava, Resurger Specialist
+	6 UX21 Andyir Duskwatch
+	6 UX07 Salvage Vendor
+	6 UX24 Restoration Overseer
+	6 UX25 Elsar, Talwir Replicatonist
+	6 UX29 Refinery Forge
+	6 UX28 Chromatic Sigil
+	6 UX30 The Sanity Auger
+	6 UX27 Retention Rembrant
+	6 UW13 The Disruption of Balance
+	6 UU13 The Shattering of Stability
+	6 UU12 Echoing Well Drill
+	6 UR12 Crash Out
+	6 UR13 The Extinguishing of Passions
+	6 UG12 Scrap for Parts
+	6 UG13 The Sundering of Community
+	6 UB12 Memory Wipe
+	6 UB13 The Fracturing of Morals
+	1 MX06 Dustchurner, The Capital Rig
+	2 RX24 Expert Restorationist
+	2 RX25 Return of the Talweir
+	2 RX30 Ignotia's Core
+	2 RX28 Salvage Rembrant
+	2 RX27 Dredging Station
+	2 RX29 Effigy, Solemn Rembrant
+	2 RX26 Orrery, the Sky Fortress
+	1 MW02 Kafri, Forged Anew
+	6 UU05 Warcaver Brigade
+	6 UG08 Barox, Salvager Specialist
+	6 UX01 Duplication Aspect
+	2 RU04 Vak'il, the Conspirator
+	2 RU03 Sarvva, Arbiter of Futures
+	2 RB04 Obselva, Arbiter of Pasts
+	2 RU01 Ial Enmíka's Awakening
+	2 RW01 Ial Nótaal's Awakening
+	2 RW04 Edevic, Arbiter of Presents
+	2 RX05 Kafri, the Reclaimer
+	2 RX17 Igniting the Forge
+	1 MX15 Sword of Never and Again
+	2 RX33 Salvage Yard Relkore
+	2 RX32 Warcaver Garrison
+	2 RX35 Citadel of Restoration
+	2 RX34 The Founding Lands
+	1 Ial Oníraa, Godsire of Harmony
+	1 Ial Kóltia, Godsire of Vitality
+	1 Ial Aróita, Godsire of Purity
+	1 Ial Nótaal, Godsire of Unity
+	1 Ial Enmíka, Godsire of Stability
+	1 MG02 Expedition Leader
+	1 Dihada, Scourge of the Past
+	1 Dihada, Scourge of the Past
+	2 RX34 The Founding Lands
+	6 UX32 Desolate Ruins
+	2 RX31 Deeplocke Archive
+	12 CW07 Andyir Overwatch
+	6 UW02 Gritmettle Martyr
+	6 UW12 Empowered By Faith
+	2 RX03 Colossal Gearwurm
+	2 RR03 Hal'kar, Ravenous Gearwurm
+	12 CZ03 Hal'kar, Defiant Gearwurm
+	6 UR07 Resurgent Gearwurm
+	6 UG07 Seige-Engine Resurgent
+	6 UG03 Scrapmongrel Resurgent
+	2 RG05 Brutus, Scraphound Alpha
+	1 MX05 Rava, Mulladock Forgemaster
+	2 RX14 Rava, Chief Engineer
+	1 MX02 Ornek Adjudicator
+	1 MX10 Balrra, Life-Giver Aspect
+	1 MU02 Archive Counting Crow
+	1 MW02 Terlaa, Sheltering Aspect
+	1 MW02 Terlaa, Sheltering Aspect
+	1 MX01 The Arbiters of Time
+	1 MX03 Rektchor, Revosh CEO
+	1 MX14 Ial Ignotia, Godsire of Awakening
+	2 RX12 Relicant II, Augership
+	1 Dihada, Scourge of the Past
+	12 CL01 Ornek Archive
+[wildcard(1)]
+	6 CW01 Ruin Falcon
+	6 CW02 Unity Talisman
+	6 CW06 Talweir Apprentice
+	6 CW04 Precious Data
+	6 CW05 Unearthing Aspect
+	6 CW03 Cleansing Aspect
+	6 CW08 Knowledge Caretaker
+	6 CW09 Rembrant Convoy
+	6 CW10 Talwir Reforger
+	6 CW11 Stalwart Arbitrator
+	6 CW12 Reconstruct
+	6 CW13 United Front
+	6 CW14 Detainment Protocol
+	6 CW15 Respirator Suit
+	6 CW16 Gritemettle's Resolve
+	6 CW17 Ruin Deconstructor
+	6 CW18 Forgotten by History
+	6 CU01 Delving Aspect
+	6 CU02 Salvage Spotter
+	6 CU04 Seasoned Scribe
+	6 CU05 Talwir Restorationist
+	6 CU03 Ruination Crustacean
+	6 CU07 Warcaver Strike Leader
+	6 CU08 Guardian of History
+	6 CU09 Cavern-Dweller Octopus
+	6 CU10 Rewrite History
+	6 CU11 Product Delay
+	6 CU12 Supression Bands
+	6 CU13 Keeping Time
+	6 CU14 Serenity Talisman
+	6 CU15 Time Dilation
+	6 CU16 Subterranean Infiltration
+	6 CU17 Emergency Clamp
+	6 CU18 Rembrant Voyager
+	6 CB01 Tunnel Rat
+	6 CB03 Revosh Ensign
+	6 CB02 Tome Tamperer
+	6 CB05 Emancipation Grid
+	6 CB06 Warcaver Lieutenant
+	6 CB10 Rembrant Prowler
+	6 CB08 Scrapdigger
+	6 CB09 Resurgent Colossus
+	6 CB12 Intentional Accident
+	6 CB11 Death Metal
+	6 CB07 Painful Reminder
+	6 CB13 Contract Killer
+	6 CB14 Tunnel Visions
+	6 CB15 Vitality Talisman
+	6 CB16 Irrelevant Information
+	6 CB17 Shelling Up
+	6 CB18 Resurger Engineer
+	6 CR02 Reckeless Resurgent
+	6 CR01 Pebble Pusher
+	6 CR03 Gritmettle Devotee
+	6 CR04 Scrounging Resurgent
+	6 CR05 Invaluable Asset
+	6 CR06 Enduring Wanderer
+	6 CR07 Rembrant Incinerator
+	6 CR08 Artillery Sheller
+	6 CR09 Desperate Resurger
+	6 CR10 Purity Talisman
+	6 CR11 Scrap Surge
+	6 CR12 Under Contract
+	6 CR13 Triumphant Charge
+	6 CR14 Peddler of Antiquities
+	6 CR15 Gritmettle's Fury
+	6 CR16 Overdrive
+	6 CR17 Defiant Wurmling
+	6 CR18 Resurge
+	6 CG01 Andyir Cultivator
+	6 CG03 Earth Aspect
+	6 CG14 Survey Corp Explorer
+	6 CG04 Awakened Rubble
+	6 CG05 Talwir Earth-Mover
+	6 CG17 Territory Surveyor
+	6 CG07 Virulent Resurgent
+	6 CG08 Gritmettle Aggressor
+	6 CG09 Rembrant Vanguard
+	6 CG10 Harrowing Resurgent
+	6 CG11 Rapid Ambush
+	6 CG06 Excavation Overseer
+	6 CG13 Protect the Past
+	6 CG18 Rust Beast
+	6 CG15 Gritmettle's Blessing
+	6 CG16 Sky Shatter
+	6 CG12 Harmony Talisman
+	6 CG02 Scrapmutt Resurgent
+	15 UW01 Methodical Elite
+	15 UW03 Viek, Surveillance Scout
+	15 UW06 Devoted Revivalist
+	15 UW05 Records Keeper
+	15 UW04 Talwir Enkindler
+	15 UW07 Shamar, Resolute Guardian
+	15 UW08 Eula, Ardent Reconstructor
+	15 UW09 Enforcer's Rebuke
+	15 UW10 Expansionist's Forge
+	15 UW11 Preservation
+	15 UU08 Talwir Researcher
+	6 CU06 Dedicated Organizer
+	15 UU10 Uncovered Truths
+	15 UU03 Information Courier
+	15 UU06 Ivis, Revosh Subterfugist
+	15 UU04 Halm, Cavern-Ruins Delver
+	15 UU01 Avidron, Diligent Scribe
+	15 UU02 Infiltration Crustacean
+	15 UU07 Talwir Ancient
+	15 UU11 Reprimand
+	15 UB01 Expendable Lackey
+	15 UB02 Ovos, Mythkeeper Scribe
+	15 UB03 Resurgent Scavenger
+	15 UB04 Cavendish, Rubble Overseer
+	15 UB06 Impassive Enforcer
+	15 UB05 Duskwing Crusader
+	15 UB09 Viktor, Macabre Resurger
+	15 UB08 Immediate Termination
+	15 UB07 Scrap Tinkerer
+	15 UB10 Insurance Policy
+	15 UB11 Emergency Resurge
+	15 UR02 Drix, Artisanal Metalcrafter
+	15 UR01 Inspiring Scout
+	15 UR04 Unstable Resurgent
+	15 UR03 Warcaver Wayfinder
+	15 UR05 Farron, the War-Herald
+	15 UR06 Relik, Warcaver Commander
+	15 UR08 United Blaze
+	15 UR09 Shell Shock
+	15 UR10 Scrap Compactor
+	15 UR11 Overwhelming Presence
+	15 UG01 Dalawa, Nuturing Aspect
+	15 UG02 Rejuvenating Aspcet
+	15 UG04 Survery Corp Veteran
+	15 UG05 Haldren, Survey Guide
+	15 UG06 Reclamantion Sentinel
+	15 UG09 Farseeker
+	15 UG10 Resonate
+	15 UG11 Life Beacon
+	7 RW02 Fragment of Nótaal
+	7 RW05 Hila, Ever-Ready Rescuer
+	7 RX09 The Silent Eclipse
+	7 RX04 Gritmettle's Fervor
+	7 RU02 Fragment of Enmíka
+	7 RU05 Sollos, Recovering Aspect
+	7 RX01 Supression of Truth
+	7 RX11 Warcaver Dive Suit
+	7 RX10 Harel, Shell Miser
+	15 UU09 Counter Intel Agent
+	7 RB05 Arkx, Scrap Recycler
+	7 RB01 Ial Kóltia's Awakening
+	7 RB03 Harel, Underclawed Dealer
+	7 RB02 Cloth of Kóltia
+	7 RX18 Garrent, Last to Fall
+	7 RR02 Horn of Aróita
+	7 RR01 Ial Aróita's Awakening
+	7 RR05 Ralik, Treasury Warden
+	7 RR04 Valonar, Gritmettle's Flame
+	7 RX13 The Great Expansion
+	7 RG02 Shard of Oníraa
+	7 RG01 Ial Oníraa's Awakening
+	7 RG04 Vash'nir of the Old Guard
+	7 RG03 Kaliya, Seasoned Explorer
+	7 RX16 Combative Resurger
+	7 RX15 Scheduled For Demolition
+	4 MB02 Warcaver Elite
+	4 MR02 Brutal Resurger Chief
+	4 MX04 Kauthkar, Warcaver Admiral
+	15 UX08 Survery Corp Nomad
+	7 RX20 Gritmettle Warherald
+	7 RX19 Roar of the Gritmettle
+	7 RX23 Unseal From Frost
+	7 RX07 Deny the Truth
+	7 RX22 Haldar, the Past Waker
+	7 RX21 Founding the Andyir
+	6 CL01 Ornek Archive
+	15 UX31 Archaic Ruins
+	15 UX33 Barren Ruins
+	15 UX34 Depleted Ruins
+	15 UX35 Forgotten Ruins
+	15 UX02 Peaceful Strix
+	7 RX08 Seasoned Archivist
+	7 RX31 Deeplocke Archive
+	7 RX32 Warcaver Garrison
+	7 RX33 Salvage Yard Relkore
+	7 RX35 Citadel of Restoration
+	15 UX05 Revosh Pocket-Liner
+	7 RX02 Stripmine Bore
+	7 RW03 Elsar, Talwir Reclaimer
+	15 UX22 Aldwin, Gritmettle Vigil
+	15 UX11 Ornek Charm
+	15 UX20 Andyir Charm
+	15 UX17 Mulladock Charm
+	15 UX14 Revosh Charm
+	15 UX23 Kronaea Charm
+	6 CA04 Andyir Sigil
+	6 CA01 Ornek Sigil
+	6 CA03 Mulladock Sigil
+	6 CA05 Kronaea Sigil
+	6 CA02 Revosh Sigil
+	7 RX06 Relvik, the Blind Seer
+	15 UX10 Restoration Architect
+	15 UX03 Scornful Flightless
+	15 UX06 Resurger Salvage Rig
+	15 UX04 Insightful Excavation
+	6 CL02 Revosh Quarry
+	6 CL03 Mulladock Scrapyard
+	6 CL04 Andyir Encampment
+	6 CL05 Kronaean Dig Site
+	6 CL06 Terramorphic Expanse
+	6 CL07 Planar Hub
+	6 CZ02 Kraven, Warcaver Soldier
+	6 CZ05 Elasari, Talwir Awakener
+	6 CZ04 Aldwin, Gritmettle Trailblazer
+	6 CZ01 The Arbiters of Memory
+	6 CB04 Salvage Worker
+	6 CA06 Rejuvination Rembrant
+	15 UX26 Survey Resurgent
+	4 MX07 Haldren, Andyir Pathleader
+	4 MX09 Elasari, Unifier of Kronaea
+	15 UX15 Drill Sergeant
+	4 MX16 The Stability Anchor
+	4 MX08 Garrent, Gritmettle's Chosen
+	15 UX09 Recruit Mentor
+	15 UX12 Archive Advokist
+	15 UX13 Arva, Seasoned Mythkeeper
+	15 UX16 Ral'Keth, Warcaver Captain
+	15 UX18 Resurgent Scrap-Driver
+	15 UX19 Rava, Resurger Specialist
+	15 UX21 Andyir Duskwatch
+	15 UX07 Salvage Vendor
+	15 UX24 Restoration Overseer
+	15 UX25 Elsar, Talwir Replicatonist
+	15 UX29 Refinery Forge
+	15 UX28 Chromatic Sigil
+	15 UX30 The Sanity Auger
+	15 UX27 Retention Rembrant
+	15 UW13 The Disruption of Balance
+	15 UU13 The Shattering of Stability
+	15 UU12 Echoing Well Drill
+	15 UR12 Crash Out
+	15 UR13 The Extinguishing of Passions
+	15 UG12 Scrap for Parts
+	15 UG13 The Sundering of Community
+	15 UB12 Memory Wipe
+	15 UB13 The Fracturing of Morals
+	4 MX06 Dustchurner, The Capital Rig
+	7 RX24 Expert Restorationist
+	7 RX25 Return of the Talweir
+	7 RX30 Ignotia's Core
+	7 RX28 Salvage Rembrant
+	7 RX27 Dredging Station
+	7 RX29 Effigy, Solemn Rembrant
+	7 RX26 Orrery, the Sky Fortress
+	4 MW02 Kafri, Forged Anew
+	15 UU05 Warcaver Brigade
+	15 UG08 Barox, Salvager Specialist
+	15 UX01 Duplication Aspect
+	7 RU04 Vak'il, the Conspirator
+	7 RU03 Sarvva, Arbiter of Futures
+	7 RB04 Obselva, Arbiter of Pasts
+	7 RU01 Ial Enmíka's Awakening
+	7 RW01 Ial Nótaal's Awakening
+	7 RW04 Edevic, Arbiter of Presents
+	7 RX05 Kafri, the Reclaimer
+	7 RX17 Igniting the Forge
+	4 MX15 Sword of Never and Again
+	7 RX33 Salvage Yard Relkore
+	7 RX32 Warcaver Garrison
+	7 RX35 Citadel of Restoration
+	7 RX34 The Founding Lands
+	4 Ial Oníraa, Godsire of Harmony
+	4 Ial Kóltia, Godsire of Vitality
+	4 Ial Aróita, Godsire of Purity
+	4 Ial Nótaal, Godsire of Unity
+	4 Ial Enmíka, Godsire of Stability
+	4 MG02 Expedition Leader
+	4 Dihada, Scourge of the Past
+	4 Dihada, Scourge of the Past
+	7 RX34 The Founding Lands
+	15 UX32 Desolate Ruins
+	7 RX31 Deeplocke Archive
+	6 CW07 Andyir Overwatch
+	15 UW02 Gritmettle Martyr
+	15 UW12 Empowered By Faith
+	7 RX03 Colossal Gearwurm
+	7 RR03 Hal'kar, Ravenous Gearwurm
+	6 CZ03 Hal'kar, Defiant Gearwurm
+	15 UR07 Resurgent Gearwurm
+	15 UG07 Seige-Engine Resurgent
+	15 UG03 Scrapmongrel Resurgent
+	7 RG05 Brutus, Scraphound Alpha
+	4 MX05 Rava, Mulladock Forgemaster
+	7 RX14 Rava, Chief Engineer
+	4 MX02 Ornek Adjudicator
+	4 MX10 Balrra, Life-Giver Aspect
+	4 MU02 Archive Counting Crow
+	4 MW02 Terlaa, Sheltering Aspect
+	4 MW02 Terlaa, Sheltering Aspect
+	4 MX01 The Arbiters of Time
+	4 MX03 Rektchor, Revosh CEO
+	4 MX14 Ial Ignotia, Godsire of Awakening
+	7 RX12 Relicant II, Augership
+	4 Dihada, Scourge of the Past
+	6 CL01 Ornek Archive
