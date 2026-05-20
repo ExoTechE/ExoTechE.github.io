@@ -1,4 +1,1157 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW01 Ruins Raptor added.
+CW06 Talwir Apprentice added.
+CW05 Consecration Aspect added.
+CW09 Rembrant Skyguard added.
+CW10 Talwir Reclaimer added.
+CW15 Conservation Shield added.
+CU12 Suppression Coils added.
+CU17 Stasis Stone added.
+CB01 Tunnel Rats added.
+CR04 Resurgent Rummager added.
+CR09 Swift Resurger added.
+CG10 Harrowed Resurgent added.
+CG02 Resurgent Scrapmutt added.
+UW10 Expansionist's Anvil added.
+UU08 Imposing Archivist added.
+UB03 Resurgent Repurposer added.
+UG02 Rejuvenating Aspect added.
+UG04 Survey Corp Veteran added.
+UG05 Haldren, Survey Captain added.
+RB05 Arkell, Scrap Recycler added.
+RB02 Fragment of Kóltia added.
+RR02 Fragment of Aróita added.
+RG02 Fragment of Oníraa added.
+RX16 Renagade Resurger added.
+RX15 Scheduled Demolition added.
+MR02 Smokestacks Artilerist added.
+UX08 Survey Corp Nomad added.
+RW03 Havdul, Talwir Reclaimer added.
+CZ02 Warcaver Soldier added.
+CZ05 Talwir Awakener added.
+CZ04 Gritmettle Trailblazer added.
+CZ01 Dusk Scribe added.
+UX18 Scrap-Driver Chief added.
+UX19 Vexel, Resurger Specialist added.
+UX24 Restoration Aspect added.
+UX25 Elasari, Talwir Prodigy added.
+UU12 Echoing-Well Drill added.
+RX24 Restorationist Expert added.
+RX25 Return of the Talwir added.
+RX26 Orrery, Sky Fortress added.
+RX05 Kafri, Ignotia's Hope added.
+CZ03 Defiant Gearwurm added.
+UG07 Scavenger Resurgent added.
+MX10 Balrra, Life-Giving Aspect added.
+UX13 Relvik, Seasoned Mythkeeper added.
+
+CW01 Ruin Falcon removed.
+CW06 Talweir Apprentice removed.
+CW05 Unearthing Aspect removed.
+CW09 Rembrant Convoy removed.
+CW10 Talwir Reforger removed.
+CW15 Respirator Suit removed.
+CU12 Supression Bands removed.
+CU17 Emergency Clamp removed.
+CB01 Tunnel Rat removed.
+CR04 Scrounging Resurgent removed.
+CR09 Desperate Resurger removed.
+CG10 Harrowing Resurgent removed.
+CG02 Scrapmutt Resurgent removed.
+UW10 Expansionist's Forge removed.
+UU08 Talwir Researcher removed.
+UB03 Resurgent Scavenger removed.
+UG02 Rejuvenating Aspcet removed.
+UG04 Survery Corp Veteran removed.
+UG05 Haldren, Survey Guide removed.
+RB05 Arkx, Scrap Recycler removed.
+RB02 Cloth of Kóltia removed.
+RR02 Horn of Aróita removed.
+RG02 Shard of Oníraa removed.
+RX16 Combative Resurger removed.
+RX15 Scheduled For Demolition removed.
+MR02 Brutal Resurger Chief removed.
+UX08 Survery Corp Nomad removed.
+RW03 Elsar, Talwir Reclaimer removed.
+CZ02 Kraven, Warcaver Soldier removed.
+CZ05 Elasari, Talwir Awakener removed.
+CZ04 Aldwin, Gritmettle Trailblazer removed.
+CZ01 The Arbiters of Memory removed.
+UX13 Arva, Seasoned Mythkeeper removed.
+UX18 Resurgent Scrap-Driver removed.
+UX19 Rava, Resurger Specialist removed.
+UX24 Restoration Overseer removed.
+UX25 Elsar, Talwir Replicatonist removed.
+UU12 Echoing Well Drill removed.
+RX24 Expert Restorationist removed.
+RX25 Return of the Talweir removed.
+RX26 Orrery, the Sky Fortress removed.
+RX05 Kafri, the Reclaimer removed.
+RX33 Salvage Yard Relkore removed.
+RX32 Warcaver Garrison removed.
+RX35 Citadel of Restoration removed.
+Dihada, Scourge of the Past removed.
+RX34 The Founding Lands removed.
+RX31 Deeplocke Archive removed.
+CZ03 Hal'kar, Defiant Gearwurm removed.
+UG07 Seige-Engine Resurgent removed.
+MX10 Balrra, Life-Giver Aspect removed.
+Dihada, Scourge of the Past removed.
+CL01 Ornek Archive removed.
+
+CW02 Unity Talisman
+rules_text: When Unity Talisman enters or is put into the graveyard from the battlefield, create a 2/1 colorless Elemental Spirit creature token.
+{1}{W}: Sacrifice Unity Talisman: Draw a card. => When this artifact enters or is put into the graveyard from the battlefield, create a 2/1 colorless Elemental Spirit creature token.
+{1}{W}: Sacrifice this artifact: Draw a card.
+
+CW04 Precious Data
+rules_text: When Precious Data enters, if you have three or more cards in exile, create a 2/2 blue Bird artifact creature tokens with flying.
+{T}, Sacrifice Precious Data: Add one mana of any color. => When this artifact enters, if you have three or more cards in exile, create a 2/2 blue Bird artifact creature tokens with flying.
+{T}, Sacrifice this artifact: Add one mana of any color.
+
+CW03 Cleansing Aspect
+rules_text: When Cleansing Aspect enters, exile up to one target card from a graveyard. If a card left a graveyard this turn, exile up to two target cards instead. => When this creature enters, exile up to one target card from a graveyard. If a card left a graveyard this turn, exile up to two target cards instead.
+
+CW08 Knowledge Caretaker
+rules_text: As long as a card you own is in exile, this spell has flash.
+Flying
+When Knowledge Caretaker enters, chronicle 3. [i](Look at the top three cards of your library, then exile one of those cards. It becomes chronicled. For as long as that card remains chronicled you may play it. Put the remaining cards on the bottom of your library in a random order.)[/i] => As long as a card you own is in exile, this spell has flash. [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying
+When this creature enters, you may return target permanent card you own with a chronicle counter on it from exile to your hand.
+
+CW11 Stalwart Arbitrator
+rules_text: Vigilance
+Whenever Stalwart Arbitrator attacks, you may tap it. If you do, it gets +2/+2 until end of turn. => Vigilance
+Whenever this creature attacks, you may tap it. If you do, it gets +2/+2 until end of turn.
+
+CW12 Reconstruct
+
+CW14 Detainment Protocol
+rules_text: As long as a card you own is in exile, this spell has flash. [i](You may cast this spell any time you could cast an instant.)[/i]
+Exile target nonland permanent an opponent controls until Detainment Protocol leaves the battlefield. => You may cast this spell as though it had flash if you chronicle the top card of your library as an additional cost to cast it. [i](Exile it with a chronicle counter on it.)[/i]
+Exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+
+CW17 Ruin Deconstructor
+rules_text: If a card left a graveyard this turn, this spell costs {1} less to cast.
+Lifelink
+When Ruin Deconstructor enters, you may destroy target nonland historic permanent. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => If a card left a graveyard this turn, this spell costs {1} less to cast.
+Lifelink
+When this creature enters, destroy up to one target nonland historic permanent. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CW18 Forgotten by History
+
+CU01 Delving Aspect
+rules_text: When Delving Aspect enters, surveil 2.
+{1}{U}, {T}: Draw two cards, then discard a card. This ability costs {1} less to activate if a card left a graveyard this turn. => When this creature enters, surveil 2.
+{1}{U}, {T}: Draw two cards, then discard a card. This ability costs {1} less to activate if a card left a graveyard this turn.
+
+CU02 Salvage Spotter
+rules_text: Flash
+Flying
+Whenever Salvage Spotter attacks, chronicle 2. [i](Look at the top two cards of your library, then exile one of those cards. It becomes chronicled. For as long as that card remains chronicled you may play it. Put the remaining cards on the bottom of your library in a random order.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying
+Whenever this creature attacks, you may chronicle the top card of your library. If you do, draw a card. [i](Exile it with a chronicle counter on it.)[/i]
+
+CU04 Seasoned Scribe
+type: Creature — Bird Artificer => Creature — Bird Advisor
+
+CU05 Talwir Restorationist
+type: Creature — Giant Artificer => Creature — Giant Wizard
+rules_text: When Talwir Restorationist enters, restore 2. [i](Return up to one target noncreature permanent card with mana value 2 or less from your graveyard to the battlefield tapped.)[/i] => When this creature enters, restore 2. [i](Return up to one target noncreature permanent card with mana value 2 or less from your graveyard to the battlefield tapped.)[/i]
+
+CU03 Ruination Crustacean
+rules_text: Whenever this creature or another artifact enters under your control, you may have target player mill three cards. This ability triggers only once each turn.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand.)[/i] => Whenever this creature or another artifact you control enters, up to one target player mill three cards. This ability triggers only once each turn.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+CU07 Warcaver Strike Leader
+rules_text: Whenever Warcaver Strike Leader attacks, up to one other target creature you control can't be blocked this turn.
+Whenever a card is put into your graveyard during your turn, Warcaver Strike Leader gets +1/+0 until end of turn. => Whenever this creature attacks, up to one other target creature you control can't be blocked this turn.
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn.
+
+CU08 Guardian of History
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+As long as there are three or more cards in exile, Guardian of History gets +2/+2 and has flying. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+As long as there are three or more cards in exile, this creature gets +2/+2 and has flying.
+
+CU09 Cavern-Dweller Octopus
+rules_text: Defender [i](This creature can't attack.)[/i]
+If there are eight or more cards in your graveyard, this creature gets +8/+0 and can attack as though it didn't have defender. => Defender [i](This creature can't attack.)[/i]
+As long as there are eight or more cards in your graveyard, this creature gets +8/+0 and can attack as though it didn't have defender.
+
+CU10 Rewrite History
+
+CU14 Serenity Talisman
+rules_text: Whenever Serenity Talisman enters or is put into the graveyard from the battlefield, draw a card, then discard a card.
+{1}{U}, Sacrifice Serenity Talisman: Draw a card. => When this artifact enters or is put into the graveyard from the battlefield, draw a card, then discard a card.
+{1}{U}, Sacrifice this artifact: Draw a card.
+
+CU15 Time Dilation
+
+CU16 Subterranean Infiltration
+rules_text: Until end of turn, target creature can't be blocked and gains “When this creature attacks, each player mills a card, then you draw a card.” => Until end of turn, target creature can't be blocked and gains “Whenever this creature attacks, each player mills a card, then you draw a card.”
+
+CU18 Rembrant Voyager
+rules_text: Flying
+When Rembrant Voyager enters, if there are three or more cards in exile, untap up to five lands.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When this creature enters, if there are three or more cards in exile, untap up to five lands you control.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CB03 Revosh Ensign
+rules_text: Menace
+Whenever Revosh Ensign attacks, you may exile target card from a graveyard.
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand.)[/i] => Menace
+Whenever this creature attacks, you may exile target card from a graveyard.
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+CB02 Tome Tamperer
+
+CB05 Emancipation Grid
+
+CB06 Warcaver Lieutenant
+rules_text: Whenever Warcaver Lieutenant enters or attacks, mill two cards.
+Whenever a card is put into your graveyard during your turn, Warcaver Lieutenant gets +1/+0 until end of turn. => Whenever this creature enters or attacks, mill two cards.
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn.
+
+CB10 Rembrant Prowler
+rules_text: First strike
+When Rembrant Prowler enters, if a card was put into your graveyard from anywhere this turn, destroy target creature.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => First strike
+When this creature enters, if a card was put into your graveyard from anywhere this turn, destroy target creature.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CB08 Scrapdigger
+rules_text: When Scrapdigger enters, you may return target artifact or creature card from your graveyard to your hand. If you don't, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When this creature enters, you may return target artifact or creature card from your graveyard to your hand. If you don't, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+CB09 Resurgent Colossus
+rules_text: When Resurgent Colossus enters, each player mills three cards.
+Reforge {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => When this creature enters, each player mills three cards.
+Reforge {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+CB12 Intentional Accident
+
+CB11 Death Metal
+rules_text: Flash
+Target creature gets -3/-3 until end of turn.
+{1}, {T}, Sacrifice Death Metal: Exile up to one target card from a graveyard. Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Target creature gets -3/-3 until end of turn.
+{B}, {T}, Sacrifice this artifact: Exile up to one target card from a graveyard. Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+CB07 Painful Reminder
+cost: {2}{B} => {B}{B}
+rules_text: Chronicle 2. Repeat this process once. You lose 2 life. [i](Look at the top two cards of your library, then exile one of those cards. It becomes chronicled. For as long as that card remains chronicled you may play it. Put the remaining cards on the bottom of your library in a random order.)[/i] => You draw two cards and you lose 2 life, then chronicle the top card of your library. [i](Exile it with a chronicle counter on it.)[/i]
+
+CB13 Contract Killer
+type: Creature — Crab Rogue Mercenary => Creature — Crab Mercenary
+
+CB14 Tunnel Visions
+rules_text: Surveil 2, then draw two cards. You lose 2 life. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand.)[/i] => Surveil 2, then draw two cards. You lose 2 life. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+CB15 Vitality Talisman
+rules_text: When Vitality Talisman enters or is put into a graveyard from the battlefield, return target creature card from your graveyard to your hand.
+{1}{B}, Sacrifice Vitality Talisman: Draw a card. => When this artifact enters or is put into a graveyard from the battlefield, return target creature card from your graveyard to your hand.
+{1}{B}, Sacrifice this artifact: Draw a card.
+
+CB16 Irrelevant Information
+
+CB17 Shelling Up
+
+CB18 Resurger Engineer
+rules_text: Whenever you sacrifice one or more artifacts, create a tapped 2/2 black Mutant artifact creature token. This ability triggers only once each turn. => Whenever you sacrifice one or more permanents, create a tapped 2/2 black Mutant artifact creature token. This ability triggers only once each turn.
+
+CR02 Reckeless Resurgent
+rules_text: Haste
+When Reckeless Resurgent dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Reforge {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Haste
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Reforge {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+CR01 Pebble Pusher
+rules_text: Haste
+{T}: Sacrifice Pebble Pusher: Add one mana of any color. => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{T}, Sacrifice this creature: Add one mana of any color.
+
+CR03 Gritmettle Devotee
+rules_text: When Gritmettle Devotee attacks, you may tap another untapped target creature you control. If you do, this creature gets +2/+0 and gains trample until end of turn. => Whenever this creature attacks, you may tap another untapped target creature you control. If you do, this creature gets +2/+0 and gains trample until end of turn.
+
+CR05 Invaluable Asset
+
+CR06 Enduring Wanderer
+rules_text: When Enduring Wanderer becomes tapped, embark 3. This ability triggers only once each turn. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => Whenever this creature becomes tapped, embark 3. This ability triggers only once each turn. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+CR07 Rembrant Incinerator
+rules_text: When Rembrant Incinerator enters, you may sacrifice another artifact. If you do, it deals 2 damage to target creature and 2 damage to another target creature.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, you may sacrifice another artifact. If you do, it deals 2 damage to target creature and 2 damage to another target creature.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CR08 Artillery Sheller
+rules_text: Reach
+When Artillery Sheller enters, it deals 2 damage to each opponent.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand.)[/i] => Reach
+When this creature enters, it deals 2 damage to each opponent.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+CR10 Purity Talisman
+rules_text: When Purity Talisman enters or is put into a graveyard from the battlefield, it deals 2 damage divided as you choose among two different targets.
+{1}{R}, Sacrifice Purity Talisman: Draw a card. => When this artifact enters or is put into a graveyard from the battlefield, it deals 2 damage divided as you choose among two different targets.
+{1}{R}, Sacrifice this artifact: Draw a card.
+
+CR11 Scrap Surge
+
+CR12 Under Contract
+
+CR13 Triumphant Charge
+
+CR14 Peddler of Antiquities
+
+CR15 Gritmettle's Fury
+
+CR16 Overdrive
+
+CR17 Defiant Wurmling
+rules_text: Trample
+When Defiant Wurmling enters, choose one —
+• Target creature can't block this turn.
+• Destroy target artifact. => Trample
+When this creature enters, choose one —
+• Target creature can't block this turn.
+• Destroy target artifact.
+
+CR18 Resurge
+
+CG01 Andyir Cultivator
+rules_text: {T}: Tap an untapped historic permanent or creature you control: Add one mana of any color. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Tap an untapped historic permanent or an untapped creature you control: Add one mana of any color. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CG03 Earth Aspect
+rules_text: When Earth Aspect enters, mill three cards. You may put a land or historic permanent card from among them into your hand. If you don't, put a +1/+1 counter on this creature. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => When this creature enters, mill three cards. You may put a land or a historic permanent card from among them into your hand. If you don't, put a +1/+1 counter on this creature. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CG14 Survey Corp Explorer
+rules_text: Vigilance
+Whenever Survey Corp Explorer attacks, you may tap it. When you do, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => Vigilance
+Whenever this creature attacks, you may tap it. When you do, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+CG04 Awakened Rubble
+rules_text: When Awakened Rubble enters, embark 4. [i](Reveal the top four cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+As long as there are five or more cards in your graveyard, Awakened Rubble is a 4/4 Construct creature with trample in addition to its other types. => When this artifact enters, embark 4. [i](Reveal the top four cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+As long as there are five or more cards in your graveyard, this artifact is a 4/4 Construct creature with trample in addition to its other types.
+
+CG05 Talwir Earth-Mover
+rules_text: Reach
+Whenever Talwir Earth-Mover attacks, restore 2. [i](Return up to one target noncreature permanent card with mana value 2 or less from your graveyard to the battlefield tapped.)[/i] => Reach
+Whenever this creature attacks, restore 2. [i](Return up to one target noncreature permanent card with mana value 2 or less from your graveyard to the battlefield tapped.)[/i]
+
+CG17 Territory Surveyor
+
+CG07 Virulent Resurgent
+rules_text: Deathtouch
+Whenever Virulent Resurgent deals combat damage to a player or dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Deathtouch
+Whenever this creature deals combat damage to a player or dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+CG08 Gritmettle Aggressor
+rules_text: You may tap an untapped creature you control as you cast this spell. If you do, it costs {1} less to cast.
+Whenever Gritmettle Aggressor becomes tapped, you may pay {2}. If you do, put a +1/+1 counter on each creature you control. => You may tap an untapped creature you control as you cast this spell. If you do, it costs {1} less to cast.
+Whenever this creature becomes tapped, you may pay {2}. If you do, put a +1/+1 counter on each creature you control.
+
+CG09 Rembrant Vanguard
+rules_text: Trample
+Whenever Rembrant Vanguard attacks, you may tap an untapped creature you control. If you do, untap it and it gets -2/-2 until the start of your next turn.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+Whenever this creature attacks, you may tap an untapped creature you control. If you do, untap it and it gets -2/-2 until the start of your next turn.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CG11 Rapid Ambush
+rules_text: As you cast this spell, you may tap an untapped creature you control.
+Target creature you control fights another target creature. If you tapped a creature as you cast this spell, instead put a +1/+1 counter on target creature, then it deals damage equal to its power to another target creature. => As you cast this spell, you may tap an untapped creature you control.
+Target creature you control fights another target creature. If you tapped a creature as you cast this spell, instead put a +1/+1 counter on target creature you control, then it deals damage equal to its power to another target creature.
+
+CG06 Excavation Overseer
+type: Creature — Giant Advisor => Creature — Giant Shaman
+rules_text: When Excavation Overseer enters, mill three cards.
+{3}{G}, {T}: Return target permanent card from your graveyard to your hand. This ability costs {1} less to activate if a card left your graveyard this turn. => When this creature enters, mill three cards.
+{3}{G}, {T}: Return target permanent card from your graveyard to your hand. This ability costs {1} less to activate if a card left your graveyard this turn.
+
+CG13 Protect the Past
+
+CG18 Rust Beast
+rules_text: {1}, Sacrifice Rust Beast: Choose one —
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a graveyard. => {1}, Sacrifice this creature: Choose one —
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a single graveyard.
+
+CG15 Gritmettle's Blessing
+
+CG16 Sky Shatter
+
+CG12 Harmony Talisman
+rules_text: When Harmony Talisman enters or is put into the graveyard from the battlefield, put a +1/+1 counter on target creature. It gains trample until end of turn.
+{1}{G}: Sacrifice Harmony Talisman: Draw a card. => When this artifact enters or is put into the graveyard from the battlefield, put a +1/+1 counter on target creature. It gains trample until end of turn.
+{1}{G}: Sacrifice this artifact: Draw a card.
+
+UW01 Methodical Elite
+
+UW03 Viek, Surveillance Scout
+rules_text: Flying
+Whenever Viek, Surveillance Scout or another nontoken permanent you control enters, if you didn't cast it from your hand, surveil 2, then draw a card. This ability triggers only once each turn. => Flying
+Whenever Viek or another nontoken creature you control enters, if a card was put into exile this turn, surveil 1, then draw a card. This ability triggers only once each turn. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+UW06 Devoted Revivalist
+type: Creature — Giant Artificer => Creature — Giant Knight
+rules_text: Whenever a card enters under your control from anywhere other than your hand, you gain 2 life.
+At the beginning of your end step, restore 3. [i](Return up to one target noncreature permanent card with mana value 3 or less from your graveyard to the battlefield tapped.)[/i] => Whenever a permanent you control enters from anywhere other than your hand, you gain 2 life.
+At the beginning of your end step, restore 3. [i](Return up to one target noncreature permanent card with mana value 3 or less from your graveyard to the battlefield tapped.)[/i]
+
+UW05 Records Keeper
+rules_text: Flying
+At the beginning of your upkeep, choose one—
+• Create two 1/1 blue Bird artifact creature tokens with flying.
+• You gain 3 life.
+• Chronicle 4. => At the beginning of your upkeep, you may chronicle the top card of your library. If you don't, choose one. Otherwise you may choose both instead. [i](Exile it with a chronicle counter on it.)[/i]
+• Create a 1/1 blue Bird artifact creature token with flying.
+• You gain 3 life.
+
+UW04 Talwir Enkindler
+
+UW07 Shamar, Resolute Guardian
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Vigilance
+When Shamar, Resolute Guardian enters, for each untapped creature you control, create a 1/1 green Warrior creature with vigilance. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Vigilance
+When Shamar enters, create a 1/1 green Warrior creature token with vigilance for each untapped creature you control.
+
+UW08 Eula, Ardent Reconstructor
+
+UW09 Enforcer's Rebuke
+rules_text: Destroy target attacking or blocking creature. If you cast this spell from anywhere other than your hand, exile it instead. => Destroy target attacking or blocking creature. If a card was put into exile this turn, exile it instead.
+
+UW11 Preservation
+
+CU06 Dedicated Organizer
+
+UU10 Uncovered Truths
+rules_text: Reveal the top five cards of your library. An opponent separates them into two piles. Put one pile into exile and the other on the bottom of your library in a random order. Cards put into exile this way become chronicled. [i](For as long as those cards remains chronicled, you may play them.)[/i] => Reveal the top five cards of your library. An opponent separates them into two piles. Put one pile into your hand and the other into exile. Put a chronicle counter on each card put into exile this way.
+
+UU03 Information Courier
+rules_text: Flying
+Spell you cast from anywhere other than your hand cost {1} less to cast.
+At the beginning of your upkeep, chronicle 3. => Flying
+At the beginning of your end step, you may chronicle a card from your graveyard. If you do, you may return target noncreature, nonland card you own with a chronicle counter on it from exile to your hand. [i](Exile it with a chronicle counter on it.)[/i]
+
+UU06 Ivis, Revosh Subterfugist
+
+UU04 Halm, Cavern-Ruins Delver
+type: Legendary Creature — Giant Scout => Legendary Creature — Giant Wizard
+
+UU01 Avidron, Diligent Scribe
+type: Legendary Artifact Creature — Bird Advisor => Legendary Creature — Bird Advisor
+rules_text: Flying
+Avidron can't block.
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Avidron, Diligent Scribe. => Flying
+Avidron can't block.
+Whenever one or more cards are put into exile, put a +1/+1 counter on Avidron, Diligent Scribe.
+
+UU02 Infiltration Crustacean
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Infiltration Crustacean can't be blocked.
+Whenever this creature attacks, each player mills two cards. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+This creature can't be blocked.
+Whenever this creature attacks, each player mills two cards.
+
+UU07 Talwir Ancient
+rules_text: This spell costs {X} less to cast, where X is the greatest mana value among noncreature permanents you control.
+At the beginning of each upkeep, restore 2. => This spell costs {X} less to cast, where X is the greatest mana value among noncreature permanents you control.
+At the beginning of each upkeep, restore 2. [i](Return up to one target noncreature permanent card with mana value 2 or less from your graveyard to the battlefield tapped.)[/i]
+
+UU11 Reprimand
+rules_text: Counter target spell with mana value less than or equal to the number of cards in its controller's graveyard.
+Excavate 4 [i](At the beginning of your upkeep, you may mill four cards. If you do, return this card from your graveyard to your hand.)[/i] => Counter target spell with mana value less than or equal to the number of cards in its controller's graveyard.
+Excavate 4 [i](At the beginning of your upkeep, you may mill four cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+UB01 Expendable Lackey
+rules_text: Expendable Lackey can't block.
+When Expendable Lackey dies, create a Treasure token.
+{2}{B}, Return Expendable Lackey from your graveyard to the battlefield tapped. => This creature can't block.
+When this creature dies, create a Treasure token.
+{2}{B}, Return this creature from your graveyard to the battlefield tapped.
+
+UB02 Ovos, Mythkeeper Scribe
+rules_text: Flash
+As long as there are three or more cards in exile, Ovos has flying.
+Whenever Ovos enters, chronicle 3. When you do, target creature an opponent controls gets -X/-X until end of turn, where X is the number of cards you own in exile. => Flash
+As long as there are three or more cards in exile, Ovos has flying.
+When Ovos enters, you may chronicle a card from your graveyard. When you do, target creature an opponent controls gets -X/-X until end of turn, where X is the number of cards you own in exile. [i](Exile it with a chronicle counter on it.)[/i]
+
+UB04 Cavendish, Rubble Overseer
+rules_text: Menace
+Whenever Cavendish, Rubble Overseer attacks, return up to one target artifact or creature card from your graveyard to your hand.
+At the beginning of your end step, you may discard a card. If you do, create a Treasure token. => Menace
+Whenever Cavendish attacks, return up to one target artifact or creature card from your graveyard to your hand.
+At the beginning of your end step, you may discard a card. If you do, create a Treasure token.
+
+UB06 Impassive Enforcer
+rules_text: As long as you've cast another spell from anywhere other than your hand this turn, this spell costs {3} less to cast.
+Flying, deathtouch, lifelink => As long as card has been put into exile from anywhere this turn, this spell costs {3} less to cast.
+Flying, deathtouch, lifelink
+
+UB05 Duskwing Crusader
+rules_text: During your turn, Duskwing Crusader has flying and menace.
+Duskwing Crusader gets +1/+1 for each card in exile. => During your turn, this creature has flying and menace.
+This creature gets +1/+1 for each card in exile.
+
+UB09 Viktor, Macabre Resurger
+type: Legendary Creature — Orc Warrior => Legendary Creature — Orc Artificer
+rules_text: This spell costs {1} less to cast for each permanent you've sacrificed this turn.
+Sacrifice two artifacts: Return up to one target creature card from your graveyard to the battlefield tapped with a finality counter on it. It's a black Mutant in addition to its other colors and types. => This spell costs {1} less to cast for each permanent you've sacrificed this turn.
+Sacrifice two artifacts: Return up to one target creature card from your graveyard to the battlefield tapped with a finality counter on it. It's a black Mutant in addition to its other colors and types. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+UB08 Immediate Termination
+rules_text: Destroy target enchantment, creature or planeswalker. You lose life equal to that permanent's mana value.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand.)[/i] => Destroy target enchantment, creature or planeswalker. You lose life equal to that permanent's mana value.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+UB07 Scrap Tinkerer
+
+UB10 Insurance Policy
+
+UB11 Emergency Resurge
+
+UR01 Inspiring Scout
+
+UR04 Unstable Resurgent
+rules_text: Trample, haste
+When Unstable Resurgent dies, create a Junk token.
+Reforge {2}{R} [i]({2}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Trample, haste
+When this creature dies, create a Junk token.
+Reforge {2}{R} [i]({2}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UR03 Warcaver Wayfinder
+rules_text: Whenever Warcaver Wayfinder attacks, you may discard your hand. If you do, draw three cards.
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn. => Whenever this creature attacks, you may discard your hand. If you do, draw three cards.
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn.
+
+UR05 Farron, the War-Herald
+
+UR06 Relik, Warcaver Commander
+rules_text: Menace
+Whenever Relik attacks, it deals damage equal to its power to target creature an opponent controls.
+Whenever a card is put into your graveyard during your turn, Relik gets +1/+0 until end of turn. => Menace
+Whenever Relik attacks, he deals damage equal to his power to target creature an opponent controls.
+Whenever a card is put into your graveyard during your turn, Relik gets +1/+0 until end of turn.
+
+UR08 United Blaze
+rules_text: As you cast this spell, you may tap three untapped creatures you control.
+United Blaze deals 3 damage to any target. If you tapped three creatures as you cast this spell, return this spell to your hand. => As you cast this spell, you may tap three untapped creatures you control.
+United Blaze deals 3 damage to any target. If you tapped three creatures as you cast this spell, return this spell to your hand as it resolves.
+
+UR09 Shell Shock
+rules_text: Shell Shock deals 5 damage divided as you choose among any number of target creatures. If a creature didn't die this way, create a tapped Treasure token.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand.)[/i] => Shell Shock deals 5 damage divided as you choose among any number of target creatures. If a creature didn't die this way, create a tapped Treasure token.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+UR10 Scrap Compactor
+
+UR11 Overwhelming Presence
+
+UG01 Dalawa, Nuturing Aspect
+
+UG06 Reclamantion Sentinel
+type: Creature — Giant Knight => Creature — Giant Warrior
+rules_text: Trample
+When this creature enters, destroy two target artifacts and/or enchantments. => Trample
+When this creature enters, destroy up to two target artifacts and/or enchantments.
+
+UG09 Farseeker
+rules_text: Flash
+Farseeker enters tapped.
+When Farseeker enters, search your library or your graveyard for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle. => Flash
+This creature enters tapped.
+When this creature enters, search your library or your graveyard for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
+
+UG10 Resonate
+
+UG11 Life Beacon
+rules_text: Whenever one or more cards leave your graveyard, you gain 1 life.
+{2}, {T}: Return target card from your graveyard to your hand. Then shuffle Life Beacon and your graveyard into their owner's library. => Whenever one or more cards leave your graveyard, you gain 1 life.
+{2}, {T}: Return target card from your graveyard to your hand. Then shuffle this artifact and your graveyard into their owner's library.
+
+RW02 Fragment of Nótaal
+
+RW05 Hila, Ever-Ready Rescuer
+
+RX04 Gritmettle's Fervor
+
+RU02 Fragment of Enmíka
+
+RU05 Sollos, Recovering Aspect
+
+RX01 Supression of Truth
+rules_text: When this enchantment enters, for each player, choose up to one target nonland permanent. Exile each permanent chosen this way. Those cards become chronicled. For as long as those cards remain chronicled its owner may play it.
+Spells your opponents cast from anywhere other than their hand cost {2} more to cast. => When this enchantment enters, for each player, choose up to one target nonland permanent. Chronicle each card chosen this way. [i](Exile it with a chronicle counter on it.)[/i]
+Spells your opponents cast from anywhere other than their hand cost {2} more to cast.
+
+RX11 Warcaver Dive Suit
+rules_text: Equipped creature has “Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn.
+{U}: Equipped creature can't be blocked this turn.
+Equip {2}
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand.)[/i] => Whenever a card is put into your graveyard during your turn, equipped creature gets +1/+0 until end of turn.
+{U}: Equipped creature can't be blocked this turn.
+Equip {2}
+Excavate 3
+
+UU09 Counter Intel Agent
+rules_text: Flying
+{U}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {3}. If it's a noncreature historic spell, exile it instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Flying
+{U}, Chronicle this creature: Counter target noncreature spell unless its controller pays {3}. If it's a noncreature historic spell, exile it instead. [i](Exile it with a chronicle counter on it. Artifacts, legendaries, and Sagas are historic.)[/i]
+
+RB01 Ial Kóltia's Awakening
+
+RB03 Harel, Underclawed Dealer
+rules_text: Whenever one or more cards leave your graveyard, create a tapped Treasure token.
+{UB}, {T}: Until the end of your next turn, target artifact, instant, or sorcery card in your graveyard gains excavate 3. [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand.)[/i] => Whenever one or more cards leave your graveyard, create a tapped Treasure token.
+{UB}, {T}: Until the end of your next turn, target artifact, instant, or sorcery card in your graveyard gains excavate 3. [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+RX18 Garrent, Last to Fall
+
+RR01 Ial Aróita's Awakening
+
+RR05 Ralik, Treasury Warden
+
+RR04 Valonar, Gritmettle's Flame
+
+RX13 The Great Expansion
+
+RG01 Ial Oníraa's Awakening
+
+RG04 Vash'nir of the Old Guard
+rules_text: Trample
+Whenever one or more other nontoken historic permanents enter, you may mill a card. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{2}{G}: Target creature you control gets +X/+X until end of turn, where X is equal to the number of historic permanents you control. => Trample
+Whenever one or more other nontoken historic permanents you control enter, you may mill a card. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{2}{G}: Target creature you control gets +X/+X until end of turn, where X is equal to the number of historic permanents you control.
+
+RG03 Kaliya, Seasoned Explorer
+
+MB02 Warcaver Elite
+rules_text: First strike, menace
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 gains until end of turn.
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, each player mills cards equal to that permanent's mana value. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => First strike, menace
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn.
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, each player mills cards equal to that permanent's mana value. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+MX04 Kauthkar, Warcaver Admiral
+
+RX20 Gritmettle Warherald
+
+RX19 Roar of the Gritmettle
+
+RX23 Unseal From Frost
+
+RX07 Deny the Truth
+
+RX22 Haldar, the Past Waker
+rules_text: Vigilance
+If another nontoken permanent entering the battlefield from anywhere other than your hand causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+At the beginning of your end step, restore 4. => Vigilance
+If another nontoken permanent entering the battlefield from anywhere other than your hand causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+At the beginning of your end step, restore 4. [i](Return up to one target noncreature permanent card with mana value 4 or less from your graveyard to the battlefield tapped.)[/i]
+
+RX21 Founding the Andyir
+
+UX31 Archaic Ruins
+
+UX33 Barren Ruins
+
+UX34 Depleted Ruins
+
+UX35 Forgotten Ruins
+
+UX02 Peaceful Strix
+rules_text: Flying, lifelink
+When UX02 Peaceful Strix enters, surveil 2, then chronicle 2. [i](Look at the top two cards of your library, then exile one of those cards. It becomes chronicled. For as long as that card remains chronicled you may play it. Put the remaining cards on the bottom of your library in a random order.)[/i] => Flying, lifelink
+When this creature enters, surveil 2, then you may chronicle a card from your graveyard. If you do, draw a card. [i](Exile it with a chronicle counter on it.)[/i]
+
+RX31 Deeplocke Archive
+
+RX32 Warcaver Garrison
+rules_text: This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {U}, {B}, or {R}.
+{1}{U}{B}{R}: Until end of turn, target creature you control gains “Until end of turn, this creature gets +1/+0 until end of turn for each card put into your graveyard from your library this turn.” Activate only as a sorcery. => This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {U}, {B}, or {R}.
+{1}{U}{B}{R}: Until end of turn, target creature you control gains “This creature gets +1/+0 for each card put into your graveyard from your library this turn.” Activate only as a sorcery.
+
+RX33 Salvage Yard Relkore
+
+RX35 Citadel of Restoration
+
+UX05 Revosh Pocket-Liner
+type: Creature — Homarid Noble => Creature — Octopus Noble
+
+RX02 Stripmine Bore
+rules_text: At the beginning of your upkeep, each player draws a card.
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and they mill that many cards instead.
+Excavate 5 [i](At the beginning of your upkeep, you may mill five cards. If you do, return this card from your graveyard to your hand.)[/i] => At the beginning of your upkeep, each player draws a card.
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and they mill that many cards instead.
+Excavate 5 [i](At the beginning of your upkeep, you may mill five cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+UX22 Aldwin, Gritmettle Vigil
+cost: {R}{G}{W} => {RG}{GW}
+rules_text: Vigilance
+{2}, Tap an untapped creature you control: Choose one —
+• Aldwin fights target creature.
+• Put two +1/+1 counters on Aldwin.
+• Embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => Vigilance
+{3}, Tap an untapped creature you control: Choose one —
+• Aldwin fights target creature.
+• Put two +1/+1 counters on Aldwin.
+• Embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+UX11 Ornek Charm
+rules_text: Choose one —
+• You and permanents you control gain hexproof until end of turn.
+• Return target nonland permanent to its owner's hand.
+• Chronicle 2 twice. => Choose one —
+• You and permanents you control gain hexproof until end of turn.
+• Return target nonland permanent to its owner's hand.
+• Chronicle the top card of your library. If you do, draw two cards. [i](Exile it with a chronicle counter on it.)[/i]
+
+UX20 Andyir Charm
+
+UX17 Mulladock Charm
+rules_text: Choose one —
+• Target opponent sacrifices a creature with the highest power among creatures they control.
+• Target artifact or creature card in your graveyard gains reforge until the end of your next turn. It's reforge cost is equal to its mana cost reduced by {1}.
+• Destroy target artifact. => Choose one —
+• Target opponent sacrifices a creature with the highest power among creatures they control.
+• Target artifact or creature card in your graveyard gains reforge until the end of your next turn. It's reforge cost is equal to its mana cost reduced by {1}. [i](Exile that card and pay its reforge cost: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+• Destroy target artifact.
+
+UX14 Revosh Charm
+rules_text: Choose one —
+• Counter target noncreature spell.
+• Until the end of your next turn, target card in your graveyard gains excavate 3. [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand.)[/i]
+• Revosh Charm deals 3 damage divided as you choose among any number of targets. => Choose one —
+• Counter target noncreature spell.
+• Until the end of your next turn, target artifact, instant, or sorcery card in your graveyard gains excavate 3. [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+• Revosh Charm deals 3 damage divided as you choose among any number of targets.
+
+UX23 Kronaea Charm
+
+CA04 Andyir Sigil
+
+CA01 Ornek Sigil
+
+CA03 Mulladock Sigil
+
+CA05 Kronaea Sigil
+
+CA02 Revosh Sigil
+
+UX10 Restoration Architect
+type: Creature — Giant Artificer => Creature — Giant Warrior
+rules_text: Lifelink
+When Restoration Architect enters, if it was cast, restore 4. [i](Return up to one target noncreature permanent card with mana value 4 or less from your graveyard to the battlefield tapped.)[/i] => Lifelink
+When this creature enters, restore 4. [i](Return up to one target noncreature permanent card with mana value 4 or less from your graveyard to the battlefield tapped.)[/i]
+
+UX03 Scornful Flightless
+
+UX06 Resurger Salvage Rig
+cost: {2}{B}{R} => {3}{B}{R}
+rules_text: {1}, Sacrifice an artifact or creature: Create a 2/2 black Mutant artifact creature token.
+Crew 2
+Reforge {1}{B}{R} [i]({1}{B}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Whenever this vehicle attacks, you may sacrifice another artifact or creature. If you do, create two 2/2 black Mutant artifact creature tokens.
+Crew 2
+Reforge {2}{B}{R} [i]({2}{B}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UX04 Insightful Excavation
+rules_text: Each player mills three cards, then you may exile up to one target card from each player's graveyard. Draw a card for each historic card exiled this way. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand.)[/i] => Each player mills three cards, then you may exile up to one target card from each player's graveyard. Draw a card for each historic card exiled this way. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+CL02 Revosh Quarry
+
+CL03 Mulladock Scrapyard
+
+CL04 Andyir Encampment
+
+CL05 Kronaean Dig Site
+
+CL06 Terramorphic Expanse
+
+CL07 Planar Hub
+
+CB04 Salvage Worker
+
+CA06 Rejuvination Rembrant
+rules_text: As long as there are three or more cards among cards in all graveyards, Rejuvination Rembrant has reach.
+{2}: Put target card from your graveyard on the bottom of your library.
+Basic Landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => As long as there are three or more cards among cards in all graveyards, this creature has reach.
+{2}: Put target card from your graveyard on the bottom of your library.
+Basic Landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Mutant
+
+UX26 Survey Resurgent
+rules_text: When Survey Resurgent enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control three or more other historic permanents, put that card onto the battlefield tapped instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control three or more other historic permanents, put that card onto the battlefield tapped instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+MX07 Haldren, Andyir Pathleader
+
+MX09 Elasari, Unifier of Kronaea
+cost: {3}{G}{W}{U} => {4}{G}{W}{U}
+rules_text: Vigilance, trample, lifelink
+Whenever Elasari enters or attacks, you may restore 4. [i](Return up to one target noncreature permanent card with mana value 4 or less from your graveyard to the battlefield tapped.)[/i]
+Whenever one or more cards leave your graveyard, you gain 2 life and draw a card. => Vigilance, trample
+Whenever Elasari enters or attacks, you may restore 4. [i](Return up to one target noncreature permanent card with mana value 4 or less from your graveyard to the battlefield tapped.)[/i]
+Whenever one or more cards leave your graveyard, you gain 2 life and draw a card.
+
+UX15 Drill Sergeant
+rules_text: Whenever you attack, each player mills two cards.
+Whenever one or more artifact cards are put into a graveyard from anywhere, create a 1/2 black Crab creature token. This ability triggers only once each turn. => Whenever you attack, each player mills two cards.
+Whenever one or more artifacts are put into a graveyard from anywhere, create a 1/2 black Crab creature token. This ability triggers only once each turn.
+
+Warrior
+
+Junk
+
+MX16 The Stability Anchor
+
+MX08 Garrent, Gritmettle's Chosen
+
+UX09 Recruit Mentor
+
+UX16 Ral'Keth, Warcaver Captain
+cost: {1}{U}{B}{R} => {2}{UB}{BR}
+
+UX21 Andyir Duskwatch
+cost: {1}{R}{G}{W} => {2}{R}{G}{W}
+
+UX07 Salvage Vendor
+rules_text: Legacy — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create a Junk token. This ability triggers only once each turn. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.” Artifacts, legendaries, and Sagas are historic.)[/i] => [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create a Junk token. This ability triggers only once each turn. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.” Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UX29 Refinery Forge
+
+UX28 Chromatic Sigil
+
+UX30 The Sanity Auger
+rules_text: Whenever a player loses life, that player mills that many cards. [i](Damage causes loss of life.)[/i]
+Pay 3 life, {T}: Exile target card from a graveyard. => Whenever a player loses life, that player mills that many cards. [i](Damage causes loss of life.)[/i]
+{T}, Pay 3 life: Exile target card from a graveyard.
+
+UX27 Retention Rembrant
+rules_text: [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, you may exile one of them instead. If you do, you may play that card this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => [i]Legacy[/i] — If one or more historic permanents would leave your battlefield, or one or more historic cards would leave your graveyard, you may exile one of them instead. If you do, you may play that card this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+UW13 The Disruption of Balance
+
+UU13 The Shattering of Stability
+
+UR12 Crash Out
+
+UR13 The Extinguishing of Passions
+
+UG12 Scrap for Parts
+rules_text: Destroy target artifact or enchantment. If it's mana value was 3 or less, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Destroy target artifact or enchantment. If that permanent's mana value was 3 or less, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+UG13 The Sundering of Community
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Until end of turn, creatures you control have defender. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Until end of turn, creatures you control gain defender.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Until end of turn, creatures you control have defender. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Until end of turn, creatures you control gain defender.
+
+UB12 Memory Wipe
+rules_text: All creatures get -2/-2 until end of turn. If there are five or more permanents in exile, creatures get -4/-4 until end of turn instead. => All creatures get -2/-2 until end of turn. If there are five or more cards in exile, all creatures get -4/-4 until end of turn instead.
+
+UB13 The Fracturing of Morals
+
+Bird
+
+Elemental Spirit
+
+Crab
+
+MX06 Dustchurner, The Capital Rig
+rules_text: Trample, menace
+Sacrifice another historic permanent or land: Choose one that hasn't been chosen yet this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Create a Junk token.
+• Create a 2/2 black Mutant artifact creature token.
+• Dustchurner becomes an artifact creature in addition to its other types until end of turn.
+Reforge {2}{R} => Trample, menace
+Sacrifice another historic permanent or a land: Choose one that hasn't been chosen yet this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Create a Junk token.
+• Create a 2/2 black Mutant artifact creature token.
+• Dustchurner becomes an artifact creature in addition to its other types until end of turn.
+Reforge {2}{R}
+
+RX30 Ignotia's Core
+
+RX28 Salvage Rembrant
+
+RX27 Dredging Station
+
+RX29 Effigy, Solemn Rembrant
+
+MW02 Kafri, Forged Anew
+rules_text: Whenever you play a historic land or cast a historic spell, draw a card, then put a loyalty counter on Kafri. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[-X]: Restore X. [i](Return up to one target noncreature permanent card with mana value X or less from your graveyard to the battlefield tapped.)[/i]
+[-8]: You get an emblem with “Whenever you cast a historic spell, create a token copy of it except it isn't legendary” => Whenever you play a historic land or cast a historic spell, draw a card, then put a loyalty counter on Kafri. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[-X]: Restore X. [i](Return up to one target noncreature permanent card with mana value X or less from your graveyard to the battlefield tapped.)[/i]
+[-8]: You get an emblem with “Whenever you cast a historic spell, copy it, except the copy it isn't legendary [i](A copy of a permanent spell becomes a token)[/i].”
+special_text: Whenever you play a historic land or cast a historic spell, draw a card, then put a loyalty counter on Kafri. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[-X]: Restore X. [i](Return up to one target noncreature permanent card with mana value X or less from your graveyard to the battlefield tapped.)[/i]
+[-8]: You get an emblem with “Whenever you cast a historic spell, create a token copy of it except it isn't legendary” => Whenever you play a historic land or cast a historic spell, draw a card, then put a loyalty counter on Kafri. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[-X]: Restore X. [i](Return up to one target noncreature permanent card with mana value X or less from your graveyard to the battlefield tapped.)[/i]
+[-8]: You get an emblem with “Whenever you cast a historic spell, copy it, except the copy it isn't legendary [i](A copy of a permanent spell becomes a token)[/i].”
+loyalty: 4 => 3
+
+UU05 Warcaver Brigade
+rules_text: This creature can't be blocked by creatures with power 2 or greater
+Whenever a card is put into your graveyard during your turn, Warcaver Brigade gets +1/+0 until end of turn. => This creature can't be blocked by creatures with power 2 or greater
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn.
+
+UG08 Barox, Salvager Specialist
+rules_text: Junk tokens you control have “{T}: Add one mana of any color. Spend this mana only to cast historic spells or activate abilities of historic permanents.” => Artifact tokens you control have “{T}: Add one mana of any color. Spend this mana only to cast historic spells or activate abilities of historic permanents.”
+
+UX01 Duplication Aspect
+rules_text: [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create a token copy of target noncreature, nontoken permanent you control that entered this turn. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create a token that's a copy of target noncreature, nontoken permanent you control that entered this turn. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+RU04 Vak'il, the Conspirator
+
+RU03 Sarvva, Arbiter of Futures
+rules_text: Flash
+Flying
+At the beginning of your upkeep, each player may chronicle 3.
+{1}{WU}: Choose target creature in exile. Sarvva becomes a copy of it until end of turn. Activate only once each turn. => Flash
+Flying
+At the beginning of your upkeep, each player may chronicle the top card of their library. Each player that does draws a card. [i](Exile it with a chronicle counter on it.)[/i]
+{1}{WU}: Choose target creature card in exile. Sarvva becomes a copy of it until end of turn. Activate only once each turn.
+
+RB04 Obselva, Arbiter of Pasts
+rules_text: Flying, deathtouch, haste
+At the beginning of your upkeep, if Obselva is in exile face up, you may pay 3 life. If you do, put it onto the battlefield under its owner's control.
+When Obselva is put into your graveyard from anywhere, exile it. => Flying, deathtouch, haste
+At the beginning of your upkeep, if Obselva is in exile face up, you may pay 3 life. If you do, put her onto the battlefield under her owner's control.
+When Obselva is put into your graveyard from anywhere, exile her.
+pt: 3/2 => 4/3
+
+RU01 Ial Enmíka's Awakening
+
+RW01 Ial Nótaal's Awakening
+
+RW04 Edevic, Arbiter of Presents
+type: Legendary Artifact Creature — Bird Advisor => Legendary Artifact Creature — Bird Noble
+rules_text: Flying, lifelink
+Other creatures that aren't attacking you get +1/+1.
+Whenever a player casts a spell and/or a nontoken permanent enters from anywhere other than a player's hand, you may draw a card. This ability triggers only once each turn. => Flying, lifelink
+Other creatures that aren't attacking you get +1/+1.
+Whenever one or more cards are put into exile from anywhere, you may draw a card.
+
+RX17 Igniting the Forge
+
+Ial Oníraa, Godsire of Harmony
+
+Ial Kóltia, Godsire of Vitality
+
+Ial Aróita, Godsire of Purity
+
+Ial Nótaal, Godsire of Unity
+
+Ial Enmíka, Godsire of Stability
+
+MG02 Expedition Leader
+rules_text: Whenever Expedition Leader enters or attacks, return target permanent card from your graveyard to your hand.
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, search your library for a land card, put it onto the battlefield tapped, then shuffle. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Whenever this creature enters or attacks, return target permanent card from your graveyard to your hand.
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, search your library for a land card, put it onto the battlefield tapped, then shuffle. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+Dihada, Scourge of the Past
+rules_text: Whenever one or more cards are put into an opponent's graveyard from their library, put that many loyalty counters on Dihada. This ability triggers only once each turn.
+[-3]: Each player mills five cards. Then you may exile target historic card from a player's graveyard. You may cast the exiled card this turn without paying its mana cost.
+[-10]: Put all historic permanent cards from all graveyards onto the battlefield under your control. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Whenever a player mills one or more cards, put that many loyalty counters on Dihada. This ability triggers only once each turn.
+[-3]: Each player mills five cards, then put up to one target historic permanent card from a graveyard onto the battlefield under your control. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[-10]: Put all historic permanent cards from all graveyards onto the battlefield under your control.
+special_text: Whenever one or more cards are put into an opponent's graveyard from their library, put that many loyalty counters on Dihada. This ability triggers only once each turn.
+[-3]: Each player mills five cards. Then you may exile target historic card from a player's graveyard. You may cast the exiled card this turn without paying its mana cost.
+[-10]: Put all historic permanent cards from all graveyards onto the battlefield under your control. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Whenever a player mills one or more cards, put that many loyalty counters on Dihada. This ability triggers only once each turn.
+[-3]: Each player mills five cards, then put up to one target historic permanent card from a graveyard onto the battlefield under your control. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[-10]: Put all historic permanent cards from all graveyards onto the battlefield under your control.
+
+RX34 The Founding Lands
+rules_text: This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{1}{R}{G}{W}, {T}: Create two 1/1 green Warrior creature token with vigilance. Then shuffle target card from your graveyard into your library. => This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{2}{R}{G}{W}: Create two 1/1 green Warrior creature token with vigilance. Then shuffle target card from your graveyard into your library.
+
+UX32 Desolate Ruins
+
+CW07 Andyir Overwatch
+rules_text: During your turn, Andyir Overwatch has first strike. [i](This creature deals combat damage before creatures without first strike.)[/i]
+When Andyir Overwatch enters, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => During your turn, this creature has first strike. [i](This creature deals combat damage before creatures without first strike.)[/i]
+When this creature enters, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+UW02 Gritmettle Martyr
+rules_text: Sacrifice Gritmettle Martyr: Embark 3, then up to two target creatures you control gain indestructible until end of turn. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => Sacrifice this creature: Embark 3, then up to two target creatures you control gain indestructible until end of turn. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+UW12 Empowered By Faith
+rules_text: As an additional to cast this spell, tap two untapped creatures you control.
+Put a +1/+1 counters on each creature you control. If the additional cost was paid, put an additional +1/+1 counter on each creature you control, then untap all creatures you control. => As an additional to cast this spell, you may tap two untapped creatures you control.
+Put a +1/+1 counters on each creature you control. If the additional cost was paid, put an additional +1/+1 counter on each creature you control, then untap all creatures you control.
+
+RX03 Colossal Gearwurm
+
+RR03 Hal'kar, Ravenous Gearwurm
+rules_text: Trample, haste
+{T}, Sacrifice another nonland permanent: Add X mana of any one color where X is that permanent's mana value. If a historic permanent was sacrificed this way, create a Junk token.
+Reforge {4}{BR} => Trample, haste
+{T}, Sacrifice another nonland permanent: Add X mana of any one color where X is that permanent's mana value. If a historic permanent was sacrificed this way, create a Junk token.
+Reforge {4}{BR} [i]({4}{BR}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UR07 Resurgent Gearwurm
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of artifacts. This spell costs {2} less to cast for each permanent sacrificed this way.
+Trample, reach
+At the beginning of your upkeep, sacrifice an artifact you control. => As an additional cost to cast this spell, you may sacrifice any number of artifacts. This spell costs {2} less to cast for each permanent sacrificed this way.
+Trample, reach
+At the beginning of your upkeep, sacrifice an artifact.
+
+UG03 Scrapmongrel Resurgent
+rules_text: When Scrapmongrel Resurgent enters, you may have it deal damage equal to its power to target creature an opponent controls. Excess damage is dealt to that creature's controller instead.
+When Scrapmongrel Resurgent dies, create a Junk token.
+Reforge {2}{G} => When this creature enters, you may have it deal damage equal to its power to target creature an opponent controls. Excess damage is dealt to that creature's controller instead.
+When this creature dies, create a Junk token.
+Reforge {2}{G} [i]({2}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+RG05 Brutus, Scraphound Alpha
+rules_text: When Brutus enters, you may search your library and/or graveyard for a Mutant card, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever another nontoken historic permanent you control dies, Brutus deals damage equal to its power to target creature an opponent controls. If a creature dies this way, create a Junk token. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => When Brutus enters, you may search your library and/or graveyard for a Mutant card, reveal it, put it into your hand, then shuffle.
+Whenever another nontoken historic permanent you control dies, Brutus deals damage equal to his power to target creature an opponent controls. If a creature dies this way, create a Junk token. This ability triggers only once each turn.
+
+MX05 Rava, Mulladock Forgemaster
+cost: {1}{B}{R}{G} => {2}{B}{R}{G}
+rules_text: Whenever you sacrifice a creature or artifact, you draw a card and lose 1 life.
+{T}, Sacrifice another permanent: Create two tapped tokens that are copies of the sacrificed permanent, except they're 2/2 black Mutant artifact creatures in addition to their other types. Activate only as a sorcery. => Whenever you sacrifice another nontoken artifact or creature, you draw a card and lose 1 life.
+{T}, Sacrifice another permanent: Create two tapped tokens that are copies of the sacrificed permanent, except they're 2/2 black Mutant artifact creatures in addition to their other types. Activate only as a sorcery.
+pt: 2/3 => 1/5
+
+RX14 Rava, Chief Engineer
+
+MX02 Ornek Adjudicator
+rules_text: Flying
+Whenever a player casts their second spell each turn, put a +1/+1 counter on this creature and chronicle 2. [i](Look at the top two cards of your library, then exile one of those cards. It becomes chronicled. For as long as that card remains chronicled you may play it. Put the remaining cards on the bottom of your library in a random order.)[/i] => Flying
+Whenever a player casts their second spell each turn, put a +1/+1 counter on this creature, then you may chronicle the top card of your library. If you do, draw a card. [i](Exile it with a chronicle counter on it.)[/i]
+
+MU02 Archive Counting Crow
+
+MW02 Terlaa, Sheltering Aspect
+
+MX01 The Arbiters of Time
+rules_text: Flash
+Flying, deathtouch, lifelink
+Whenever The Arbiters of Time enters or attacks, exile up to one target permanent card from your graveyard. It becomes chronicled. For as long as it remains chronicled, you may play it.
+You may play chronicled cards you own in exile by paying life equal to their mana value rather than paying their mana costs. => Flash
+Flying, deathtouch, lifelink
+Whenever The Arbiters of Time enters or attacks, you may chronicle a card from your graveyard and the top of your library. [i](Exile them with a chronicle counter on each of them.)[/i]
+During your turn you may play lands and cast spells from among cards you own in exile with chronicle counters on them.
+
+MX03 Rektchor, Revosh CEO
+
+MX14 Ial Ignotia, Godsire of Awakening
+rules_text: Flying, indestructible
+The first historic spell you cast each turn from anywhere other than your hand costs {W}{U}{B}{R}{G} less to cast. [i](This can reduce generic costs.)[/i]
+Each nonland historic permanent card in your graveyard has dormant 2—{W}{U}{B}{R}{G}. [i](You may cast that card from your graveyard for it's dormant cost. If you do it enters tapped with two stun counters on it.)[/i] => Flying, indestructible
+The first historic spell you cast each turn from anywhere other than your hand costs {W}{U}{B}{R}{G} less to cast. [i](This can reduce generic costs.)[/i]
+Each nonland historic permanent card in your graveyard has dormant 2—{W}{U}{B}{R}{G}. [i](You may cast that card from your graveyard for it's dormant cost. If you do, it enters tapped with two stun counters on it.)[/i]
+
+RX12 Relicant II, Augership
+rules_text: Menace, haste
+Whenever you attack, each opponent mills two cards.
+Whenever a card is put into an opponent's graveyard from their library, that player loses 1 life.
+Crew—Exile three cards from your graveyard. => Menace, haste
+Whenever Relicant II attacks, each opponent mills two cards.
+Whenever a card is put into an opponent's graveyard from their library, that player loses 1 life and Relicant II gains flying until end of turn.
+Exile three cards from your graveyard: Relicant II becomes an artifact creature addition to its other types until end of turn.
+
+CL01 Ornek Archive
+
+CU13 Keeping Time
+cost: {2}{U}{U} => {3}{U}
+rules_text: Chronicle 2. Repeat this process twice. [i](Look at the top two cards of your library, then exile one of those cards. It becomes chronicled. For as long as that card remains chronicled you may play it. Put the remaining cards on the bottom of your library in a random order.)[/i] => As an additional cost to cast this spell, you may chronicle the top card of your library. [i](Exile it with a chronicle counter on it.)[/i]
+Draw two cards. If this spell's additional cost was paid, draw three cards instead.
+
+UX12 Archive Advokist
+type: Creature — Bird Artificer => Creature — Bird Monk
+rules_text: Flying
+When this creature enters, if it wasn't cast from your hand, you may cast a chronicled card you own in exile without paying its mana cost. If you don't, draw a card. => Flying
+When this creature enters, if a card was put into exile this turn, you may cast a card you own in exile with mana value 4 or less with a chronicle counter on it without paying its mana cost. If you don't, draw a card.
+
+RX06 Relvik, the Blind Seer
+rules_text: Flying, lifelink
+Whenever you cast your first spell each turn from anywhere other than your hand, you may pay 5 life. If you do, copy that spell, you may choose new targets for the copy. [i](A copy of a permanent spell becomes a token)[/i]
+{WU}{UB}, Exile this card from your graveyard: This card becomes chronicled. => Flying
+Ward—Chronicle the top card of your library. [i](To chronicle, a player exiles the top card of their library with a chronicle counter on it.)[/i]
+Whenever you cast your first spell each turn, you may chronicle three cards from your graveyard or the top of your library. If you do, copy that spell, you may choose new targets for the copy. [i](A copy of a permanent spell becomes a token)[/i]
+pt: 3/4 => 1/4
+
+RX08 Seasoned Archivist
+rules_text: Flying
+Spells you cast from anywhere other than your hand cost {1} less to cast. 
+Whenever you cast a spell from anywhere other than your hand, you draw a card and lose 1 life. => Flying
+Spells you cast cost {1} less to cast for each card you own in exile with a chronicle counter on it.
+Whenever you cast your first spell each turn, you may return a card you own in exile with a chronicle counter on it to your hand.
+
+MX15 Sword of Never and Again
+
+UR02 Drix, Artisanal Metalcrafter
+type: Legendary Creature — Goblin Artificer => Legendary Creature — Orc Artificer
+rules_text: Reforge abilities you activate cost {1} less to activate.
+{R}, {T}: Until end of turn, target creature card in your graveyard gains reforge. It's reforge cost is equal to it's mana cost. Activate this ability only once each turn. => Reforge abilities you activate cost {1} less to activate.
+{R}, {T}: Until end of turn, target artifact or creature card in your graveyard gains reforge. It's reforge cost is equal to it's mana cost. Activate only as a sorcery. [i](Exile that card and pay its reforge cost: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+RX09 The Silent Eclipse
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent exiles a nonland, nontoken permanent they control.
+III — Exile each opponent's graveyard, then those players loses 1 life for each card they own in exile.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent exiles a nonland, nontoken permanent they control.
+III — Exile each opponent's graveyard, then each opponent loses 1 life for each card they own in exile.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent exiles a nonland, nontoken permanent they control.
+III — Exile each opponent's graveyard, then those players loses 1 life for each card they own in exile.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent exiles a nonland, nontoken permanent they control.
+III — Exile each opponent's graveyard, then each opponent loses 1 life for each card they own in exile.
+​
+
+RX10 Harel, Shell Miser
+rules_text: Whenever a creature card is put into your graveyard from your library, create a 1/2 black Crab creature token.
+Whenever a land card is put into your graveyard from your library, create a tapped Treasure token.
+Whenever a noncreature, nonland card is put into your graveyard from your library, you draw a card and you lose 1 life. => Whenever you mill a creature card, create a 1/2 black Crab creature token.
+Whenever you mill a land card, create a tapped Treasure token.
+Whenever you mill a noncreature, nonland card, you draw a card and you lose 1 life.
+
+Giant
+
+MW02 Terlaa, Sheltering Aspect
+rules_text: [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create two 2/1 colorless Elemental Spirit creature tokens. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{2}{W}, {T}: Creatures you control gain indestructible until end of turn. => [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create two 2/1 colorless Elemental Spirit creature tokens. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{4}{W}, {T}: Creatures you control gain indestructible until your next turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
