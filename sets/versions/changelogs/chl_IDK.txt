@@ -1,4 +1,113 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+UX28 Chromatic Crystal added.
+
+UX28 Chromatic Sigil removed.
+
+CW05 Consecration Aspect
+rules_text: When this creature enters, choose one. If a card left a graveyard this turn, you may choose any number instead.
+• Exile target card from a graveyard.
+• Put a +1/+1 counter or a flying counter on target creature.
+• Destroy target artifact. => When this creature enters, choose one. If a card left a graveyard this turn, you may choose any number instead.
+• Exile target card from a graveyard.
+• Put a +1/+1 counter on target creature.
+• Destroy target artifact.
+
+CW14 Detainment Protocol
+rules_text: You may cast this spell as though it had flash if you chronicle the top card of your library as an additional cost to cast it. [i](Exile it with a chronicle counter on it.)[/i]
+Exile target nonland permanent an opponent controls until this artifact leaves the battlefield. => You may cast this spell as though it had flash if you chronicle the top card of your library as an additional cost to cast it. [i](Exile it with a chronicle counter on it.)[/i]
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+
+CU03 Ruination Crustacean
+rules_text: Whenever this creature or another artifact you control enters, up to one target player mill three cards. This ability triggers only once each turn.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i] => Whenever another artifact you control enters, up to one target player mill three cards. This ability triggers only once each turn.
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+UW05 Records Keeper
+rules_text: At the beginning of your upkeep, you may chronicle the top card of your library. If you don't, choose one. Otherwise you may choose both instead. [i](Exile it with a chronicle counter on it.)[/i]
+• Create a 1/1 blue Bird artifact creature token with flying.
+• You gain 3 life. => At the beginning of your upkeep, chronicle the top card of your library. Then, choose one. If you have three or more cards in exile, you may choose both instead. [i](Exile it with a chronicle counter on it.)[/i]
+• Create a 1/1 blue Bird artifact creature token with flying.
+• You gain 3 life.
+
+UB01 Expendable Lackey
+rules_text: This creature can't block.
+When this creature dies, create a Treasure token.
+{2}{B}: Return this creature from your graveyard to the battlefield tapped. => This creature can't block.
+When this creature dies, create a tapped Treasure token.
+{2}{B}: Return this creature from your graveyard to the battlefield tapped.
+
+MX04 Kauthkar, Warcaver Admiral
+rules_text: Menace
+When Kauthkar enters, each player mills X cards, then you may return an artifact, instant, or sorcery card from your graveyard to your hand.
+Creatures you control have menace and get +1/+0 for each card that was put into your graveyard from your library this turn.
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i] => Menace
+When Kauthkar enters, each player mills X cards, then you may return an artifact, instant, or sorcery card from your graveyard to your hand.
+Creatures you control get +1/+0 for each card that was put into your graveyard from your library this turn.
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+CA04 Andyir Sigil
+rules_text: {T}, Add: {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Create two tapped 1/1 green Warrior creature tokens with vigilance. Activate only as a sorcery.
+
+CA01 Ornek Sigil
+rules_text: {T}, Add: {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw two cards, then chronicle a card from your hand. Activate only as a sorcery. [i](Exile it with a chronicle counter on it.)[/i]
+
+CA03 Mulladock Sigil
+rules_text: {T}, Add: {B}, {R}, or {G}.
+{B}{R}{G}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {B}, {R}, or {G}.
+{B}{R}{G}, {T}, Sacrifice this artifact: Create two tapped Junk tokens. Activate only as a sorcery. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+CA05 Kronaea Sigil
+rules_text: {T}, Add: {G}, {W}, or {U}.
+{G}{W}{U}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {G}, {W}, or {U}.
+{G}{W}{U}, {T}, Sacrifice this artifact: Return target permanent card with mana value 2 or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+CA02 Revosh Sigil
+rules_text: {T}, Add: {U}, {B}, or {R}.
+{U}{B}{R}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {U}, {B}, or {R}.
+{U}{B}{R}, {T}, Sacrifice this artifact: Return another target artifact, instant, or sorcery card with mana value 3 or less from your graveyard to your hand. Activate only as a sorcery.
+
+UX10 Restoration Architect
+pt: 4/6 => 4/5
+
+UX27 Retention Rembrant
+rules_text: [i]Legacy[/i] — If one or more historic permanents would leave your battlefield, or one or more historic cards would leave your graveyard, you may exile one of them instead. If you do, you may play that card this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, you may exile one of them. If you do, you may play that card this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+RX26 Orrery, the Sky Fortress
+rules_text: Flying, vigilance
+Whenever Orrery attacks, you may draw two cards. If you do, discard a card. When you discard a historic permanent card this way, you may put that card onto the battlefield tapped instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, vigilance
+Whenever Orrery attacks, you may draw two cards. If you do, discard a card. If you discard a historic permanent card this way, you may put that card onto the battlefield tapped instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+UW02 Gritmettle Martyr
+rules_text: When this creature dies, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+Sacrifice this creature: Up to two target creatures you control gain indestructible until end of turn. => When this creature dies, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+Sacrifice this creature: Target creature you control gains indestructible until end of turn.
+
+UW12 Empowered By Faith
+
+CU13 Keeping Time
+rules_text: As an additional cost to cast this spell, you may chronicle the top card of your library. [i](Exile it with a chronicle counter on it.)[/i]
+Draw two cards. If this spell's additional cost was paid, draw three cards instead. => As an additional cost to cast this spell, you may chronicle the top card of your library. [i](Exile it with a chronicle counter on it.)[/i]
+Draw two cards. If you have three or more cards in exile, draw three cards instead.
+
+MX15 Sword of Never and Again
+rules_text: Equipped creature gets +2/+2 and has protection from creatures and from nonequipment artifacts.
+Whenever equipped creature deals combat damage to a player, mill that many cards. The next spell you cast this turn costs {1} less to cast for each card that was put into your graveyard from anywhere this turn.
+Equip {2} => Equipped creature gets +2/+2 and has protection from creatures and from nonequipment artifacts.
+Whenever equipped creature deals combat damage to a player, mill that many cards. The next spell you cast this turn costs {1} less to cast for each card milled this way.
+Equip {2}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.

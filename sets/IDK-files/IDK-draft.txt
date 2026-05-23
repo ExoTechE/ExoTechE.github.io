@@ -2251,7 +2251,7 @@
 			}
 		},
 		{
-			"name": "UX28 Chromatic Sigil",
+			"name": "UX28 Chromatic Crystal",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
@@ -3215,7 +3215,7 @@
 	4 UX24 Restoration Aspect
 	4 UX25 Elasari, Talwir Prodigy
 	4 UX29 Refinery Forge
-	4 UX28 Chromatic Sigil
+	4 UX28 Chromatic Crystal
 	4 UX30 The Sanity Auger
 	4 UX27 Retention Rembrant
 	4 UW13 The Disruption of Balance
@@ -3571,7 +3571,7 @@
 	6 UX24 Restoration Aspect
 	6 UX25 Elasari, Talwir Prodigy
 	6 UX29 Refinery Forge
-	6 UX28 Chromatic Sigil
+	6 UX28 Chromatic Crystal
 	6 UX30 The Sanity Auger
 	6 UX27 Retention Rembrant
 	6 UW13 The Disruption of Balance
@@ -3865,7 +3865,7 @@
 	15 UX24 Restoration Aspect
 	15 UX25 Elasari, Talwir Prodigy
 	15 UX29 Refinery Forge
-	15 UX28 Chromatic Sigil
+	15 UX28 Chromatic Crystal
 	15 UX30 The Sanity Auger
 	15 UX27 Retention Rembrant
 	15 UW13 The Disruption of Balance
