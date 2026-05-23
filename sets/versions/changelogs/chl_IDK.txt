@@ -1,4 +1,647 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CG03 Terraforming Aspect added.
+CG09 Hulking Rembrant added.
+UW03 Veik, Surveillance Scout added.
+RR05 Veliktar, Treasury Warden added.
+RG04 Vashnir of the Old Guard added.
+RX22 Aadar, the Past Waker added.
+RX02 Planar Bore added.
+CL05 Kronaean Wake-Site added.
+CZ02 Warcaver Recruit added.
+UX16 Ralketh, Warcaver Captain added.
+RX26 Orrery, the Sky Fortress added.
+RX06 Relvik, Blind Seer added.
+RX10 Morrel, Shell Miser added.
+
+CG03 Earth Aspect removed.
+CG09 Rembrant Vanguard removed.
+UW03 Viek, Surveillance Scout removed.
+RR05 Ralik, Treasury Warden removed.
+RG04 Vash'nir of the Old Guard removed.
+RX22 Haldar, the Past Waker removed.
+RX02 Stripmine Bore removed.
+CL05 Kronaean Dig Site removed.
+CZ02 Warcaver Soldier removed.
+UX16 Ral'Keth, Warcaver Captain removed.
+RX26 Orrery, Sky Fortress removed.
+RX06 Relvik, the Blind Seer removed.
+RX10 Harel, Shell Miser removed.
+MW02 Terlaa, Sheltering Aspect removed.
+
+CW11 Stalwart Arbitrator
+
+CW13 United Front
+rules_text: As you cast this spell, you may tap two untapped creatures you control.
+United Front deals 4 damage to target attacking or blocking creature an opponent controls. If you tapped two creatures as you cast this spell, repeat this process once. => As an additional cost to cast this spell, you may tap two untapped creatures you control.
+United Front deals 4 damage to target attacking or blocking creature an opponent controls. If this spell's additional cost was paid, copy this spell. You may choose new targets for the copy.
+
+CW18 Forgotten by History
+rules_text: Choose two —
+• Exile target artifact.
+• Exile target enchantment.
+• Exile target creature.
+• Exile target card from a graveyard. => Choose two —
+• Exile up to one target artifact.
+• Exile up to one target enchantment.
+• Exile up to one target creature.
+• Exile up to one target card from a graveyard.
+
+CU04 Seasoned Scribe
+rules_text: [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield or one or more historic cards leave your graveyard, draw a card. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield or one or more historic cards leave your graveyard, surveil 1. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard. Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CU12 Suppression Coils
+rules_text: When this Equipment enters, attach it to target creature.
+Equipped creature loses all abilities and can't attack or block.
+{1}{U}{U}: Attach this Equipment to target creature an opponent controls. Activate only as a sorcery. => When this Equipment enters, attach it to target creature.
+Equipped creature loses all abilities and can't attack or block.
+{2}{U}{U}: Attach this Equipment to target creature an opponent controls. Activate only as a sorcery.
+
+CB02 Tome Tamperer
+rules_text: Flying, lifelink
+When Tome Tamperer enters, exile up to one target card from a graveyard. => Flying, lifelink
+When this creature enters, exile up to one target card from a graveyard.
+
+CB05 Emancipation Grid
+rules_text: Defender
+Emancipation Grid gets +2/+0 as long as there are three or more cards in exile.
+{2}, {T}: Exile target card from a graveyard. => Defender [i](This creature can't attack.)[/i]
+This creature gets +2/+0 as long as there are three or more cards in exile.
+{2}, {T}: Exile target card from a graveyard.
+
+CB10 Rembrant Prowler
+rules_text: First strike
+When this creature enters, if a card was put into your graveyard from anywhere this turn, destroy target creature.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => First strike
+When this creature enters, if a card was put into your graveyard from anywhere this turn, destroy up to one target creature.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CB09 Resurgent Colossus
+rules_text: When this creature enters, each player mills three cards.
+Reforge {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => When this creature enters, each player mills three cards.
+Reforge {5}{B}{B} [i]({5}{B}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+CB12 Intentional Accident
+
+CB07 Painful Reminder
+
+CB13 Contract Killer
+rules_text: Deathtouch
+{1}{B}, Sacrifice a creature or artifact: Destroy target nonblack creature. Activate only as a sorcery. => Deathtouch
+{1}{B}, Sacrifice an artifact or creature: Destroy target nonblack creature. Activate only as a sorcery.
+
+CB16 Irrelevant Information
+
+CB17 Shelling Up
+rules_text: Target creature gets +1/+0 and gains deathtouch and indestructible until end of turn. [i](Effects that say “destroy” don't destroy this permanent.)[/i] => Target creature gets +1/+0 and gains deathtouch and indestructible until end of turn. [i](Any amount of damage this deals to a creature is enough to destroy it. Effects that say “destroy” don't destroy this permanent.)[/i]
+
+CB18 Resurger Engineer
+
+CR02 Reckeless Resurgent
+rules_text: Haste
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Reforge {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Haste
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Reforge {3}{R} [i]({3}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+CR04 Resurgent Rummager
+rules_text: Menace
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+Reforge {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Menace
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+Reforge {4}{R} [i]({4}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+CR09 Swift Resurger
+rules_text: Whenever this creature attacks, create a tapped and attacking 2/2 black Mutant artifact creature token. => Whenever this creature attacks, create a tapped 2/2 black Mutant artifact creature token.
+
+CR11 Scrap Surge
+rules_text: As an additional cost to cast this spell, you may sacrifice a Junk token.
+Scrap Surge deals 2 damage to any target. If this spell's addition cost was paid, Scrap Surge deals 4 damage to any target instead. => As an additional cost to cast this spell, you may sacrifice a Junk token.
+Scrap Surge deals 2 damage to any target. If this spell's additional cost was paid, Scrap Surge deals 4 damage to any target instead.
+
+CR12 Under Contract
+
+CR15 Gritmettle's Fury
+
+CR16 Overdrive
+rules_text: Until end of turn, target creature gains double strike and has “When this creature dies, create a Junk token.” [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Until end of turn, target creature gains double strike and “When this creature dies, create a Junk token.” [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+CG14 Survey Corp Explorer
+rules_text: Vigilance
+Whenever this creature attacks, you may tap it. When you do, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => Vigilance
+Whenever this creature attacks, you may tap it. When you do, embark 2. [i](Reveal the top two cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+CG05 Talwir Earth-Mover
+
+CG17 Territory Surveyor
+rules_text: [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, search your library for a basic land card, reveal it, put it into your hand, then shuffle. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CG07 Virulent Resurgent
+
+CG08 Gritmettle Aggressor
+rules_text: You may tap an untapped creature you control as you cast this spell. If you do, it costs {1} less to cast.
+Whenever this creature becomes tapped, you may pay {2}. If you do, put a +1/+1 counter on each creature you control. => As an additional cost to cast this spell, you may tap an untapped creature you control. If you do, it costs {1} less to cast.
+Whenever this creature becomes tapped, you may pay {2}. If you do, creatures you control get +1/+1 until end of turn.
+
+CG10 Harrowed Resurgent
+rules_text: Haste
+When this creature enters, mill five cards. You may put up to two permanent cards from among the milled cards into your hand. If you don't, put three +1/+1 counters on this creature.
+Reforge {4}{G} [i]({4}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Haste
+When this creature enters, mill five cards. You may put up to two permanent cards from among the milled cards into your hand. If you don't, put three +1/+1 counters on this creature.
+Reforge {7}{G} [i]({7}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+CG11 Rapid Ambush
+rules_text: As you cast this spell, you may tap an untapped creature you control.
+Target creature you control fights another target creature. If you tapped a creature as you cast this spell, instead put a +1/+1 counter on target creature you control, then it deals damage equal to its power to another target creature. => As an additional cost to cast this spell, you may tap an untapped creature you control.
+Target creature you control fights another target creature. If this spell's additional cost was paid, instead target creature you control deals damage equal to its power to another target creature.
+
+CG16 Sky Shatter
+rules_text: Destroy target artifact, target enchantment, or target creature with flying. Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Destroy target artifact, enchantment, or creature with flying. If a permanent with mana value 2 or less was destroyed this way, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+CG02 Resurgent Scrapmutt
+
+UW01 Methodical Elite
+rules_text: Whenever another creature you control enters, untap this creature and put a +1/+1 counter on it. This ability triggers only once each turn.
+{2}, {T}: Tap another target creature. Activate this ability only once each turn. => Whenever another creature you control enters, untap this creature and put a +1/+1 counter on it. This ability triggers only once each turn.
+{3}, {T}: Tap another target creature. Activate this ability only once each turn.
+
+UW04 Talwir Enkindler
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+{1}: Target noncreature, nonland permanent you control becomes a 2/1 Elemental Spirit creature until end of turn. => Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+{1}{W}: Target noncreature, nonland permanent you control becomes a 2/1 Elemental Spirit creature until end of turn.
+
+UW08 Eula, Ardent Reconstructor
+rules_text: This spell costs {2} less to cast if a card has left your graveyard this turn.
+Lifelink
+{1}{W}: Create a token copy of target noncreature, nontoken permanent you control that entered this turn. Activate this ability only once each turn. => This spell costs {2} less to cast if a card has left your graveyard this turn.
+Lifelink
+{1}{W}: Create a token that's a copy of target noncreature, nontoken permanent you control that entered this turn. Activate this ability only once each turn.
+
+UW09 Enforcer's Rebuke
+
+UW10 Expansionist's Anvil
+rules_text: {1}{W}, {T}: Create a token copy of target noncreature permanent you control that entered this turn. Activate only as a sorcery.
+If one or more tokens would be created under your control, those tokens plus an additional 2/1 colorless Elemental Spirit creature token are created instead. => {1}{W}, {T}: Create a token that's a copy of target noncreature permanent you control that entered this turn. Activate only as a sorcery.
+If one or more tokens would be created under your control, those tokens plus an additional 2/1 colorless Elemental Spirit creature token are created instead.
+
+CU06 Dedicated Organizer
+rules_text: As long as a card you own is in exile, this spell has flash. [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying
+When Dedicated Organizer enters, if you cast it, put target creature on the top of its owner's library. => As long as a card you own is in exile, this spell has flash. [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying
+When this creature enters, if you cast it, put target creature on the top of its owner's library.
+
+UU04 Halm, Cavern-Ruins Delver
+rules_text: {U}: Surveil 4. If a historic permanent card was put into your graveyard this way, draw a card. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {1}{U}: Surveil 3. If a historic permanent card was put into your graveyard this way, draw a card. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UU07 Talwir Ancient
+type: Creature — Elder Giant Survivor => Creature — Elder Giant
+
+UB01 Expendable Lackey
+rules_text: This creature can't block.
+When this creature dies, create a Treasure token.
+{2}{B}, Return this creature from your graveyard to the battlefield tapped. => This creature can't block.
+When this creature dies, create a Treasure token.
+{2}{B}: Return this creature from your graveyard to the battlefield tapped.
+
+UB03 Resurgent Repurposer
+rules_text: When this creature enters, you may sacrifice an artifact or creature. When you do, you draw two cards and lose 2 life. If a legendary permanent was sacrificed this way, you draw three cards and lose 3 life instead.
+Reforge {1}{B} [i]({1}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => When this creature enters, you may sacrifice an artifact or creature. When you do, you draw two cards and lose 2 life. If a legendary permanent was sacrificed this way, you draw three cards and lose 3 life instead.
+Reforge {4}{B} [i]({4}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UB10 Insurance Policy
+rules_text: When this artifact enters, you draw two cards and you lose 2 life.
+If one or more cards would leave your graveyard, you may put up to one of them on the bottom of your library instead. This ability triggers only once each turn. => When this artifact enters, you draw two cards and you lose 2 life.
+If one or more cards would leave your graveyard, you may put one of those cards on the bottom of your library instead. This ability triggers only once each turn.
+
+UB11 Emergency Resurge
+rules_text: Until end of turn, target creature gets +1/+0 and gains “When this creature dies, create a Junk token, then return it to the battlefield. It's a black Mutant in addition to its other colors and types.” [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Until end of turn, target creature gets +1/+0 and gains “When this creature dies, create a Junk token, then return it to the battlefield tapped. It's a black Mutant in addition to its other colors and types.” [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+UR01 Inspiring Scout
+rules_text: At the beginning of your end step, if you attacked this turn, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => At the beginning of your end step, if you attacked this turn, embark 2. [i](Reveal the top two cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+UR04 Unstable Resurgent
+rules_text: Trample, haste
+When this creature dies, create a Junk token.
+Reforge {2}{R} [i]({2}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Trample, haste
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Reforge {5}{R} [i]({5}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UR08 United Blaze
+rules_text: As you cast this spell, you may tap three untapped creatures you control.
+United Blaze deals 3 damage to any target. If you tapped three creatures as you cast this spell, return this spell to your hand as it resolves. => As an additional cost to cast this spell, you may tap three untapped creatures you control.
+United Blaze deals 3 damage to any target. If spell's additional cost was paid, return this spell to your hand as it resolves.
+
+UG01 Dalawa, Nuturing Aspect
+
+UG04 Survey Corp Veteran
+rules_text: Vigilance
+Whenever one or more creatures you control attack an opponent, you may tap an untapped creature you control. If you do, embark 2. [i](Reveal the top two cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => Vigilance
+Whenever you attack, you may tap an untapped creature you control. If you do, embark 2. [i](Reveal the top two cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+UG05 Haldren, Survey Captain
+rules_text: Attacking creatures you control get +1/+0 and have trample.
+Whenever one or more creatures you control deal combat damage to an opponent, return up to one target card from your graveyard to your hand. If a land is targeted this way, put it on the battlefield instead. => Attacking creatures you control get +1/+0 and have trample.
+Whenever one or more creatures you control deal combat damage to an opponent, return up to one target card from your graveyard to your hand.
+
+UG11 Life Beacon
+rules_text: Whenever one or more cards leave your graveyard, you gain 1 life.
+{2}, {T}: Return target card from your graveyard to your hand. Then shuffle this artifact and your graveyard into their owner's library. => Whenever one or more cards leave your graveyard, you gain 1 life.
+{1}{G}, {T}: Return target card from your graveyard to your hand. Then shuffle this artifact and your graveyard into their owner's library.
+
+RW02 Fragment of Nótaal
+rules_text: The first historic spell you cast each turn costs {W} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, return target permanent with mana value 3 or less from your graveyard to the battlefield. This ability triggers only once each turn. => The first historic spell you cast each turn costs {W} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, return target permanent card with mana value 3 or less from your graveyard to the battlefield. This ability triggers only once each turn.
+
+RU02 Fragment of Enmíka
+rules_text: The first historic spell you cast each turn costs {U} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, you may have this artifact becomes a copy of target creature until end of turn except it's name is The Revelation Amulet. => The first historic spell you cast each turn costs {U} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, you may have this artifact becomes a copy of target artifact or creature until end of turn except it's name is Fragment of Enmíka.
+
+RU05 Sollos, Recovering Aspect
+rules_text: Whenever a token you control enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}{U}, {T}: Return target historic card from your graveyard to your hand. => Whenever one or more tokens you control enter, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}{U}, {T}: Return target historic card from your graveyard to your hand.
+
+RX01 Supression of Truth
+rules_text: When this enchantment enters, for each player, choose up to one target nonland permanent. Chronicle each card chosen this way. [i](Exile it with a chronicle counter on it.)[/i]
+Spells your opponents cast from anywhere other than their hand cost {2} more to cast. => When this enchantment enters, for each player, choose up to one target nonland permanent. Chronicle each card chosen this way. [i](Exile it with a chronicle counter on it.)[/i]
+Spells your opponents cast from anywhere other than their hand cost {2} more to cast.
+Abilities in your opponents graveyards cost {2} more to activate.
+
+RX11 Warcaver Dive Suit
+rules_text: Whenever a card is put into your graveyard during your turn, equipped creature gets +1/+0 until end of turn.
+{U}: Equipped creature can't be blocked this turn.
+Equip {2}
+Excavate 3 => Whenever a card is put into your graveyard during your turn, equipped creature gets +1/+0 until end of turn.
+{U}: Equipped creature can't be blocked this turn.
+Equip {2}
+Excavate 3 [i](At the beginning of your upkeep, you may mill three cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+RX18 Garrent, Last to Fall
+pt: 2/1 => 1/1
+
+RX13 The Great Expansion
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player mills four cards and discards a card.
+III — For each player, you may put up to one target permanent card from that player's graveyard onto the battlefield under your control with a finality counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player mills four cards, then discards a card.
+III — For each player, you may put up to one target permanent card from that player's graveyard onto the battlefield under your control with a finality counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player mills four cards and discards a card.
+III — For each player, you may put up to one target permanent card from that player's graveyard onto the battlefield under your control with a finality counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player mills four cards, then discards a card.
+III — For each player, you may put up to one target permanent card from that player's graveyard onto the battlefield under your control with a finality counter on it.
+​
+
+MX04 Kauthkar, Warcaver Admiral
+rules_text: Menace
+When Kauthkar enters, each player mills X cards, then you may return an artifact, instant, or sorcery card from your graveyard to your hand.
+Creatures you control get +X/+0, where X is equal to the number of cards that were put into your graveyard from your library this turn.
+Excavate 2 => Menace
+When Kauthkar enters, each player mills X cards, then you may return an artifact, instant, or sorcery card from your graveyard to your hand.
+Creatures you control have menace and get +1/+0 for each card that was put into your graveyard from your library this turn.
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+RX20 Gritmettle Warherald
+rules_text: Haste
+Whenever you attack, for each opponent, create a 1/1 green Warrior token creature with vigilance that is attacking those players.
+Whenever one or more creatures you control deal combat damage to a player, draw a card. => Haste
+Whenever you attack, for each opponent, create a 1/1 green Warrior creature token with vigilance that is attacking that player.
+Whenever one or more creatures you control deal combat damage to a player, draw a card.
+
+RX23 Unseal From Frost
+rules_text: Return target permanent card with mana value 3 or less from your graveyard to the battlefield, then create a token copy of the returned permanent, except it isn't legendary. => Return target permanent card with mana value 3 or less from your graveyard to the battlefield, then create a token that's a copy of that permanent, except it isn't legendary.
+
+RX07 Deny the Truth
+rules_text: For each opponent, choose up to one target card in their graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then each opponent shuffle and loses 2 life. => For each opponent, choose up to one target card in that player's graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as the chosen card and exile those cards. Each opponent shuffles and loses 2 life.
+
+RX21 Founding the Andyir
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, then return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+III — Remove all finality counters from permanents you control. Creatures you control gain vigilance, trample, and lifelink until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, then return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+III — Remove all finality counters from each permanent you control. Creatures you control gain vigilance, trample, and lifelink until end of turn.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, then return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+III — Remove all finality counters from permanents you control. Creatures you control gain vigilance, trample, and lifelink until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, then return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+III — Remove all finality counters from each permanent you control. Creatures you control gain vigilance, trample, and lifelink until end of turn.
+​
+
+UX31 Archaic Ruins
+
+UX34 Depleted Ruins
+
+UX35 Forgotten Ruins
+
+RX31 Deeplocke Archive
+rules_text: This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {W}, {U}, or {B}.
+{2}{W}{U}{B}: This land becomes a copy of target historic permanent card in your graveyard. [i](This effect doesn't end at end of turn.)[/i] => This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {W}, {U}, or {B}.
+{2}{W}{U}{B}: This land becomes a copy of target historic permanent card in your graveyard until end of turn.
+
+RX35 Citadel of Restoration
+type: Legendary Artifact Land => Legendary Land
+rules_text: This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {G}, {W}, or {U}.
+{1}{G}{W}{U}: Create a token copy of target nonland, noncreature permanent you control that entered this turn, except it isn't legendary. Activate this ability only once each turn and only as a sorcery. => This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {G}, {W}, or {U}.
+{2}{G}{W}{U}: Create a token that's a copy of target nonland, noncreature permanent you control that entered this turn, except it isn't legendary.
+
+RW03 Havdul, Talwir Reclaimer
+rules_text: Lifelink
+{1}{GW}, {T}: Return target permanent card with mana value equal to less than the number of tokens you control from your graveyard to the battlefield. => Lifelink
+{1}{GW}, {T}: Return target permanent card with mana value less than or equal to the number of tokens you control from your graveyard to the battlefield.
+
+CA04 Andyir Sigil
+rules_text: {T}, Add: {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice Andyir Sigil: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CA01 Ornek Sigil
+rules_text: {T}, Add: {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice Ornek Sigil: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CA03 Mulladock Sigil
+rules_text: {T}, Add: {B}, {R}, or {G}.
+{B}{R}{G}, {T}, Sacrifice Mulladock Sigil: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {B}, {R}, or {G}.
+{B}{R}{G}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CA05 Kronaea Sigil
+rules_text: {T}, Add: {G}, {W}, or {U}.
+{G}{W}{U}, {T}, Sacrifice Kronaea Sigil: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {G}, {W}, or {U}.
+{G}{W}{U}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+CA02 Revosh Sigil
+rules_text: {T}, Add: {U}, {B}, or {R}.
+{U}{B}{R}, {T}, Sacrifice Revosh Sigil: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}, Add: {U}, {B}, or {R}.
+{U}{B}{R}, {T}, Sacrifice this artifact: Draw a card. If you control a historic permanent, draw two cards instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UX10 Restoration Architect
+type: Creature — Giant Warrior => Creature — Giant Warrior Wizard
+
+UX03 Scornful Flightless
+rules_text: As long as there are three or more cards in exile, this creature gets +1/+1 and has flying.
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, target opponent loses 2 life. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => As long as there are three or more cards in exile, this creature gets +1/+1 and has flying.
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, each opponent loses 2 life. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UX06 Resurger Salvage Rig
+rules_text: Whenever this vehicle attacks, you may sacrifice another artifact or creature. If you do, create two 2/2 black Mutant artifact creature tokens.
+Crew 2
+Reforge {2}{B}{R} [i]({2}{B}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Whenever this Vehicle attacks, you may sacrifice another artifact or creature. If you do, create two 2/2 black Mutant artifact creature tokens.
+Crew 2
+Reforge {5}{B}{R} [i]({5}{B}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UX04 Insightful Excavation
+rules_text: Each player mills three cards, then you may exile up to one target card from each player's graveyard. Draw a card for each historic card exiled this way. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i] => Each player mills three cards, then you may exile up to one target card from each player's graveyard. Then draw a card for each historic card exiled this way. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Excavate 2 [i](At the beginning of your upkeep, you may mill two cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+CL06 Terramorphic Expanse
+
+CL07 Planar Hub
+
+UX26 Survey Resurgent
+
+MX16 The Stability Anchor
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Permanents you control enter untapped.
+Permanents you opponents control enter tapped.
+{5}, Exile The Stability Anchor: Its owner draws two cards and gains 2 life. Any player may activate this ability as a sorcery. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Permanents you control enter untapped.
+Permanents you opponents control enter tapped.
+{5}, Exile this artifact: Its owner draws two cards and gains 2 life. Any player may activate this ability as a sorcery.
+
+UX18 Scrap-Driver Chief
+rules_text: Haste
+Whenever this creature attacks, you may sacrifice an artifact or creature. If you do, create two tapped Junk tokens.
+Reforge {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Haste
+Whenever this creature attacks, you may sacrifice an artifact or creature. If you do, create two tapped Junk tokens.
+Reforge {2}{B}{R}{G} [i]({2}{B}{R}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UX21 Andyir Duskwatch
+rules_text: Haste
+Tapped creatures you control can block as though they were untapped.
+Tap three untapped creatures you control: Return target permanent card from your graveyard to your hand. Activate only as a sorcery. => Haste
+Tapped creatures you control can block as though they were untapped.
+Tap three untapped creatures you control: Return target permanent card from your graveyard to your hand. Activate only as a sorcery and only once each turn.
+
+UX28 Chromatic Sigil
+rules_text: {T}: Add one mana of any color.
+{1}, {T}: Add two mana in any combinations of colors. Use this mana only to cast historic spells or activate abilities of historic permanents. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}: Add one mana of any color.
+{1}, {T}: Add two mana in any combinations of colors. Use this mana only to cast historic spells or activate abilities of historic permanents and historic cards in your graveyard. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UW13 The Disruption of Balance
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain vigilance until end of turn.
+II — Tap target creature an opponent controls.
+III — Tap target creature you control. You gain 2 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain vigilance until end of turn.
+II — Tap target creature an opponent controls.
+III — Tap target creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain vigilance until end of turn.
+II — Tap target creature an opponent controls.
+III — Tap target creature you control. You gain 2 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain vigilance until end of turn.
+II — Tap target creature an opponent controls.
+III — Tap target creature you control.
+
+UR12 Crash Out
+
+UR13 The Extinguishing of Passions
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain haste until end of turn.
+II — This Saga deals 3 damage to any target creature.
+III — This Saga deals 2 damage to each creature and each player. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain haste until end of turn.
+II — This Saga deals 3 damage to target creature.
+III — This Saga deals 1 damage to each creature and each player.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain haste until end of turn.
+II — This Saga deals 3 damage to any target creature.
+III — This Saga deals 2 damage to each creature and each player. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain haste until end of turn.
+II — This Saga deals 3 damage to target creature.
+III — This Saga deals 1 damage to each creature and each player.
+
+UG12 Scrap for Parts
+rules_text: Destroy target artifact or enchantment. If that permanent's mana value was 3 or less, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Destroy target artifact or enchantment. If that permanent's mana value was 2 or less, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+UG13 The Sundering of Community
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Until end of turn, creatures you control gain defender. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Creatures you control gain defender until end of turn. [i](They can't attack.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Until end of turn, creatures you control gain defender. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain trample until end of turn.
+II — Distribute three +1/+1 counters among up to three target creatures.
+III — Creatures you control gain defender until end of turn. [i](They can't attack.)[/i]
+
+UB13 The Fracturing of Morals
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain menace until end of turn.
+II — Until end of turn, whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+III — You lose 2 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain menace until end of turn.
+II — Whenever a creature you control dies this turn, each opponent loses 1 life and you gain 1 life.
+III — You lose 3 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain menace until end of turn.
+II — Until end of turn, whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+III — You lose 2 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control gain menace until end of turn.
+II — Whenever a creature you control dies this turn, each opponent loses 1 life and you gain 1 life.
+III — You lose 3 life.
+
+MX06 Dustchurner, The Capital Rig
+rules_text: Trample, menace
+Sacrifice another historic permanent or a land: Choose one that hasn't been chosen yet this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Create a Junk token.
+• Create a 2/2 black Mutant artifact creature token.
+• Dustchurner becomes an artifact creature in addition to its other types until end of turn.
+Reforge {2}{R} => Trample, menace
+Sacrifice another historic permanent or a land: Choose one that hasn't been chosen yet this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Create a Junk token.
+• Create a 2/2 black Mutant artifact creature token.
+• Dustchurner becomes an artifact creature in addition to its other types until end of turn.
+Reforge {3}{B}{R}{G}
+
+RX30 Ignotia's Core
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+As long as there are ten or more permanent cards in your graveyard, this land has “Whenever a historic permanent becomes untapped, that permanent's controller mills a card.” [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+As long as there are ten or more historic permanent cards in your graveyard, this land has “Whenever a historic permanent becomes untapped, that permanent's controller mills a card.” [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+RX27 Dredging Station
+rules_text: At the beginning of your upkeep, you may pay {2}. If you do, mill three cards, then return target card from your graveyard to your hand.
+Whenever one or more cards leave your graveyard, choose one of those cards. Each opponent loses life equal to the chosen card's mana value. => At the beginning of your upkeep, you may pay {2}. If you do, mill three cards, then return up to one target card from your graveyard to your hand.
+Whenever one or more cards leave your graveyard, choose one of those cards. Each opponent loses life equal to the chosen card's mana value.
+
+RX29 Effigy, Solemn Rembrant
+
+RX05 Kafri, Ignotia's Hope
+
+RX17 Igniting the Forge
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to two cards from your graveyard. Create a 2/2 black Mutant artifact creature token for each card exiled this way.
+III — This Saga deals X damage to any target, where X is equal to the number of artifacts you control.
+This enchantment deals X damage to any target, where X is equal to the number of artifacts you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to two target cards from your graveyard. Create a 2/2 black Mutant artifact creature token for each card exiled this way.
+III — This Saga deals X damage to any number of targets divided as you choose, where X is equal to the number of artifacts you control.
+This enchantment deals X damage to any target, where X is equal to the number of artifacts you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to two cards from your graveyard. Create a 2/2 black Mutant artifact creature token for each card exiled this way.
+III — This Saga deals X damage to any target, where X is equal to the number of artifacts you control.
+This enchantment deals X damage to any target, where X is equal to the number of artifacts you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to two target cards from your graveyard. Create a 2/2 black Mutant artifact creature token for each card exiled this way.
+III — This Saga deals X damage to any number of targets divided as you choose, where X is equal to the number of artifacts you control.
+This enchantment deals X damage to any target, where X is equal to the number of artifacts you control.
+
+RX34 The Founding Lands
+rules_text: This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{2}{R}{G}{W}: Create two 1/1 green Warrior creature token with vigilance. Then shuffle target card from your graveyard into your library. => This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{1}{R}{G}{W}: Create two 1/1 green Warrior creature token with vigilance. Then shuffle target card from your graveyard into your library.
+
+UX32 Desolate Ruins
+
+UW02 Gritmettle Martyr
+rules_text: Sacrifice this creature: Embark 3, then up to two target creatures you control gain indestructible until end of turn. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => When this creature dies, embark 3. [i](Reveal the top three cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+Sacrifice this creature: Up to two target creatures you control gain indestructible until end of turn.
+pt: 2/2 => 1/1
+
+UW12 Empowered By Faith
+rules_text: As an additional to cast this spell, you may tap two untapped creatures you control.
+Put a +1/+1 counters on each creature you control. If the additional cost was paid, put an additional +1/+1 counter on each creature you control, then untap all creatures you control. => As an additional to cast this spell, you may tap two untapped creatures you control.
+Put a +1/+1 counter on each creature you control. If the additional cost was paid, put an additional +1/+1 counter on each creature you control, then untap all creatures you control.
+
+RX03 Colossal Gearwurm
+cost: {7}{B}{R} => {6}{B}{R}
+rules_text: This spell costs {1} less to cast for each Junk you control.
+Trample, haste
+When this creature enters, for each player, destroy up to one target artifact that player controls. 
+When this creature dies, create a number of Junk tokens equal to its toughness.
+Reforge {5}{B}{R} => Trample, haste
+When this creature enters, for each player, destroy up to one target artifact that player controls. 
+When this creature dies, create a number of Junk tokens equal to its toughness.
+Reforge {8}{B}{R} [i]({8}{B}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+RR03 Hal'kar, Ravenous Gearwurm
+rules_text: Trample, haste
+{T}, Sacrifice another nonland permanent: Add X mana of any one color where X is that permanent's mana value. If a historic permanent was sacrificed this way, create a Junk token.
+Reforge {4}{BR} [i]({4}{BR}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Trample, haste
+{T}, Sacrifice another nonland permanent: Add X mana of any one color, where X is that permanent's mana value. If a historic permanent was sacrificed this way, create a Junk token.
+Reforge {4}{BR} [i]({4}{BR}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+CZ03 Defiant Gearwurm
+rules_text: Trample
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Reforge {3}{R} [i]({3}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Trample
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Reforge {2}{B}{R}{G} [i]({2}{B}{R}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+UG03 Scrapmongrel Resurgent
+rules_text: When this creature enters, you may have it deal damage equal to its power to target creature an opponent controls. Excess damage is dealt to that creature's controller instead.
+When this creature dies, create a Junk token.
+Reforge {2}{G} [i]({2}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => When this creature enters, you may have it deal damage equal to its power to target creature an opponent controls. Excess damage is dealt to that creature's controller instead.
+When this creature dies, create a Junk token.
+Reforge {4}{G} [i]({4}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+RX14 Rava, Chief Engineer
+rules_text: If one or more tokens would be created under your control, those tokens plus an additional token copy of one of those tokens are created instead. They each gain haste until end of turn.
+At the beginning of your end step, sacrifice a token. If you do, draw a card. => If one or more tokens would be created under your control, those tokens plus an additional token that's a copy of one of those tokens are created instead. They each gain haste until end of turn.
+At the beginning of your end step, sacrifice a token. When you do, draw a card.
+
+MX10 Balrra, Life-Giving Aspect
+rules_text: Flying, lifelink
+Token creatures you control get +1/+1 and have flying.
+Whenever a noncreature permanent you control enters from anywhere other than your hand, you may pay {2}. If you do, create a token that's a copy of that permanent, except it isn't legendary and it's a 2/1 Elemental Spirit creature in addition to its other types. => Flying, lifelink
+Creature tokens you control get +1/+1 and have flying.
+Whenever a noncreature permanent you control enters from anywhere other than your hand, you may pay {2}. If you do, create a token that's a copy of that permanent, except it isn't legendary and it's a 2/1 Elemental Spirit creature in addition to its other types.
+
+MU02 Archive Counting Crow
+rules_text: Flying
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create a token that is a copy of this creature. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Flying
+[i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create a token that's a copy of this creature. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+MW02 Terlaa, Sheltering Aspect
+rules_text: [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create two 2/1 colorless Elemental Spirit creature tokens. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{4}{W}, {T}: Creatures you control gain indestructible until your next turn. => [i]Legacy[/i] — Whenever one or more historic permanents leave your battlefield, or one or more historic cards leave your graveyard, create two 2/1 colorless Elemental Spirit creature tokens. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{2}{W}, {T}: Creatures you control gain indestructible until end of turn.
+
+RX12 Relicant II, Augership
+pt: 6/6 => 4/6
+
+CU13 Keeping Time
+cost: {3}{U} => {2}{U}
+
+UX13 Relvik, Seasoned Mythkeeper
+rules_text: Flying
+When Relvik enters, you may chronicle up to two cards from your graveyard or the top of your library. If you do, create X tapped 1/1 blue Bird artifact creature tokens with flying, where X is the number of cards you own in exile with chronicle counters on them. [i](Exile it with a chronicle counter on it.)[/i] => Flying
+When Relvik enters, you may chronicle up to two cards from your graveyard or from the top of your library. If you do, create X tapped 1/1 blue Bird artifact creature tokens with flying, where X is the number of cards you own in exile with chronicle counters on them. [i](Exile it with a chronicle counter on it.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW01 Ruins Raptor added.
