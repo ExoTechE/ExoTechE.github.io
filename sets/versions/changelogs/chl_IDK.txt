@@ -1,4 +1,20 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+UX08 Survey Corp Nomad
+rules_text: Whenever one more creatures you control enter, you may embark X, where X one plus is the number of creatures that entered. This ability triggers only once each turn. [i](Reveal the top X cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i] => Whenever one more creatures you control enter, you may embark X, where X is equal to one plus the number of creatures that entered. This ability triggers only once each turn. [i](Reveal the top X cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.)[/i]
+
+UX06 Resurger Salvage Rig
+rules_text: Whenever this Vehicle attacks, you may sacrifice another artifact or creature. If you do, create two 2/2 black Mutant artifact creature tokens.
+Crew 2
+Reforge {5}{B}{R} [i]({5}{B}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i] => Whenever this Vehicle attacks, you may sacrifice another artifact or creature. If you do, create two 2/2 black Mutant artifact creature tokens.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Reforge {5}{B}{R} [i]({5}{B}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an artifact in addition to its other types. Reforge only as a sorcery.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 UX28 Chromatic Crystal added.
