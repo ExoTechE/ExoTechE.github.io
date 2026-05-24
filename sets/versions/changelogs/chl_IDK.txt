@@ -1,4 +1,62 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+CW02 Unity Talisman
+rules_text: When this artifact enters or is put into the graveyard from the battlefield, create a 2/1 colorless Elemental Spirit creature token.
+{1}{W}: Sacrifice this artifact: Draw a card. => When this artifact enters or is put into a graveyard from the battlefield, create a 2/1 colorless Elemental Spirit creature token.
+{1}{W}: Sacrifice this artifact: Draw a card.
+
+CW04 Precious Data
+rules_text: When this artifact enters, if you have three or more cards in exile, create a 2/2 blue Bird artifact creature tokens with flying.
+{T}, Sacrifice this artifact: Add one mana of any color. => When this artifact enters, if you have three or more cards in exile, create a 1/1 blue Bird artifact creature token with flying.
+{T}, Sacrifice this artifact: Add one mana of any color.
+
+CU14 Serenity Talisman
+rules_text: When this artifact enters or is put into the graveyard from the battlefield, draw a card, then discard a card.
+{1}{U}, Sacrifice this artifact: Draw a card. => When this artifact enters or is put into a graveyard from the battlefield, draw a card, then discard a card.
+{1}{U}, Sacrifice this artifact: Draw a card.
+
+CR01 Pebble Pusher
+pt: 1/2 => 1/1
+
+CG12 Harmony Talisman
+rules_text: When this artifact enters or is put into the graveyard from the battlefield, put a +1/+1 counter on target creature. It gains trample until end of turn.
+{1}{G}: Sacrifice this artifact: Draw a card. => When this artifact enters or is put into a graveyard from the battlefield, put a +1/+1 counter on target creature. It gains trample until end of turn.
+{1}{G}: Sacrifice this artifact: Draw a card.
+
+UW03 Veik, Surveillance Scout
+rules_text: Flying
+Whenever Veik or another nontoken creature you control enters, if a card was put into exile this turn, surveil 1, then draw a card. This ability triggers only once each turn. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Flying
+At the beginning of each end step, if a card you own was put into exile from anywhere this turn, surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+UW10 Expansionist's Anvil
+rules_text: {1}{W}, {T}: Create a token that's a copy of target noncreature permanent you control that entered this turn. Activate only as a sorcery.
+If one or more tokens would be created under your control, those tokens plus an additional 2/1 colorless Elemental Spirit creature token are created instead. => {1}{W}, {T}: Create a token that's a copy of another target noncreature, nontoken permanent you control that entered this turn. Activate only as a sorcery.
+If one or more tokens would be created under your control, those tokens plus an additional 2/1 colorless Elemental Spirit creature token are created instead.
+
+RX02 Planar Bore
+rules_text: At the beginning of your upkeep, each player draws a card.
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and they mill that many cards instead.
+Excavate 5 [i](At the beginning of your upkeep, you may mill five cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i] => At the beginning of your upkeep, each player draws a card.
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and mills a card.
+Excavate 5 [i](At the beginning of your upkeep, you may mill five cards. If you do, return this card from your graveyard to your hand. Excavate only once each turn.)[/i]
+
+UU05 Warcaver Brigade
+rules_text: This creature can't be blocked by creatures with power 2 or greater
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn. => This creature can't be blocked by creatures with power 2 or greater.
+Whenever a card is put into your graveyard during your turn, this creature gets +1/+0 until end of turn.
+
+RX34 The Founding Lands
+rules_text: This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{1}{R}{G}{W}: Create two 1/1 green Warrior creature token with vigilance. Then shuffle target card from your graveyard into your library. => This land enters tapped unless you reveal a historic card from your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{1}{R}{G}{W}: Create two 1/1 green Warrior creature tokens with vigilance, then shuffle target card from your graveyard into your library.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
